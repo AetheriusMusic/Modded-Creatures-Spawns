@@ -1,0 +1,6 @@
+[MERGE]
+CREATURES
+(X-Rivulet,Saint,Inv)OFFSCREEN : 0-Bombadier-1
+(Red,Gourmand,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.4, Bombadier-0
+END CREATURES
+[ENDMERGE]

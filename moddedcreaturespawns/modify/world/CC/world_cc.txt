@@ -1,0 +1,11 @@
+[MERGE]
+CREATURES
+(White)LINEAGE : OFFSCREEN : 0 : NONE-0.2, Bombadier-0
+(Red)OFFSCREEN : 0-Vulture-4, 0-KingVulture-3, 0-Scavenger-7, 0-Elite-1, 0-Bombadier-2
+(Gourmand)OFFSCREEN : 0-Vulture-3, 0-KingVulture-1, 0-Scavenger-4, 0-Bombadier-2
+(Artificer)OFFSCREEN : 0-Vulture-3, 0-KingVulture-4, 0-Scavenger-15, 0-Elite-2, 0-Bombadier-1
+(Spear)OFFSCREEN : 0-Vulture-3, 0-KingVulture-4, 0-Scavenger-11, 0-Elite-2, 0-Bombadier-1
+(Artificer,Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.5, Bombadier-0
+(Rivulet)LINEAGE : OFFSCREEN : 0 : NONE-0.2, Bombadier-0
+END CREATURES
+[ENDMERGE]
