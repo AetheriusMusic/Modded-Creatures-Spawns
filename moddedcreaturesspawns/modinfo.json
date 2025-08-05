@@ -1,21 +1,23 @@
 {
   "id": "aetherius.moddedcreaturesspawns",
   "name": "Modded Creatures Spawns",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "hide_version": false,
   "target_game_version": "v1.10.4",
   "authors": "Aetherius",
-  "description": "Adds various modded creatures spawns to Vanilla and Downpour regions (Watcher regions not included!).<LINE>Currently only adds spawns for the Bombardier Vulture and the King Miros Vulture, more coming soon!",
+  "description": "Adds various modded creatures spawns to Vanilla and Downpour regions (Watcher regions not included!).<LINE>Currently only adds spawns for the Bombardier Vulture, the King Miros Vulture and the Fire Vulture, more coming soon!",
   "youtube_trailer_id": "",
   "requirements": [
     "moreslugcats",
+    "Croken.bombardier-vulture",
     "nonescreatures",
-    "Croken.bombardier-vulture"
+    "lb-fgf-m4r-ik.modpack"
   ],
   "requirements_names": [
     "More Slugcats Expansion",
+    "Bombardier Vulture",
     "None's Creature Pack",
-    "Bombardier Vulture"
+    "The M4rblelous Entity Pack"
   ],
   "priorities": [],
   "tags": [

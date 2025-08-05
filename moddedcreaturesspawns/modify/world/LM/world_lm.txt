@@ -1,0 +1,15 @@
+[MERGE]
+
+CREATURES
+
+
+
+(Spear)LINEAGE : OFFSCREEN : 0 : KingMiros-{IgnoreCycle}-0
+(Spear)LINEAGE : OFFSCREEN : 0 : KingMiros-{IgnoreCycle}-0
+(Spear)LINEAGE : OFFSCREEN : 0 : KingMiros-{IgnoreCycle}-0
+
+
+
+END CREATURES
+
+[ENDMERGE]

@@ -4,7 +4,10 @@ CREATURES
 
 
 
+(Yellow,White,Red,Gourmand,Rivulet)LINEAGE : OFFSCREEN : 0 : NONE-0.5, FatFireFly-0
+
 (Yellow,White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : Bombadier-0
+(Yellow,White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : FatFireFly-0
 
 (Red,Gourmand,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.2, Bombadier-0
 

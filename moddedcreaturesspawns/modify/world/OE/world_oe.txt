@@ -4,6 +4,8 @@ CREATURES
 
 
 
+(Yellow,White,Gourmand)LINEAGE : OFFSCREEN : 0 : NONE-0.8, NONE-0.6, FatFireFly-0
+
 (White,Gourmand)LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.5, Bombadier-0
 
 

@@ -1,0 +1,15 @@
+[MERGE]
+
+CREATURES
+
+
+
+(Yellow,White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : FatFireFly-0
+
+(Rivulet)LINEAGE : OFFSCREEN : 0 : NONE-0.2, NONE-0.5, FatFireFly-0
+
+
+
+END CREATURES
+
+[ENDMERGE]
