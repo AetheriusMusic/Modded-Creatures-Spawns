@@ -1,0 +1,23 @@
+[MERGE]
+
+CREATURES
+
+
+
+(White)LINEAGE : OFFSCREEN : 0 : NONE-0.2, Bombadier-0
+
+(Red,Gourmand)LINEAGE : OFFSCREEN : 0 : Bombadier-0
+(Red,Gourmand)LINEAGE : OFFSCREEN : 0 : Bombadier-0
+
+(Artificer,Spear)LINEAGE : OFFSCREEN : 0 : Bombadier-0
+(Artificer,Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.5, Bombadier-0
+
+(Rivulet)LINEAGE : OFFSCREEN : 0 : NONE-0.2, Bombadier-0
+
+(Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{Night}-0
+
+
+
+END CREATURES
+
+[ENDMERGE]

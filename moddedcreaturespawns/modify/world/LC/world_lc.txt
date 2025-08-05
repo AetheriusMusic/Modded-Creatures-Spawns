@@ -1,7 +1,0 @@
-[MERGE]
-CREATURES
-OFFSCREEN : 0-Bombadier-{IgnoreCycle}-1
-OFFSCREEN : 0-Bombadier-1
-OFFSCREEN : 0-Bombadier-{Night}-1
-END CREATURES
-[ENDMERGE]

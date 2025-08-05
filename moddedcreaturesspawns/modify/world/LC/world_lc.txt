@@ -1,0 +1,16 @@
+[MERGE]
+
+CREATURES
+
+
+
+(Artificer)LINEAGE : OFFSCREEN : 0 : Bombadier-0
+(Artificer)LINEAGE : OFFSCREEN : 0 : Bombadier-0
+(Artificer)LINEAGE : OFFSCREEN : 0 : Bombadier-0
+(Artificer)LINEAGE : OFFSCREEN : 0 : Bombadier-{Night}-0
+
+
+
+END CREATURES
+
+[ENDMERGE]

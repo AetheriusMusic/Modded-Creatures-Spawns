@@ -1,0 +1,13 @@
+[MERGE]
+
+CREATURES
+
+
+
+(Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{Night}-0
+
+
+
+END CREATURES
+
+[ENDMERGE]

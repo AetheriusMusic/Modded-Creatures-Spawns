@@ -1,0 +1,15 @@
+[MERGE]
+
+CREATURES
+
+
+
+(Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-0
+(Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-0
+(Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-0
+
+
+
+END CREATURES
+
+[ENDMERGE]
