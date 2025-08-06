@@ -1,14 +1,26 @@
 //More Slugcats
 
+[FIND]DS_B07 : 4-Salamander, 5-Snail, 6-Snail, 7-Snail
+[REPLACE]DS_B07 : 4-Salamander, 5-Snail, 6-Snail, 9-Snail
+[FIND]DS_B07 : 4-Eel, 5-Snail, 6-Snail, 7-Snail
+[REPLACE]DS_B07 : 4-Eel, 5-Snail, 6-Snail, 9-Snail
+[FIND]DS_B07 : 3-DropBug-3, 4-Cyan-3, 5-Snail, 6-Snail, 7-Snail
+[REPLACE]DS_B07 : 3-DropBug-3, 4-Cyan-3, 5-Snail, 6-Snail, 9-Snail
+[FIND]DS_B07 : 3-DropBug-3, 4-Red-3, 5-Snail, 6-DropBug, 7-DropBug
+[REPLACE]DS_B07 : 3-DropBug-3, 4-Red-3, 5-Snail, 6-DropBug, 9-DropBug
+
 [FIND]LINEAGE : DS_A09 : 2 :
 [REPLACE]LINEAGE : DS_A09 : 3 :
 [FIND]DS_A09 : 2-
 [REPLACE]DS_A09 : 3-
 
+
+
 //Modded Creatures Spawns
 
 [FIND]DS_A09 : 3-WaterBlob
 [REPLACE]DS_A09 : 2-WaterBlob
+
 
 [MERGE]
 
@@ -16,7 +28,12 @@ ROOMS
 
 
 
+DS_A01 : DS_A06 : SWARMROOM
 DS_A09 : DS_A19, DS_A23
+DS_B02 : GATE_SU_DS, DS_A22
+DS_B04 : DS_A19, DS_A08
+DS_B07 : DS_A08, DS_C04, DS_A24 : SWARMROOM
+DS_RIVSTART : DS_GUTTER04
 
 
 
@@ -28,14 +45,30 @@ CREATURES
 
 
 
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)DS_A01 : 1-WaterBlob-2, 2-WaterBlob-2
 
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)DS_A09 : 2-WaterBlob-3
+(Yellow,White,Red,Gourmand,Rivulet)DS_A09 : 2-WaterBlob-3
+//Adding and adjusting these broken Vanilla spawns
+(Artificer,Spear)DS_A09 : 3-DropBug-2, 2-WaterBlob-3
+(Inv)DS_A09 : 3-DropBug-2
 
-//Adding and adjusting this broken More Slugcats spawn
-(Artificer,Spear,Inv)DS_A09 : 3-DropBug-2
+(White,Red,Gourmand,Artificer,Spear)DS_B02 : 4-WaterBlob-2, 7-WaterBlob-2, 2-MiniBlackLeech-6, 3-MiniBlackLeech-6, 5-MiniBlackLeech-6, 6-MiniBlackLeech-6, 8-MiniBlackLeech-6
+(Yellow,Rivulet)DS_B02 : 4-WaterBlob-2, 7-WaterBlob-2
+
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)DS_B04 : 13-WaterBlob-2, 14-WaterBlob-2
+
+//Adding and adjusting these broken Vanilla spawns
+(Red)DS_B07 : 3-DropBug-3, 4-Cyan-3, 5-Snail, 6-Snail, 9-Snail, 7-WaterBlob-1, 8-WaterBlob-2
+(White,Gourmand)DS_B07 : 4-Salamander, 5-Snail, 6-Snail, 9-Snail, 7-WaterBlob-1, 8-WaterBlob-2
+(Rivulet,Yellow)DS_B07 : 4-Eel, 5-Snail, 6-Snail, 9-Snail, 7-WaterBlob-1, 8-WaterBlob-2
+(Artificer,Spear)DS_B07 : 3-DropBug-3, 4-Cyan-3, 5-Snail, 6-Snail, 9-Snail, 7-WaterBlob-1, 8-WaterBlob-2
+(Inv)DS_B07 : 3-DropBug-3, 4-Red-3, 5-Snail, 6-DropBug, 9-DropBug
+
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)DS_RIVSTART : 3-WaterBlob-2, 4-WaterBlob-2, 5-WaterBlob-2, 6-WaterBlob-2
 
 
 
 END CREATURES
+
 
 [ENDMERGE]
