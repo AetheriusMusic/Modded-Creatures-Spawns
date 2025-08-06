@@ -4,6 +4,15 @@ CREATURES
 
 
 
+(Yellow,White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : MiniLeviathan-0
+(Yellow,White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : MiniLeviathan-0
+(White,Red,Gourmand,Rivulet)LINEAGE : OFFSCREEN : 0 : MiniLeviathan-0
+(Red,Gourmand,Rivulet)LINEAGE : OFFSCREEN : 0 : MiniLeviathan-0
+
+(Yellow,White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : NONE-0.6, NONE-0.5, NONE-0.4, NONE-0.3, MiniLeviathan-0
+
+(Gourmand)LINEAGE : OFFSCREEN : 0 : Leviathan-0
+
 (Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{IgnoreCycle}-0
 (Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{IgnoreCycle}-0
 (Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{IgnoreCycle}-0

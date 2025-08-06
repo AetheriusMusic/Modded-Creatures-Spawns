@@ -1,0 +1,41 @@
+//More Slugcats
+
+[FIND]LINEAGE : DS_A09 : 2 :
+[REPLACE]LINEAGE : DS_A09 : 3 :
+[FIND]DS_A09 : 2-
+[REPLACE]DS_A09 : 3-
+
+//Modded Creatures Spawns
+
+[FIND]DS_A09 : 3-WaterBlob
+[REPLACE]DS_A09 : 2-WaterBlob
+
+[MERGE]
+
+ROOMS
+
+
+
+DS_A09 : DS_A19, DS_A23
+
+
+
+END ROOMS
+
+
+
+CREATURES
+
+
+
+
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)DS_A09 : 2-WaterBlob-3
+
+//Adding and adjusting this broken More Slugcats spawn
+(Artificer,Spear,Inv)DS_A09 : 3-DropBug-2
+
+
+
+END CREATURES
+
+[ENDMERGE]

@@ -6,7 +6,7 @@ CREATURES
 
 (Yellow)LINEAGE : OFFSCREEN : 0 : NONE-0.2, Bombadier-0
 
-(Artificer)LINEAGE : OFFSCREEN : 0 : NONE-0.4, NONE-0.2, FatFireFly-{AlternateForm}-0
+(Artificer)LINEAGE : OFFSCREEN : 0 : NONE-0.4, NONE-0.2, FatFireFly-0
 
 (Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.8, NONE-0.4, FatFireFly-0
 

@@ -1,11 +1,11 @@
 {
   "id": "aetherius.moddedcreaturesspawns",
   "name": "Modded Creatures Spawns",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "hide_version": false,
   "target_game_version": "v1.10.4",
   "authors": "Aetherius",
-  "description": "Adds various modded creatures spawns to Vanilla and Downpour regions (Watcher regions not included!).<LINE>Currently only adds spawns for the Bombardier Vulture, the King Miros Vulture and the Fire Vulture, more coming soon!",
+  "description": "Adds various modded creatures spawns to Vanilla and Downpour regions (Watcher regions not included!).<LINE>Currently only adds spawns for the Bombardier Vulture, the King Miros Vulture, the Fire Vulture, the Echo Leviathan (and its Mini variant) and the Mini Leviathan, more coming soon!",
   "youtube_trailer_id": "",
   "requirements": [
     "moreslugcats",
