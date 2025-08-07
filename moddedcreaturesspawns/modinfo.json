@@ -1,11 +1,11 @@
 {
   "id": "aetherius.moddedcreaturesspawns",
   "name": "Modded Creatures Spawns",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "hide_version": false,
   "target_game_version": "v1.10.4",
   "authors": "Aetherius",
-  "description": "Adds various modded creatures spawns to Vanilla and Downpour regions (Watcher regions not included!).<LINE>Currently only adds spawns for the Bombardier Vulture, the King Miros Vulture, the Fire Vulture, the Echo Leviathan (and its Mini variant), the Mini Leviathan and the Water Blob, more coming soon!",
+  "description": "Adds various modded creatures spawns to Vanilla and Downpour regions (Watcher regions not included!).<LINE>This mod is constantly getting updated, way more creatures are yet to be added!",
   "youtube_trailer_id": "",
   "requirements": [
     "moreslugcats",
@@ -19,7 +19,11 @@
     "None's Creature Pack",
     "The M4rblelous Entity Pack"
   ],
-  "priorities": [],
+  "priorities": [
+    "screen-lady.notsosimplespawns",
+    "ShinyKelp.ApexUpYourSpawns",
+    "WCIVCIDWPW"
+  ],
   "tags": [
     "Creatures",
     "Base",
