@@ -1,12 +1,8 @@
-//More Slugcats
+//Rain World
 [FIND]LINEAGE : DS_A09 : 2 :
 [REPLACE]LINEAGE : DS_A09 : 3 :
 [FIND]LINEAGE : DS_A06 : 3 :
 [REPLACE]LINEAGE : DS_A06 : 6 :
-
-//Modded Creatures Spawns
-[FIND]DS_A09 : 3-WaterBlob
-[REPLACE]DS_A09 : 2-WaterBlob
 
 [MERGE]
 

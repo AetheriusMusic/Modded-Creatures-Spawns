@@ -1,4 +1,20 @@
+//Rain World
+[FIND]LINEAGE : LF_E04 : 5 :
+[REPLACE]LINEAGE : LF_E04 : 9 :
+
 [MERGE]
+
+ROOMS
+
+LF_A10 : LF_E03, LF_D02 : SWARMROOM
+LF_D02 : LF_A10, LF_D06, LF_E01
+LF_D04 : LF_A14, LF_B05, LF_A11
+LF_D06 : LF_S01, LF_D02, LF_A01, LF_D09 : SWARMROOM
+LF_E04 : LF_A03, LF_A04
+LF_H01 : LF_A03, LF_A05, LF_A15, LF_M01 : PERF_HEAVY
+LF_M04 : LF_M05, LF_M03
+
+END ROOMS
 
 CREATURES
 
@@ -9,6 +25,45 @@ CREATURES
 (Artificer)LINEAGE : OFFSCREEN : 0 : NONE-0.4, NONE-0.2, FatFireFly-0
 
 (Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.8, NONE-0.4, FatFireFly-0
+
+
+
+(Yellow,White,Gourmand,Red)LF_A10 : 2-AngryMosquito-2, 3-AngryMosquito-2
+(Artificer,Spear)LF_A10 : 2-AngryMosquito-3, 3-AngryMosquito-2
+(Rivulet)LF_A10 : 2-AngryMosquito-1, 3-AngryMosquito-1
+
+(Yellow,White,Red,Gourmand,Artificer,Rivulet,Spear)LF_D02 : 5-BigNeedleWorm, 5-SmallNeedleWorm-2, 3-Mosquito-2, 4-Mosquito-1
+(Artificer,Spear)LF_D02 : 5-BigNeedleWorm, 5-SmallNeedleWorm-2, 3-AngryMosquito-3, 4-AngryMosquito-3
+(Rivulet)LF_D02 : 5-BigNeedleWorm, 5-SmallNeedleWorm-2, 3-AngryMosquito-2, 4-AngryMosquito-2
+(Saint)LF_D02 : 5-Centiwing
+
+(Yellow,White,Gourmand,Red)LF_D04 : 6-CicadaA-3, 3-Mosquito-2, 4-AngryMosquito-1, 5-Mosquito-1, 7-AngryMosquito-1
+(Artificer,Spear)LF_D04 : 6-CicadaA-3, 3-AngryMosquito-2, 4-AngryMosquito-1, 5-Mosquito-1, 7-AngryMosquito-1
+(Rivulet)LF_D04 : 6-CicadaA-3, 3-AngryMosquito-2, 4-AngryMosquito-2, 5-Mosquito-1, 7-AngryMosquito-1
+(Saint)LF_D04 : 6-Centiwing-2
+
+//Adding and adjusting these broken Vanilla spawns
+(Yellow,White,Gourmand)LF_D06 : 5-Small Centipede-2, 4-Small Centipede-2, 5-Mosquito-1, 6-AngryMosquito-2, 7-Mosquito-1
+(Red)LF_D06 : 5-Centipede, 5-Small Centipede-2, 4-Small Centipede-2, 5-Mosquito-1, 6-AngryMosquito-2, 7-Mosquito-1
+(Artificer,Spear)LF_D06 : 5-Centipede, 5-Small Centipede-2, 4-Small Centipede-2, 5-AngryMosquito-1, 6-AngryMosquito-1, 7-AngryMosquito-1
+(Rivulet)LF_D06 : 5-Mosquito-2, 6-AngryMosquito-1, 7-Mosquito-2
+(Inv)LF_D06 : 5-RedCentipede
+
+//Adding and adjusting these broken Vanilla spawns
+(Yellow,White,Gourmand)LF_E04 : 2-AngryMosquito-2, 3-Mosquito-1, 4-AngryMosquito-1, 5-Mosquito-2
+(Red)LF_E04 : 7-Centipede, 2-AngryMosquito-2, 4-Mosquito-2
+(Rivulet)LF_E04 : 9-Caramel, 2-AngryMosquito-2, 3-Mosquito-2, 4-AngryMosquito-2, 5-Mosquito-2
+(Artificer,Spear)LF_E04 : 7-Centipede, 2-AngryMosquito-2, 4-AngryMosquito-2
+(Inv)LF_E04 : 7-RedCentipede
+
+(Yellow,White)LF_H01 : 4-AngryMosquito-1, 5-Mosquito-1
+(Red,Gourmand)LF_H01 : 4-AngryMosquito-2, 5-Mosquito-2
+(Artificer,Spear)LF_H01 : 4-AngryMosquito-1, 5-AngryMosquito-2
+(Rivulet)LF_H01 : 4-AngryMosquito-3, 5-Mosquito-2
+
+(Yellow,White,Red,Gourmand)LF_M04 : 2-AngryMosquito-2, 3-Mosquito-2
+(Artificer,Spear)LF_M04 : 2-AngryMosquito-2, 3-AngryMosquito-2
+(Rivulet)LF_M04 : 2-AngryMosquito-3, 3-Mosquito-2
 
 
 

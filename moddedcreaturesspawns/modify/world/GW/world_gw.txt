@@ -1,4 +1,55 @@
+//Rain World
+[FIND]LINEAGE : GW_C09 : 5 :
+[REPLACE]LINEAGE : GW_C09 : 8 :
+[FIND]LINEAGE : GW_C09 : 6 :
+[REPLACE]LINEAGE : GW_C09 : 9 :
+
 [MERGE]
+
+CONDITIONAL LINKS
+
+// Artificer,Spear : EXCLUSIVEROOM : GW_B01_PAST
+// Artificer,Spear : EXCLUSIVEROOM : GW_B09_PAST
+// Artificer,Spear : EXCLUSIVEROOM : GW_C01_PAST
+// Artificer,Spear : EXCLUSIVEROOM : GW_C10_PAST
+// Artificer,Spear : EXCLUSIVEROOM : GW_D01_PAST
+// Artificer,Spear : HIDEROOM : GW_C10
+// Artificer,Spear : HIDEROOM : GW_D01
+
+
+// Artificer,Spear : GATE_HI_GW : GW_B01 : GW_B01_PAST
+// Artificer,Spear : GW_B01_PAST : 1 : GATE_HI_GW
+// Artificer,Spear : GW_B09_PAST : 1 : GATE_DS_GW
+// Artificer,Spear : GATE_DS_GW : GW_B09 : GW_B09_PAST
+// Artificer,Spear : GW_C10 : GW_E01 : DISCONNECTED
+// Artificer,Spear : GW_E01 : GW_C10 : GW_C10_PAST
+// Artificer,Spear : GW_E01 : GW_C10 : GW_C10_PAST
+// Artificer,Spear : GW_C10_PAST : 1 : GW_E01
+// Artificer,Spear : GW_C10 : GW_E01 : DISCONNECTED
+// Artificer,Spear : GW_E01 : GW_C10 : GW_C10_PAST
+// Artificer,Spear : GW_C10_PAST : 1 : GW_E01
+
+END CONDITIONAL LINKS
+
+
+
+ROOMS
+
+//GW_B01_PAST : GW_TOWER01, DISCONNECTED
+//GW_B09_PAST : GW_PIPE02, DISCONNECTED
+GW_C01 : GW_A01, GW_B04
+//GW_C01_PAST : GW_TOWER01, GW_TOWER07
+GW_C09 : GW_C08, GW_B05, GW_E01
+GW_C10 : GW_D02, GW_E01
+//GW_C10_PAST : GW_PIPE05, DISCONNECTED //REMOVE THIS AND UP
+GW_D01 : GW_B03, GW_B04, GW_A10 : SWARMROOM
+//GW_D01_PAST : GW_TOWER13, GW_TOWER07, GW_A10_PAST : SWARMROOM
+GW_E01 : GW_C09, GW_C10 : SWARMROOM
+GW_EDGE03 : GW_EDGE01, GW_EDGE05, GW_EDGE02
+
+END ROOMS
+
+
 
 CREATURES
 
@@ -13,6 +64,58 @@ CREATURES
 
 (Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{IgnoreCycle}-0
 (Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{IgnoreCycle}-0
+
+
+
+(Artificer,Spear)GW_B01_PAST : 9-Leech-10, 12-Garbage Worm-2, 6-CicadaA-2, 6-CicadaB-1, 2-AngryMosquito-1, 3-AngryMosquito-1, 4-Mosquito-1, 5-AngryMosquito-1
+
+(Artificer,Spear)GW_B09_PAST : 4-Leech-10, 6-Snail-2, 9-Garbage Worm-2, 2-AngryMosquito-1, 3-Mosquito-2
+
+(White,Gourmand,Red)GW_C01 : 11-Garbage Worm-4, 4-Leech-7, 6-Leech-7, 5-TentaclePlant-{PreCycle}, 4-Salamander-{PreCycle}, 2-Mosquito-3
+(Yellow)GW_C01 : 11-Garbage Worm-2, 4-Leech-7, 6-Leech-7, 5-TentaclePlant-{PreCycle}, 4-Salamander-{PreCycle}, 2-Mosquito-2
+(Rivulet)GW_C01 : 11-Garbage Worm-2, 4-Leech-7, 6-Leech-7, 5-Eel, 5-TentaclePlant-{PreCycle}, 4-Salamander-{PreCycle}, 2-Mosquito-1
+(Inv)GW_C01 : 11-Garbage Worm-4, 4-Leech-7, 6-Leech-7, 5-TentaclePlant-{PreCycle}, 4-Salamander-{PreCycle}
+
+(Artificer,Spear)GW_C01_PAST : 7-Leech-7, 9-Leech-7, 4-CicadaB-2, 5-CicadaA-3, 2-AngryMosquito-2, 3-AngryMosquito-2
+
+//Adding and adjusting these broken Vanilla spawns
+(Yellow)GW_C09 : 6-Bro, 7-Bro, 3-AngryMosquito-1, 4-AngryMosquito-1, 5-AngryMosquito-1
+(White)GW_C09 : 6-Bro, 7-Bro, 3-AngryMosquito-2, 4-AngryMosquito-2, 5-AngryMosquito-1
+(Red,Gourmand)GW_C09 : 6-Bro, 7-Bro, 3-AngryMosquito-3, 4-AngryMosquito-2, 5-AngryMosquito-2
+(Artificer)GW_C09 : 6-Bro, 7-Daddy, 3-AngryMosquito-3, 4-AngryMosquito-3, 5-AngryMosquito-3
+(Rivulet)GW_C09 : 7-Bro, 9-Leech-29, 3-AngryMosquito-1, 5-AngryMosquito-1
+(Spear)GW_C09 : 7-Terror, 3-AngryMosquito-4, 4-AngryMosquito-3, 5-AngryMosquito-3
+(Saint)GW_C09 : 7-Sea Leech-9
+(Inv)GW_C09 : 7-Daddy-{AlternateForm}, 8-Daddy-{AlternateForm}
+
+(Yellow,White,Red,Gourmand,Rivulet)GW_C10 : 7-Leech-7, 8-Snail-3, 2-Mosquito-1, 3-AngryMosquito-1, 4-Mosquito, 5-AngryMosquito-1, 6-AngryMosquito-1
+(Saint)GW_C10 : 9-Garbage Worm-3, 7-Jungle Leech-3, 8-Jungle Leech-3
+
+(White,Gourmand)GW_D01 : 9-Leech-8, 21-Garbage Worm-5, 6-TentaclePlant-{PreCycle}, 11-Salamander-{PreCycle}, 5-AngryMosquito-1, 7-Mosquito-2
+(Yellow)GW_D01 : 9-Leech-8, 21-Garbage Worm-2, 8-TentaclePlant-{PreCycle}, 11-Salamander-{PreCycle}, 5-Mosquito-1, 7-Mosquito-1
+(Red)GW_D01 : 9-Leech-8, 21-Garbage Worm-5, 8-Cyan-2, 10-Leech-7, 6-TentaclePlant-{PreCycle}, 11-Salamander-{PreCycle}, 5-AngryMosquito-2, 7-Mosquito-2
+(Rivulet)GW_D01 : 9-Leech-8, 21-Garbage Worm-2, 4-White, 3-Blue, 6-TentaclePlant-{PreCycle}, 11-Salamander-{PreCycle}
+(Saint)GW_D01 : 3-Centiwing-2, 8-Yellow-3, 6-TentaclePlant-{PreCycle}, 11-Salamander-{PreCycle}
+(Inv)GW_D01 : 8-Red-2, 10-Leech-7, 6-TentaclePlant-{PreCycle}, 11-Salamander-{PreCycle}
+
+(Artificer,Spear)GW_D01_PAST : 9-Leech-8, 18-Garbage Worm-5, 7-Cyan-2, 10-Leech-7, 5-AngryMosquito-2, 6-AngryMosquito-3
+
+//Adding and adjusting these broken Vanilla spawns
+(Yellow)GW_E01 : 12-Leech-10, 7-CicadaB, 8-CicadaB, 9-Bro, 10-Bro, 2-AngryMosquito-1, 4-AngryMosquito-1, 5-AngryMosquito-1, 6-AngryMosquito-1
+(White)GW_E01 : 12-Leech-10, 7-CicadaB, 8-CicadaB, 9-Bro, 10-Bro, 2-AngryMosquito-1, 3-AngryMosquito-1, 4-AngryMosquito-2, 5-AngryMosquito-1, 6-AngryMosquito-1
+(Red,Gourmand)GW_E01 : 12-Leech-10, 7-CicadaB, 8-CicadaB, 9-Bro, 10-Bro, 2-AngryMosquito-2, 3-AngryMosquito-1, 4-AngryMosquito-2, 5-AngryMosquito-1, 6-AngryMosquito-2
+(Artificer)GW_E01 : 12-Leech-10, 7-CicadaB, 8-CicadaB, 9-Bro, 10-Bro, 2-AngryMosquito-1, 3-AngryMosquito-1, 4-AngryMosquito-2, 5-AngryMosquito-1, 6-AngryMosquito-1
+(Spear)GW_E01 : 12-Leech-10, 7-CicadaB, 8-CicadaB, 9-Bro, 10-Bro, 2-AngryMosquito-2, 3-AngryMosquito-1, 4-AngryMosquito-2, 5-AngryMosquito-1, 6-AngryMosquito-2
+(Rivulet)GW_E01 : 7-Centipede, 8-Centipede, 9-Red Centipede, 3-AngryMosquito-1, 6-AngryMosquito-1
+(Saint)GW_E01 : 7-Centipede, 8-Centipede, 9-Red Centipede, 11-SpitterSpider-{Winter}
+(Inv)GW_E01 : 12-Leech-10, 7-CicadaB, 8-CicadaB, 9-Bro, 10-Bro
+
+(White,Gourmand)GW_EDGE03 : 22-Leech-5, 23-Leech-8, 12-CicadaB-2, 13-CicadaA-3, 22-Salamander-{PreCycle}, 23-Salamander-{PreCycle}, 6-Mosquito-2, 7-Mosquito-1
+(Yellow,Rivulet)GW_EDGE03 : 22-Leech-5, 23-Leech-8, 12-CicadaB-3, 13-CicadaA-4, 22-Salamander-{PreCycle}, 23-Salamander-{PreCycle}, 6-Mosquito-1, 7-Mosquito-1
+(Red,Artificer)GW_EDGE03 : 22-Leech-9, 23-Leech-12, 12-CicadaB-1, 13-CicadaA-2, 22-Salamander-{PreCycle}, 23-Salamander-{PreCycle}, 6-Mosquito-2, 7-AngryMosquito-1
+(Spear)GW_EDGE03 : 22-Leech-9, 23-Leech-12, 5-DropBug-2, 12-CicadaB-1, 13-CicadaA-2, 22-Salamander-{PreCycle}, 23-Salamander-{PreCycle}, 6-AngryMosquito-1, 7-AngryMosquito-2
+(Saint)GW_EDGE03 : 12-Lantern Mouse-5, 13-Big Spider-3-{Winter}, 22-Salamander-{PreCycle}, 23-Salamander-{PreCycle}
+(Inv)GW_EDGE03 : 22-Leech-5, 23-Leech-8, 12-CicadaB-2, 13-CicadaA-3, 22-Salamander-{PreCycle}, 23-Salamander-{PreCycle}
 
 
 
