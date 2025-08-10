@@ -1,4 +1,3 @@
-//Rain World
 [FIND]LINEAGE : GW_C09 : 5 :
 [REPLACE]LINEAGE : GW_C09 : 8 :
 [FIND]LINEAGE : GW_C09 : 6 :
@@ -10,12 +9,21 @@ CREATURES
 
 
 
+(Yellow,White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : FatFireFly-0
 (Yellow,White,Red,Gourmand,Rivulet)LINEAGE : OFFSCREEN : 0 : NONE-0.5, FatFireFly-0
 
 (Yellow,White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : Bombadier-0
-(Yellow,White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : FatFireFly-0
-
 (Red,Gourmand,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.2, Bombadier-0
+//+1 Bombardier Vulture for Artificer and Spearmaster, added by the mod
+
+(Yellow,White)LINEAGE : OFFSCREEN : 0 : NONE-0.6, NONE-0.5, Joust-1, NONE-0.4, Joust-1, NONE-0.2, Joust-0
+(Yellow,White)LINEAGE : OFFSCREEN : 0 : NONE-0.6, NONE-0.5, Joust-1, NONE-0.4, Joust-1, NONE-0.2, Joust-0
+(White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : Joust-0
+(Artificer,Spear)LINEAGE : OFFSCREEN : 0 : Joust-0
+(Artificer,Spear)LINEAGE : OFFSCREEN : 0 : Joust-0
+(Red,Gourmand,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : Joust-1, NONE-0.7, Joust-1, NONE-0.3, Joust-0
+(Red,Gourmand,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : Joust-1, NONE-0.7, Joust-1, NONE-0.3, Joust-0
+(Rivulet)LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.5, Joust-1, NONE-0.1, Joust-1, NONE-0.1, Joust-0
 
 (Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{IgnoreCycle}-0
 (Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{IgnoreCycle}-0

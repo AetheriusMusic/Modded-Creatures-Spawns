@@ -1,0 +1,75 @@
+[FINDLINESTART]Room_Attr: GW_E02:
+[ADDAFTER]BombadierVulture-Stay,FatFireFly-Stay,Joust-Forbidden,
+[FINDLINESTART]Room_Attr: GW_B02:
+[ADDAFTER]BombadierVulture-Like,Joust-Forbidden,
+[FINDLINESTART]Room_Attr: GW_C03:
+[ADDAFTER]BombadierVulture-Like,FatFireFly-Like,Joust-Forbidden,
+[FINDLINESTART]Room_Attr: GW_C05:
+[ADDAFTER]BombadierVulture-Like,FatFireFly-Like,Joust-Forbidden,
+[FINDLINESTART]Room_Attr: GW_A24:
+[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,Joust-Forbidden,
+[FINDLINESTART]Room_Attr: GW_C01:
+[ADDAFTER]BombadierVulture-Like,FatFireFly-Stay,Joust-Forbidden,
+[FINDLINESTART]Room_Attr: GW_D01:
+[ADDAFTER]BombadierVulture-Stay,FatFireFly-Stay,Joust-Forbidden,
+[FINDLINESTART]Room_Attr: GW_C02:
+[ADDAFTER]BombadierVulture-Like,FatFireFly-Stay,Joust-Forbidden,
+[FINDLINESTART]Room_Attr: GW_A25:
+[ADDAFTER]BombadierVulture-Like,FatFireFly-Forbidden,Joust-Forbidden,
+[FINDLINESTART]Room_Attr: GW_EDGE01:
+[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,Joust-Forbidden,
+[FINDLINESTART]Room_Attr: GW_EDGE02:
+[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,Joust-Forbidden,
+[FINDLINESTART]Room_Attr: GW_EDGE03:
+[ADDAFTER]BombadierVulture-Avoid,FatFireFly-Forbidden,Joust-Stay,
+[FINDLINESTART]Room_Attr: GW_EDGE04:
+[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,Joust-Forbidden,
+[FINDLINESTART]Room_Attr: GW_EDGE05:
+[ADDAFTER]BombadierVulture-Avoid,FatFireFly-Forbidden,Joust-Like,
+[FINDLINESTART]Room_Attr: GW_B01_PAST:
+[ADDAFTER]BombadierVulture-Avoid,FatFireFly-Like,Joust-Forbidden,
+[FINDLINESTART]Room_Attr: GW_B01:
+[ADDAFTER]BombadierVulture-Avoid,FatFireFly-Like,Joust-Forbidden,
+[FINDLINESTART]Room_Attr: GW_TOWER02:
+[ADDAFTER]BombadierVulture-Avoid,FatFireFly-Like,Joust-Forbidden,
+[FINDLINESTART]Room_Attr: GW_TOWER03:
+[ADDAFTER]BombadierVulture-Avoid,FatFireFly-Like,Joust-Forbidden,
+[FINDLINESTART]Room_Attr: GW_PIPE01:
+[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,Joust-Forbidden,
+[FINDLINESTART]Room_Attr: GW_PIPE02:
+[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,Joust-Forbidden,
+[FINDLINESTART]Room_Attr: GW_B09_PAST:
+[ADDAFTER]FatFireFly-Like,Joust-Forbidden,
+[FINDLINESTART]Room_Attr: GW_PIPE03:
+[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,Joust-Forbidden,
+[FINDLINESTART]Room_Attr: GW_PIPE04:
+[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,Joust-Forbidden,
+[FINDLINESTART]Room_Attr: GW_PIPE07:
+[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,Joust-Forbidden,
+[FINDLINESTART]Room_Attr: GW_PIPE09:
+[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,Joust-Forbidden,
+[FINDLINESTART]Room_Attr: GW_E02_PAST:
+[ADDAFTER]BombadierVulture-Stay,FatFireFly-Like,Joust-Forbidden,
+[FINDLINESTART]Room_Attr: GW_S09:
+[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,Joust-Forbidden,
+
+[MERGE]
+
+Room_Attr: GW_C04: BombadierVulture-Like,Joust-Forbidden,
+Room_Attr: GW_C04_PAST: BombadierVulture-Like,Joust-Forbidden,
+Room_Attr: GW_TOWER04: BombadierVulture-Avoid,FatFireFly-Like,Joust-Forbidden,
+Room_Attr: GW_TOWER05: FatFireFly-Like,Joust-Forbidden,
+Room_Attr: GW_TOWER06: BombadierVulture-Like,FatFireFly-Like,Joust-Forbidden,
+Room_Attr: GW_C01_PAST: FatFireFly-Stay,Joust-Forbidden,
+Room_Attr: GW_TOWER08: FatFireFly-Like,Joust-Forbidden,
+Room_Attr: GW_A11_PAST: FatFireFly-Like,Joust-Forbidden,
+Room_Attr: GW_PIPE12: BombadierVulture-Forbidden,Joust-Forbidden,
+Room_Attr: GW_PIPE13: BombadierVulture-Avoid,Joust-Forbidden,
+Room_Attr: GW_C02_PAST: FatFireFly-Like,Joust-Forbidden,
+Room_Attr: GW_D01_PAST: BombadierVulture-Like,Joust-Forbidden,
+Room_Attr: GW_TOWER10: FatFireFly-Like,Joust-Forbidden,
+Room_Attr: GW_TOWER12: BombadierVulture-Avoid,FatFireFly-Like,Joust-Forbidden,
+Room_Attr: GW_TOWER14: FatFireFly-Avoid,Joust-Forbidden,
+Room_Attr: GW_TOWER15: FatFireFly-Avoid,Joust-Forbidden,
+
+[ENDMERGE]

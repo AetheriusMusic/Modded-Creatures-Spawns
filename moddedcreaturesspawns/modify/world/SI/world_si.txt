@@ -12,6 +12,8 @@ CREATURES
 
 (Red,Gourmand,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.6, NONE-0.4, Bombadier-0
 
+(Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{Night}-0
+
 
 
 END CREATURES

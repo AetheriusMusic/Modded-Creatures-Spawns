@@ -4,6 +4,8 @@ CREATURES
 
 
 
+//+1 Bombardier Vulture for Hunter, added by the mod
+
 (Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{Night}-0
 
 

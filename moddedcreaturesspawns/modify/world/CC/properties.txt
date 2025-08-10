@@ -1,31 +1,31 @@
 [FINDLINESTART]Room_Attr: CC_C09:
-[ADDAFTER]FatFireFly-Avoid,MirosVulture-Like,KingMiros-Like,
+[ADDAFTER]FatFireFly-Avoid,KingMiros-Like,
 [FINDLINESTART]Room_Attr: CC_C12:
 [ADDAFTER]FatFireFly-Avoid,KingMiros-Like,
 [FINDLINESTART]Room_Attr: CC_A06:
 [ADDAFTER]FatFireFly-Avoid,KingMiros-Like,
 [FINDLINESTART]Room_Attr: CC_H01:
-[ADDAFTER]BombadierVulture-Like,FatFireFly-Avoid,MirosVulture-Like,KingMiros-Like,
+[ADDAFTER]BombadierVulture-Like,FatFireFly-Avoid,KingMiros-Like,
 [FINDLINESTART]Room_Attr: CC_C07:
 [ADDAFTER]KingMiros-Like,
 [FINDLINESTART]Room_Attr: CC_B04:
 [ADDAFTER]BombadierVulture-Like,FatFireFly-Like,
 [FINDLINESTART]Room_Attr: CC_D01:
-[ADDAFTER]BombadierVulture-Forbidden,MirosVulture-Forbidden,KingMiros-Forbidden,
+[ADDAFTER]BombadierVulture-Forbidden,KingMiros-Forbidden,
 [FINDLINESTART]Room_Attr: CC_A15:
 [ADDAFTER]BombadierVulture-Avoid,FatFireFly-Like,
 [FINDLINESTART]Room_Attr: CC_B08:
-[ADDAFTER]BombadierVulture-Like,MirosVulture-Avoid,KingMiros-Avoid,
+[ADDAFTER]BombadierVulture-Like,KingMiros-Avoid,
 [FINDLINESTART]Room_Attr: CC_B05:
 [ADDAFTER]BombadierVulture-Like,
 [FINDLINESTART]Room_Attr: CC_A10:
 [ADDAFTER]BombadierVulture-Like,FatFireFly-Like,KingMiros-Like,
 [FINDLINESTART]Room_Attr: CC_B01:
-[ADDAFTER]BombadierVulture-Like,MirosVulture-Like,KingMiros-Like,
+[ADDAFTER]BombadierVulture-Like,KingMiros-Like,
 [FINDLINESTART]Room_Attr: CC_B06:
 [ADDAFTER]BombadierVulture-Forbidden,KingMiros-Forbidden,
 [FINDLINESTART]Room_Attr: CC_C04:
-[ADDAFTER]BombadierVulture-Like,FatFireFly-Like,MirosVulture-Like,KingMiros-Avoid,
+[ADDAFTER]BombadierVulture-Like,FatFireFly-Like,KingMiros-Avoid,
 [FINDLINESTART]Room_Attr: CC_B13:
 [ADDAFTER]KingMiros-Avoid,
 [FINDLINESTART]Room_Attr: CC_C05:
@@ -39,9 +39,9 @@
 [FINDLINESTART]Room_Attr: CC_A07:
 [ADDAFTER]BombadierVulture-Like,KingMiros-Like,
 [FINDLINESTART]Room_Attr: CC_C11:
-[ADDAFTER]BombadierVulture-Like,MirosVulture-Like,KingMiros-Like,
+[ADDAFTER]BombadierVulture-Like,KingMiros-Like,
 [FINDLINESTART]Room_Attr: CC_B12:
-[ADDAFTER]BombadierVulture-Like,MirosVulture-Avoid,KingMiros-Avoid,
+[ADDAFTER]BombadierVulture-Like,KingMiros-Avoid,
 [FINDLINESTART]Room_Attr: CC_F01:
 [ADDAFTER]BombadierVulture-Like,FatFireFly-Like,KingMiros-Avoid,
 [FINDLINESTART]Room_Attr: CC_C03:

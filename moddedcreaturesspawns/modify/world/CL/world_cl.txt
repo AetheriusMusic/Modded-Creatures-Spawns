@@ -1,0 +1,22 @@
+[FIND]0-Miros Bird-{Ignorecycle}-9
+[ADDAFTER], 0-Blizzor-{IgnoreCycle}-18
+
+[MERGE]
+
+CREATURES
+
+
+
+(Saint)LINEAGE : OFFSCREEN : 0 : MirosVulture-{Night}-0
+(Saint)LINEAGE : OFFSCREEN : 0 : NONE-0.7, NONE-0.4, MirosVulture-{IgnoreCycle}-1, NONE-0.3, MirosVulture-{IgnoreCycle}-1, NONE-0.1, MirosVulture-{IgnoreCycle}-0
+(Saint)LINEAGE : OFFSCREEN : 0 : NONE-0.7, NONE-0.4, MirosVulture-{IgnoreCycle}-1, NONE-0.3, MirosVulture-{IgnoreCycle}-1, NONE-0.1, MirosVulture-{IgnoreCycle}-0
+
+(Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{Night}-0
+(Saint)LINEAGE : OFFSCREEN : 0 : NONE-0.7, NONE-0.4, KingMiros-{IgnoreCycle}-1, NONE-0.2, KingMiros-{IgnoreCycle}-0
+(Saint)LINEAGE : OFFSCREEN : 0 : NONE-0.7, NONE-0.4, KingMiros-{IgnoreCycle}-1, NONE-0.2, KingMiros-{IgnoreCycle}-0
+
+
+
+END CREATURES
+
+[ENDMERGE]

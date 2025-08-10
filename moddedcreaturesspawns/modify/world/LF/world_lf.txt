@@ -1,19 +1,16 @@
-//Rain World
 [FIND]LINEAGE : LF_E04 : 5 :
 [REPLACE]LINEAGE : LF_E04 : 9 :
 
 [MERGE]
-
-END ROOMS
 
 CREATURES
 
 
 
 (Yellow)LINEAGE : OFFSCREEN : 0 : NONE-0.2, Bombadier-0
+//+1 Bombardier Vulture for Survivor, Gourmand and Rivulet, added by the mod
 
 (Artificer)LINEAGE : OFFSCREEN : 0 : NONE-0.4, NONE-0.2, FatFireFly-0
-
 (Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.8, NONE-0.4, FatFireFly-0
 
 
@@ -46,8 +43,9 @@ CREATURES
 (Artificer,Spear)LF_E04 : 7-Centipede, 2-AngryMosquito-2, 4-AngryMosquito-2
 (Inv)LF_E04 : 7-RedCentipede
 
-(Yellow,White)LF_H01 : 4-AngryMosquito-1, 5-Mosquito-1
-(Red,Gourmand)LF_H01 : 4-AngryMosquito-2, 5-Mosquito-2
+(Yellow,White,Gourmand)LF_H01 : 4-AngryMosquito-1, 5-Mosquito-1
+(Red)LINEAGE : LF_H01 : 4 : AngryMosquito-0 
+(Red)LINEAGE : LF_H01 : 5 : Mosquito-0 
 (Artificer,Spear)LF_H01 : 4-AngryMosquito-1, 5-AngryMosquito-2
 (Rivulet)LF_H01 : 4-AngryMosquito-3, 5-Mosquito-2
 

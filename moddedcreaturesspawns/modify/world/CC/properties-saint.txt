@@ -1,0 +1,44 @@
+[FINDLINESTART]Room_Attr: CC_C09:
+[ADDAFTER]KingMiros-Like,
+[FINDLINESTART]Room_Attr: CC_C12:
+[ADDAFTER]KingMiros-Like,
+[FINDLINESTART]Room_Attr: CC_A06:
+[ADDAFTER]KingMiros-Like,
+[FINDLINESTART]Room_Attr: CC_H01:
+[ADDAFTER]KingMiros-Like,
+[FINDLINESTART]Room_Attr: CC_C07:
+[ADDAFTER]KingMiros-Like,
+[FINDLINESTART]Room_Attr: CC_D01:
+[ADDAFTER]KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: CC_B08:
+[ADDAFTER]KingMiros-Avoid,
+[FINDLINESTART]Room_Attr: CC_A10:
+[ADDAFTER]KingMiros-Like,
+[FINDLINESTART]Room_Attr: CC_B01:
+[ADDAFTER]KingMiros-Like,
+[FINDLINESTART]Room_Attr: CC_B06:
+[ADDAFTER]KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: CC_C04:
+[ADDAFTER]KingMiros-Avoid,
+[FINDLINESTART]Room_Attr: CC_B13:
+[ADDAFTER]KingMiros-Avoid,
+[FINDLINESTART]Room_Attr: CC_C05:
+[ADDAFTER]KingMiros-Avoid,
+[FINDLINESTART]Room_Attr: CC_B10:
+[ADDAFTER]KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: CC_A02:
+[ADDAFTER]KingMiros-Like,
+[FINDLINESTART]Room_Attr: CC_C08:
+[ADDAFTER]KingMiros-Like,
+[FINDLINESTART]Room_Attr: CC_A07:
+[ADDAFTER]KingMiros-Like,
+[FINDLINESTART]Room_Attr: CC_C11:
+[ADDAFTER]KingMiros-Like,
+[FINDLINESTART]Room_Attr: CC_B12:
+[ADDAFTER]KingMiros-Avoid,
+[FINDLINESTART]Room_Attr: CC_F01:
+[ADDAFTER]KingMiros-Avoid,
+[FINDLINESTART]Room_Attr: CC_B11:
+[ADDAFTER]KingMiros-Like,
+[FINDLINESTART]Room_Attr: CC_B14:
+[ADDAFTER]KingMiros-Avoid,
