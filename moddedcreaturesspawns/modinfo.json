@@ -1,34 +1,32 @@
 {
   "id": "aetherius.moddedcreaturesspawns",
   "name": "Modded Creatures Spawns",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "hide_version": false,
   "target_game_version": "v1.10.4",
   "authors": "Aetherius",
-  "description": "Adds various modded creatures spawns to Vanilla and Downpour regions (Watcher regions not included!).<LINE>This mod is constantly getting updated, way more creatures are yet to be added!",
+  "description": "Adds various modded creatures spawns to Vanilla and Downpour regions (Watcher regions not included!).<LINE>This mod is constantly getting updated, way more creatures are yet to be added!<LINE>Not 100% compatible with mods such as Screen Lady's Diverse Spawns or mods that add Watcher creatures.",
   "youtube_trailer_id": "",
   "requirements": [
     "moreslugcats",
     "Croken.bombardier-vulture",
     "nonescreatures",
     "lb-fgf-m4r-ik.modpack",
-    "mosquitoes"
+    "mosquitoes",
+    "mod.hootis.jousts"
   ],
   "requirements_names": [
     "More Slugcats Expansion",
     "Bombardier Vulture",
     "None's Creature Pack",
     "The M4rblelous Entity Pack",
-    "Mosquitoes"
+    "Mosquitoes",
+    "Jousts"
   ],
-  "priorities": [
-    "screen-lady.notsosimplespawns",
-    "ShinyKelp.ApexUpYourSpawns",
-    "WCIVCIDWPW"
-  ],
+  "priorities": [],
   "tags": [
     "Creatures",
     "Downpour"
   ],
-  "checksum_override_version": false
+  "checksum_override_version": true
 }
