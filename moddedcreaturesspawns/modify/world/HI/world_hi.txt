@@ -5,7 +5,6 @@ CREATURES
 
 
 (Yellow,White,Red,Gourmand,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.8, NONE-0.6, NONE-0.4, FatFireFly-0
-
 (Yellow,White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : FatFireFly-0
 
 (Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{Night}-0

@@ -64,23 +64,20 @@
 [FINDLINESTART]Room_Attr: GW_S09:
 [ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,Joust-Forbidden,
 
-[MERGE]
 
-Room_Attr: GW_C04: BombadierVulture-Like,Joust-Forbidden,
-Room_Attr: GW_C04_PAST: BombadierVulture-Like,Joust-Forbidden,
-Room_Attr: GW_TOWER04: BombadierVulture-Avoid,FatFireFly-Like,Joust-Forbidden,
-Room_Attr: GW_TOWER05: FatFireFly-Like,Joust-Forbidden,
-Room_Attr: GW_TOWER06: BombadierVulture-Like,FatFireFly-Like,Joust-Forbidden,
-Room_Attr: GW_C01_PAST: FatFireFly-Stay,Joust-Forbidden,
-Room_Attr: GW_TOWER08: FatFireFly-Like,Joust-Forbidden,
-Room_Attr: GW_A11_PAST: FatFireFly-Like,Joust-Forbidden,
-Room_Attr: GW_PIPE12: BombadierVulture-Forbidden,Joust-Forbidden,
-Room_Attr: GW_PIPE13: BombadierVulture-Avoid,Joust-Forbidden,
-Room_Attr: GW_C02_PAST: FatFireFly-Like,Joust-Forbidden,
-Room_Attr: GW_D01_PAST: BombadierVulture-Like,Joust-Forbidden,
-Room_Attr: GW_TOWER10: FatFireFly-Like,Joust-Forbidden,
-Room_Attr: GW_TOWER12: BombadierVulture-Avoid,FatFireFly-Like,Joust-Forbidden,
-Room_Attr: GW_TOWER14: FatFireFly-Avoid,Joust-Forbidden,
-Room_Attr: GW_TOWER15: FatFireFly-Avoid,Joust-Forbidden,
 
-[ENDMERGE]
+[ADD]Room_Attr: GW_C04: Joust-Forbidden,
+[ADD]Room_Attr: GW_C04_PAST: Joust-Forbidden,
+[ADD]Room_Attr: GW_TOWER04: Joust-Forbidden,
+[ADD]Room_Attr: GW_TOWER05: Joust-Forbidden,
+[ADD]Room_Attr: GW_TOWER06: Joust-Forbidden,
+[ADD]Room_Attr: GW_C01_PAST: Joust-Forbidden,
+[ADD]Room_Attr: GW_TOWER08: Joust-Forbidden,
+[ADD]Room_Attr: GW_A11_PAST: Joust-Forbidden,
+[ADD]Room_Attr: GW_PIPE13: Joust-Forbidden,
+[ADD]Room_Attr: GW_C02_PAST: Joust-Forbidden,
+[ADD]Room_Attr: GW_D01_PAST: Joust-Forbidden,
+[ADD]Room_Attr: GW_TOWER10: Joust-Forbidden,
+[ADD]Room_Attr: GW_TOWER12: Joust-Forbidden,
+[ADD]Room_Attr: GW_TOWER14: Joust-Forbidden,
+[ADD]Room_Attr: GW_TOWER15: Joust-Forbidden,

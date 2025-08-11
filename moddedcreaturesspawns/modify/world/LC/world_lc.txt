@@ -5,14 +5,14 @@ CREATURES
 
 
 
-(Yellow,White,Artificer)LINEAGE : OFFSCREEN : 0 : Bombadier-0.8, Bombadier-0.6, FatFireFly-0
+(Yellow,White,Artificer)LINEAGE : OFFSCREEN : 0 : Bombadier-0.8, Bombadier-0.6, FatFireFly-0.8, FatFireFly-1, Bombadier-0
+(Artificer)LINEAGE : OFFSCREEN : 0 : Bombadier-0
+(Artificer)LINEAGE : OFFSCREEN : 0 : Bombadier-0
 (Yellow,White,Artificer)LINEAGE : OFFSCREEN : 0 : Bombadier-{Night}-0
-(Yellow,White,Artificer)LINEAGE : OFFSCREEN : 0 : FatFireFly-{Night}-0
 
-(Artificer)LINEAGE : OFFSCREEN : 0 : Bombadier-0
-(Artificer)LINEAGE : OFFSCREEN : 0 : Bombadier-0
 (Artificer)LINEAGE : OFFSCREEN : 0 : FatFireFly-0
 (Artificer)LINEAGE : OFFSCREEN : 0 : FatFireFly-0
+(Yellow,White,Artificer)LINEAGE : OFFSCREEN : 0 : FatFireFly-{Night}-0
 
 
 

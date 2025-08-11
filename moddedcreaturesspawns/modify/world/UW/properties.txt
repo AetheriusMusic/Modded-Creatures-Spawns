@@ -1,0 +1,18 @@
+[FIND]MirosVulture-Forbidden,
+[ADDAFTER]KingMiros-Forbidden,
+[FIND]MirosVulture-Avoid,
+[ADDAFTER]KingMiros-Like,
+[FIND]MirosVulture-Like,
+[ADDAFTER]KingMiros-Stay,
+[FIND]MirosVulture-Stay,
+[ADDAFTER]KingMiros-Like,
+
+
+[FINDLINESTART]Room_Attr: UW_A04:
+[ADDAFTER]KingMiros-Like
+[FINDLINESTART]Room_Attr: UW_C01:
+[ADDAFTER]KingMiros-Avoid
+[FINDLINESTART]Room_Attr: UW_C02:
+[ADDAFTER]KingMiros-Like
+[FINDLINESTART]Room_Attr: UW_C04:
+[ADDAFTER]KingMiros-Like

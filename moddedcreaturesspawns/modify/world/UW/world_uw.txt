@@ -1,0 +1,14 @@
+[MERGE]
+
+CREATURES
+
+
+
+(Artificer)LINEAGE : OFFSCREEN : 0 : NONE-0.8, NONE-0.7, KingMiros-0
+(Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.8, KingMiros-0
+
+
+
+END CREATURES
+
+[ENDMERGE]

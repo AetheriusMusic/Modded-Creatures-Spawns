@@ -4,9 +4,9 @@ CREATURES
 
 
 
-(Spear)LINEAGE : OFFSCREEN : 0 : KingMiros-{IgnoreCycle}-0
-(Spear)LINEAGE : OFFSCREEN : 0 : KingMiros-{IgnoreCycle}-0
-(Spear)LINEAGE : OFFSCREEN : 0 : KingMiros-{IgnoreCycle}-0
+(Artificer)LINEAGE : OFFSCREEN : 0 : NONE-0.5, KingMiros-0.9, NONE-0.5, KingMiros-0, 
+(Spear)LINEAGE : OFFSCREEN : 0 : KingMiros-0
+(Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.3, KingMiros-0
 
 
 

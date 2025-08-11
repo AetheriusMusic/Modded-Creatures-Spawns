@@ -1,3 +1,14 @@
+[FIND]MirosVulture-Forbidden,
+[ADDAFTER]KingMiros-Forbidden,
+[FIND]MirosVulture-Avoid,
+[ADDAFTER]KingMiros-Avoid,
+[FIND]MirosVulture-Like,
+[ADDAFTER]KingMiros-Like,
+[FIND]MirosVulture-Stay,
+[ADDAFTER]KingMiros-Stay,
+
+
+
 [FINDLINESTART]Room_Attr: GW_E02:
 [ADDAFTER]BombadierVulture-Stay,FatFireFly-Stay,Joust-Forbidden,
 [FINDLINESTART]Room_Attr: GW_B02:
@@ -63,7 +74,6 @@ Room_Attr: GW_TOWER06: BombadierVulture-Like,FatFireFly-Like,Joust-Forbidden,
 Room_Attr: GW_C01_PAST: FatFireFly-Stay,Joust-Forbidden,
 Room_Attr: GW_TOWER08: FatFireFly-Like,Joust-Forbidden,
 Room_Attr: GW_A11_PAST: FatFireFly-Like,Joust-Forbidden,
-Room_Attr: GW_PIPE12: BombadierVulture-Forbidden,Joust-Forbidden,
 Room_Attr: GW_PIPE13: BombadierVulture-Avoid,Joust-Forbidden,
 Room_Attr: GW_C02_PAST: FatFireFly-Like,Joust-Forbidden,
 Room_Attr: GW_D01_PAST: BombadierVulture-Like,Joust-Forbidden,

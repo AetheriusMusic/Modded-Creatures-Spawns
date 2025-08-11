@@ -4,22 +4,18 @@ CREATURES
 
 
 
-(Yellow,White,Red,Gourmand,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : FatFireFly-0
-
-(Yellow)LINEAGE : OFFSCREEN : 0 : NONE-0.8, NONE-0.6, NONE-0.2, FatFireFly-0
-(White)LINEAGE : OFFSCREEN : 0 : NONE-0.8, NONE-0.6, FatFireFly-0
-
 (White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : NONE-0.2, Bombadier-0
-
 (Red,Gourmand)LINEAGE : OFFSCREEN : 0 : Bombadier-0
 (Red,Gourmand)LINEAGE : OFFSCREEN : 0 : Bombadier-0
-
 (Artificer,Spear)LINEAGE : OFFSCREEN : 0 : Bombadier-0
 (Artificer,Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.5, Bombadier-0
+(Rivulet)LINEAGE : OFFSCREEN : 0 : NONE-0.2, Bombadier-0
+
+(Yellow,White,Red,Gourmand,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : FatFireFly-0
+(Yellow)LINEAGE : OFFSCREEN : 0 : NONE-0.8, NONE-0.6, NONE-0.2, FatFireFly-0
+(White)LINEAGE : OFFSCREEN : 0 : NONE-0.8, NONE-0.6, FatFireFly-0
 (Artificer,Spear)LINEAGE : OFFSCREEN : 0 : FatFireFly-0
 (Artificer,Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.5, FatFireFly-0
-
-(Rivulet)LINEAGE : OFFSCREEN : 0 : NONE-0.2, Bombadier-0
 (Rivulet)LINEAGE : OFFSCREEN : 0 : NONE-0.2, FatFireFly-0
 
 (Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{Night}-0

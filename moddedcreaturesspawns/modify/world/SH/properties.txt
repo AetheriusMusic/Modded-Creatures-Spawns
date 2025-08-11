@@ -4,6 +4,8 @@
 [ADDAFTER]Joust-Like,KingMiros-Like,
 [FINDLINESTART]Room_Attr: SH_A05:
 [ADDAFTER]Joust-Like,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: SH_A14:
+[ADDAFTER]Joust-Like,KingMiros-Like,
 [FINDLINESTART]Room_Attr: SH_C03:
 [ADDAFTER]Joust-Avoid,KingMiros-Forbidden,
 [FINDLINESTART]Room_Attr: SH_A06:
@@ -21,11 +23,11 @@
 [FINDLINESTART]Room_Attr: SH_E01:
 [ADDAFTER]Joust-Avoid,KingMiros-Forbidden,
 [FINDLINESTART]Room_Attr: SH_H01:
-[ADDAFTER]Joust-Avoid,
+[ADDAFTER]Joust-Avoid,,KingMiros-Like,
 [FINDLINESTART]Room_Attr: SH_E04:
 [ADDAFTER]Joust-Avoid,KingMiros-Avoid,
 [FINDLINESTART]Room_Attr: SH_D03:
-[ADDAFTER]Joust-Avoid,
+[ADDAFTER]Joust-Avoid,,KingMiros-Like,
 [FINDLINESTART]Room_Attr: SH_OVERHEAD:
 [ADDAFTER]Joust-Like,KingMiros-Avoid,
 [FINDLINESTART]Room_Attr: SH_scavshop:
