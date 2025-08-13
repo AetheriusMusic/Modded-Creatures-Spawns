@@ -9,10 +9,10 @@ CREATURES
 
 
 
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)DS_A01 : 1-WaterBlob-2, 2-WaterBlob-2
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)DS_A01 : 1-WaterBlob-3, 2-WaterBlob-3
 
 (Yellow,White,Gourmand,Rivulet)DS_A09 : 2-WaterBlob-3
-//Adding and adjusting these broken Vanilla spawns
+//Rain World
 (Red,Artificer,Spear)DS_A09 : 3-DropBug-2, 2-WaterBlob-3
 (Inv)DS_A09 : 3-DropBug-2
 
@@ -20,16 +20,27 @@ CREATURES
 
 (Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)DS_A19 : 2-ChipChop-2, 3-ChipChop-2
 
+(Yellow,White,Red,Gourmand,Artificer,Spear)DS_A21 : 6-Mimic-{14}, 7-Snail-2, 8-Snail-2, 2-ChipChop-1, 3-ChipChop-1, 4-ChipChop-1, 5-ChipChop-1
+(Rivulet)DS_A21 : 7-Snail-2, 8-Snail-2, 2-ChipChop-1, 3-ChipChop-1, 4-ChipChop-1, 5-ChipChop-1
+
 (Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)DS_A23 : 4-ChipChop-3
 
-(White,Red,Gourmand,Artificer,Spear)DS_B02 : 4-WaterBlob-2, 7-WaterBlob-2, 2-MiniBlackLeech-6, 3-MiniBlackLeech-6, 5-MiniBlackLeech-6, 6-MiniBlackLeech-6, 8-MiniBlackLeech-6
+//Rain World
+(Yellow,White,Red,Gourmand,Artificer)DS_B01 : 13-Leech-5, 14-Leech-5, 15-Snail-3, 3-MiniBlackLeech-5, 4-MiniBlackLeech-5, 5-MiniBlackLeech-5, 6-MiniBlackLeech-5, 8-MiniBlackLeech-5, 9-MiniBlackLeech-5, 10-MiniBlackLeech-5, 11-MiniBlackLeech-5, 12-MiniBlackLeech-5
+(Spear)DS_B01 : 13-Leech-4, 14-Leech-4, 15-Snail-3, 15-TentaclePlant-{PreCycle}, 3-MiniBlackLeech-5, 4-MiniBlackLeech-5, 5-MiniBlackLeech-5, 6-MiniBlackLeech-5, 8-MiniBlackLeech-5, 9-MiniBlackLeech-5, 10-MiniBlackLeech-5, 11-MiniBlackLeech-5, 12-MiniBlackLeech-5
+(Rivulet)DS_B01 : 13-Leech-5, 14-Leech-5, 15-Snail-3, 14-Salamander-{PreCycle}, 3-MiniBlackLeech-5, 4-MiniBlackLeech-5, 5-MiniBlackLeech-5, 6-MiniBlackLeech-5, 8-MiniBlackLeech-5, 9-MiniBlackLeech-5, 10-MiniBlackLeech-5, 11-MiniBlackLeech-5, 12-MiniBlackLeech-5
+
+(White,Red,Gourmand,Artificer,Spear)DS_B02 : 4-WaterBlob-2, 7-WaterBlob-2, 2-MiniBlackLeech-5, 3-MiniBlackLeech-5, 5-MiniBlackLeech-5, 6-MiniBlackLeech-5, 8-MiniBlackLeech-5
 (Yellow,Rivulet)DS_B02 : 4-WaterBlob-2, 7-WaterBlob-2
 
 (Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)DS_B04 : 13-WaterBlob-2, 14-WaterBlob-2
 
+(White,Red,Gourmand,Artificer,Spear,Rivulet)DS_B06 : 2-MiniBlackLeech-2, 3-MiniBlackLeech-2, 4-MiniBlackLeech-2, 5-MiniBlackLeech-2, 6-MiniBlackLeech-2, 7-MiniBlackLeech-4
+(Yellow)DS_B06 : 2-MiniBlackLeech-2, 4-MiniBlackLeech-2, 7-MiniBlackLeech-3
+
 (Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)DS_B10 : 2-ChipChop-1, 3-ChipChop-1, 4-ChipChop-1
 
-//Adding and adjusting these broken Vanilla spawns
+//Rain World
 (White,Gourmand)DS_B07 : 4-Salamander, 5-Snail, 6-Snail, 9-Snail, 7-WaterBlob-1, 8-WaterBlob-2
 (Rivulet,Yellow)DS_B07 : 4-Eel, 5-Snail, 6-Snail, 9-Snail, 7-WaterBlob-1, 8-WaterBlob-1
 (Red,Artificer,Spear)DS_B07 : 3-DropBug-3, 4-Cyan-3, 5-Snail, 6-Snail, 9-Snail, 7-WaterBlob-2, 8-WaterBlob-2
@@ -37,7 +48,7 @@ CREATURES
 
 (Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)DS_RIVSTART : 3-WaterBlob-2, 4-WaterBlob-2, 5-WaterBlob-2, 6-WaterBlob-2
 
-//Adding and adjusting these broken Vanilla spawns
+//Rain World
 (Yellow)DS_GUTTER03 : 8-Snail-2, 9-Snail-3, 9-Eel-{PreCycle}, 10-ChipChop-2, 11-ChipChop-2
 (White,Gourmand)DS_GUTTER03 : 8-Snail-2, 9-Snail-3, 9-Eel-{PreCycle}, 10-ChipChop-3, 11-ChipChop-2
 (Rivulet)DS_GUTTER03 : 8-Snail-1, 9-Snail-2, 9-Eel-{PreCycle}, 10-ChipChop-2, 11-ChipChop-2

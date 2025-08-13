@@ -1,0 +1,27 @@
+[FINDLINESTART]Room_Attr: DS_A22:
+[ADDAFTER]ChipChop-Like,
+[FINDLINESTART]Room_Attr: DS_A15:
+[ADDAFTER]ChipChop-Stay,
+[FINDLINESTART]Room_Attr: DS_A23:
+[ADDAFTER]ChipChop-Stay,
+[FINDLINESTART]Room_Attr: DS_A19:
+[ADDAFTER]ChipChop-Stay,
+[FINDLINESTART]Room_Attr: DS_B04:
+[ADDAFTER]ChipChop-Like,
+[FINDLINESTART]Room_Attr: DS_A08:
+[ADDAFTER]ChipChop-Like,
+[FINDLINESTART]Room_Attr: DS_B07:
+[ADDAFTER]ChipChop-Like,
+[FINDLINESTART]Room_Attr: DS_GUTTER03:
+[ADDAFTER]ChipChop-Stay,
+[FINDLINESTART]Room_Attr: DS_GUTTER04:
+[ADDAFTER]ChipChop-Like,
+[FINDLINESTART]Room_Attr: DS_GUTTER05:
+[ADDAFTER]ChipChop-Stay,
+[FINDLINESTART]Room_Attr: DS_RIVSTART:
+[ADDAFTER]ChipChop-Like,
+
+
+
+[ADD]Room_Attr: DS_A06: ChipChop-Like,
+[ADD]Room_Attr: DS_A09: ChipChop-Like,

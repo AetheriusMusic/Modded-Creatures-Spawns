@@ -1,0 +1,62 @@
+[FINDLINESTART]Room_Attr: LM_B02:
+[ADDAFTER]MirosVulture-Forbidden,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: LM_C01:
+[ADDAFTER]MirosVulture-Forbidden,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: LM_B01:
+[ADDAFTER]MirosVulture-Forbidden,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: LM_F01:
+[ADDAFTER]MirosVulture-Forbidden,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: LM_C02:
+[ADDAFTER]MirosVulture-Forbidden,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: LM_D06:
+[ADDAFTER]MirosVulture-Forbidden,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: LM_D01:
+[ADDAFTER]MirosVulture-Forbidden,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: LM_B04:
+[ADDAFTER]MirosVulture-Forbidden,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: LM_C03:
+[ADDAFTER]MirosVulture-Forbidden,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: LM_SIDESWAMP:
+[ADDAFTER]MirosVulture-Forbidden,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: LM_TOWERSIDE:
+[ADDAFTER]MirosVulture-Forbidden,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: LM_H03:
+[ADDAFTER]MirosVulture-Avoid,KingMiros-Avoid,
+[FINDLINESTART]Room_Attr: LM_LEGENTRANCE:
+[ADDAFTER]MirosVulture-Avoid,KingMiros-Avoid,
+[FINDLINESTART]Room_Attr: LM_LEGENTRANCEARTY:
+[ADDAFTER]MirosVulture-Avoid,KingMiros-Avoid,
+[FINDLINESTART]Room_Attr: LM_BRIDGE01:
+[ADDAFTER]MirosVulture-Like,KingMiros-Like,
+[FINDLINESTART]Room_Attr: LM_BRIDGE02:
+[ADDAFTER]MirosVulture-Like,KingMiros-Stay,
+[FINDLINESTART]Room_Attr: LM_BRIDGE03:
+[ADDAFTER]MirosVulture-Like,KingMiros-Stay,
+[FINDLINESTART]Room_Attr: LM_EDGE02:
+[ADDAFTER]MirosVulture-Avoid,KingMiros-Avoid,
+[FINDLINESTART]Room_Attr: LM_TOWER01:
+[ADDAFTER]MirosVulture-Avoid,KingMiros-Avoid,
+[FINDLINESTART]Room_Attr: LM_TOWER02:
+[ADDAFTER]MirosVulture-Avoid,KingMiros-Avoid,
+[FINDLINESTART]Room_Attr: LM_TOWER04:
+[ADDAFTER]MirosVulture-Stay,KingMiros-Like,
+[FINDLINESTART]Room_Attr: LM_TOWER09:
+[ADDAFTER]MirosVulture-Stay,KingMiros-Like,
+[FINDLINESTART]Room_Attr: LM_TOWER10ARTY:
+[ADDAFTER]MirosVulture-Like,KingMiros-Like,
+[FINDLINESTART]Room_Attr: LM_TOWER10:
+[ADDAFTER]MirosVulture-Like,KingMiros-Like,
+[FINDLINESTART]Room_Attr: LM_TOWER12:
+[ADDAFTER]MirosVulture-Like,KingMiros-Stay,
+[FINDLINESTART]Room_Attr: LM_TOWER13:
+[ADDAFTER]MirosVulture-Stay,KingMiros-Like,
+[FINDLINESTART]Room_Attr: LM_BRIDGE04:
+[ADDAFTER]MirosVulture-Like,KingMiros-Stay,
+[FINDLINESTART]Room_Attr: LM_BRIDGE04ARTY:
+[ADDAFTER]MirosVulture-Avoid,KingMiros-Avoid,
+[FINDLINESTART]Room_Attr: LM_TOWER14:
+[ADDAFTER]MirosVulture-Like,KingMiros-Stay,
+[FINDLINESTART]Room_Attr: LM_WALL03:
+[ADDAFTER]KingMiros-Like,
+[FINDLINESTART]Room_Attr: LM_WALL02:
+[ADDAFTER]MirosVulture-Avoid,KingMiros-Avoid,
