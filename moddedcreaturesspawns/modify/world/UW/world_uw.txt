@@ -9,6 +9,17 @@ CREATURES
 
 
 
+//Rain World
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)UW_E01 : 3-Blue, 2-White, 3-Cyan-{Night}, 4-Mimic-{18}, 5-Mimic-{16}, 6-Hoverfly-2, 7-Hoverfly-2, 8-Hoverfly-2
+
+//Rain World
+(Red,Artificer,Spear)UW_J01 : 3-Cyan-{Ignorecycle}, 4-Cyan, 5-Cyan-{Ignorecycle}, 6-Cyan-2, 7-Hoverfly-1, 8-Hoverfly-1, 9-Hoverfly-2, 10-Hoverfly-2
+(White,Gourmand)UW_J01 : 3-Cyan-{Night}, 4-Cyan-{Night}, 5-Cyan-{Night}, 3-Yellow, 4-Yellow, 5-Yellow, 6-Yellow-2, 7-Hoverfly-1, 8-Hoverfly-1, 9-Hoverfly-2, 10-Hoverfly-2
+(Yellow,Rivulet)UW_J01 : 3-Yellow-{Ignorecycle}, 4-Yellow-{Ignorecycle}, 5-Yellow-{Ignorecycle}, 6-Yellow-{Ignorecycle}, 7-Hoverfly-1, 8-Hoverfly-1, 9-Hoverfly-2, 10-Hoverfly-2
+(Inv)UW_J01 : 3-Cyan-{Ignorecycle}, 4-Cyan, 5-Cyan-{Ignorecycle}, 6-Cyan-2
+
+
+
 END CREATURES
 
 [ENDMERGE]

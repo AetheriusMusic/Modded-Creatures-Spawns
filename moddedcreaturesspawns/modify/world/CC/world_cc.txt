@@ -22,6 +22,35 @@ CREATURES
 
 
 
+(White,Red,Gourmand,Artificer,Spear)CC_B01 : 2-Blue, 3-White, 3-Snail-3-{PreCycle}, 5-Hoverfly-1, 6-Hoverfly-2, 7-Hoverfly-1
+(Yellow)CC_B01 : 2-Blue, 3-Snail-3-{PreCycle}, 5-Hoverfly-1, 6-Hoverfly-2, 7-Hoverfly-1
+(Rivulet,Saint)CC_B01 : 2-Cyan-2, 3-Centiwing, 3-Snail-3-{PreCycle}, 5-Hoverfly-1, 6-Hoverfly-1, 7-Hoverfly-1
+
+(Red,Artificer,Spear)CC_B04 : 9-White, 10-BigNeedleWorm, 10-SmallNeedleWorm-2, 9-Snail-2-{PreCycle}, 3-Hoverfly-1, 4-Hoverfly-1, 5-Hoverfly-1, 6-Hoverfly-1
+(White,Gourmand)CC_B04 : 9-White, 9-Snail-2-{PreCycle}, 3-Hoverfly-1, 4-Hoverfly-1, 5-Hoverfly-1
+(Yellow)CC_B04 : 9-Blue, 9-Snail-2-{PreCycle}, 3-Hoverfly-1, 4-Hoverfly-1, 7-Hoverfly-1
+(Rivulet)CC_B04 : 9-Blue, 9-Centiwing, 10-Centiwing, 9-Snail-2-{PreCycle}, 3-Hoverfly-1, 4-Hoverfly-1
+(Saint)CC_B04 : 9-Centiwing, 10-Centiwing, 9-Snail-2-{PreCycle}
+(Inv)CC_B04 : 9-Red, 10-BigNeedleWorm, 10-SmallNeedleWorm-2, 9-Snail-2-{PreCycle}
+
+(Yellow,White,Red,Gourmand,Artificer,Spear)CC_B12 : 2-Hoverfly-1, 3-Hoverfly-1, 4-Hoverfly-1, 5-Hoverfly-1, 6-Hoverfly-1
+(Rivulet)CC_B12 : 2-Hoverfly-1, 5-Hoverfly-1, 6-Hoverfly-1, 7-Hoverfly-1
+
+(Yellow,White,Gourmand)CC_B14 : 3-Tube Worm, 4-Tube Worm, 5-Hoverfly-1, 6-Hoverfly-1, 7-Hoverfly-1
+(Red,Artificer,Spear)CC_B14 : 3-Tube Worm, 4-Tube Worm, 2-BigNeedleWorm, 2-SmallNeedleWorm-4, 5-Hoverfly-1, 6-Hoverfly-1, 7-Hoverfly-1, 8-Hoverfly-1
+(Rivulet)CC_B14 : 3-Tube Worm, 4-Tube Worm, 2-Cyan-2, 3-Centiwing, 5-Hoverfly-1, 6-Hoverfly-1
+(Saint)CC_B14 : 2-Cyan-2, 3-Centiwing
+(Inv)CC_B14 : 2-BigNeedleWorm, 2-SmallNeedleWorm-4
+
+(Red,Artificer,Spear,Inv)CC_C04 : 5-BigNeedleWorm, 5-SmallNeedleWorm-3, 5-TentaclePlant-{PreCycle}, 3-Hoverfly-2, 4-Hoverfly-2
+(Yellow,White,Gourmand)CC_C04 : 3-Hoverfly-2, 4-Hoverfly-1
+(Rivulet,Saint)CC_C04 : 5-Centiwing-2, 5-TentaclePlant-{PreCycle}, 3-Hoverfly-1, 4-Hoverfly-1
+
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)CC_C05 : 3-Snail-2-{PreCycle}, 4-Hoverfly-1, 5-Hoverfly-1, 6-Hoverfly-1
+(Saint,Inv)CC_C05 : 3-Snail-2-{PreCycle}
+
+
+
 END CREATURES
 
 [ENDMERGE]
