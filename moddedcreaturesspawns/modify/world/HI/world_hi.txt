@@ -1,14 +1,48 @@
+[FIND]LINEAGE : HI_C02 : 5 :
+[REPLACE]LINEAGE : HI_C02 : 9 :
+[FIND]LINEAGE : HI_C02 : 6 :
+[REPLACE]LINEAGE : HI_C02 : 10 :
+[FIND]LINEAGE : HI_C04 : 8 :
+[REPLACE]LINEAGE : HI_C04 : 9 :
+
 [MERGE]
 
 CREATURES
 
 
 
-(Yellow,White,Red,Gourmand,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.8, NONE-0.6, NONE-0.4, FatFireFly-0
-(Yellow,White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : FatFireFly-0
+(Yellow)OFFSCREEN : 0-Vulture, 0-Scavenger-5, 0-FatFireFly-{AlternateForm}-1
+(White)OFFSCREEN : 0-Vulture-3, 0-Scavenger-6, 0-FatFireFly-{AlternateForm}-1
+(Red)OFFSCREEN : 0-Vulture-2, 0-KingVulture, 0-Scavenger-7, 0-FatFireFly-{AlternateForm}-1, 0-FatFireFly-{AlternateForm}-1
+(Gourmand)OFFSCREEN : 0-Vulture-2, 0-KingVulture-2, 0-Scavenger-7, 0-FatFireFly-{AlternateForm}-1, 0-FatFireFly-{AlternateForm}-1
+(Artificer)OFFSCREEN : 0-Vulture-3, 0-KingVulture-1, 0-Scavenger-14, 0-FatFireFly-{AlternateForm}-1
+(Spear)OFFSCREEN : 0-Vulture-1, 0-KingVulture-2, 0-Scavenger-12, 0-FatFireFly-{AlternateForm}-1
+(Yellow,White,Red,Gourmand,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.8, NONE-0.4, FatFireFly-0
 
 (Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{Night}-0
 (Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{Night}-0
+
+
+
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)HI_C02 : 6-ThornBug-{AlternateForm}, 7-TintedBeetle-{AlternateForm}, 8-TintedBeetle-{AlternateForm}
+(Saint)HI_C02 : 9-Yellow-3
+(Inv)HI_C02 : 9-Yellow-3
+
+(Yellow,White,Rivulet)HI_C03 : 3-White, 3-Eel-{PreCycle}, 4-ThornBug-{AlternateForm}, 5-TintedBeetle-{AlternateForm}, 6-TintedBeetle-{AlternateForm}
+(Red,Artificer,Spear)HI_C03 : 3-Eel-{PreCycle}, 4-ThornBug-{AlternateForm}, 5-TintedBeetle-{AlternateForm}, 6-TintedBeetle-{AlternateForm}
+(Gourmand)HI_C03 : 3-Cyan, 3-Eel-{PreCycle}, 4-ThornBug-{AlternateForm}, 5-TintedBeetle-{AlternateForm}, 6-TintedBeetle-{AlternateForm}
+(Saint)HI_C03 : 3-White, 3-Eel-{PreCycle}
+
+(Yellow,White,Gourmand)HI_C04 : 5-Blue, 7-Snail, 8-Snail-2, 8-TentaclePlant-{PreCycle}, 5-Cyan-{PreCycle}
+(Red,Artificer,Spear)HI_C04 : 5-Cyan, 8-TentaclePlant-{PreCycle}, 5-Cyan-{PreCycle}
+(Rivulet)HI_C04 : 8-Eel, 8-TentaclePlant-{PreCycle}, 5-Cyan-{PreCycle}
+(Saint)HI_C04 : 5-Lantern Mouse-6, 8-TentaclePlant-{PreCycle}, 5-Cyan-{PreCycle}
+(Inv)HI_C04 : 5-Train, 8-TentaclePlant-{PreCycle}, 5-Cyan-{PreCycle}
+(Yellow,White)LINEAGE : HI_C04 : 6 : NONE-0.1, NONE-0.8, HunterSeeker-0
+(Red,Gourmand,Artificer,Spear)LINEAGE : HI_C04 : 6 : HunterSeeker-0
+(Yellow,White)LINEAGE : HI_C04 : 6 : NONE-0.1, NONE-0.8, HunterSeeker-0
+(Rivulet)LINEAGE : HI_C04 : 6 : HunterSeeker-1, NONE-0.6, NONE-0.8, HunterSeeker-0
+(Saint)LINEAGE : HI_C04 : 6 : NONE-0.4, HunterSeeker-0
 
 
 

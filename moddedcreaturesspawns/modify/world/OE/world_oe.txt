@@ -6,7 +6,21 @@ CREATURES
 
 (Yellow,White,Gourmand)LINEAGE : OFFSCREEN : 0 : NONE-0.8, NONE-0.6, FatFireFly-0
 
-(White,Gourmand)LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.5, Bombadier-0
+(White,Gourmand)LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.5, NONE-0.8, Bombadier-0
+
+
+
+(White,Yellow,Gourmand)OE_JUNGLE03 : 3-CicadaA-2, 3-Yeek-5-{Ignorecycle}, 4-Hoverfly-{AlternateForm,IgnoreCycle}-4
+
+(White,Yellow,Gourmand)OE_JUNGLE04 : 3-Hoverfly-{AlternateForm,IgnoreCycle}-2
+
+(White,Gourmand)OE_JUNGLE05 : 3-White-{Ignorecycle}, 4-JungleLeech-11-{Ignorecycle}, 2-Hoverfly-{AlternateForm,IgnoreCycle}-4
+(Yellow)OE_JUNGLE05 : 3-Blue-{Ignorecycle}, 2-Hoverfly-{AlternateForm,IgnoreCycle}-4
+
+(White,Yellow,Gourmand)OE_JUNGLE06 : 2-CicadaB-1, 6-CicadaA-2, 4-Yeek-3-{Ignorecycle}, 3-Hoverfly-{AlternateForm,IgnoreCycle}-3
+
+(White,Yellow)OE_RUIN24 : 4-CicadaB-3, 5-CicadaA-2, 7-CicadaA-4, 2-Hoverfly-{AlternateForm,IgnoreCycle}-2, 3-Hoverfly-{AlternateForm,IgnoreCycle}-2
+(Gourmand)OE_RUIN24 : 4-CicadaB-3, 5-CicadaA-2, 7-CicadaA-4, 4-TentaclePlant-{Night}, 9-TentaclePlant-{Night}, 2-Hoverfly-{AlternateForm,IgnoreCycle}-2, 3-Hoverfly-{AlternateForm,IgnoreCycle}-2
 
 
 
