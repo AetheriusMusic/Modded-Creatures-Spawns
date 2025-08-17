@@ -10,17 +10,50 @@ CREATURES
 
 
 
+(White,Yellow)OE_CAVE10 : 6-Small Centipede-6-{Ignorecycle}, 7-JungleLeech-3-{Ignorecycle}
+(Gourmand)OE_CAVE10 : 6-Small Centipede-6-{Ignorecycle}, 7-JungleLeech-3-{Ignorecycle}, 13-TentaclePlant-{Night}
+(White,Yellow,Gourmand)LINEAGE : OE_CAVE10 : 4 : SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0
+(White,Yellow,Gourmand)LINEAGE : OE_CAVE10 : 5 : EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0
+
 (White,Yellow,Gourmand)OE_JUNGLE03 : 3-CicadaA-2, 3-Yeek-5-{Ignorecycle}, 4-Hoverfly-{AlternateForm,IgnoreCycle}-4
 
 (White,Yellow,Gourmand)OE_JUNGLE04 : 3-Hoverfly-{AlternateForm,IgnoreCycle}-2
+(White,Yellow,Gourmand)LINEAGE : OE_JUNGLE04 : 4 : SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0
+(White,Yellow,Gourmand)LINEAGE : OE_JUNGLE04 : 5 : EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0
 
 (White,Gourmand)OE_JUNGLE05 : 3-White-{Ignorecycle}, 4-JungleLeech-11-{Ignorecycle}, 2-Hoverfly-{AlternateForm,IgnoreCycle}-4
 (Yellow)OE_JUNGLE05 : 3-Blue-{Ignorecycle}, 2-Hoverfly-{AlternateForm,IgnoreCycle}-4
+(Yellow)LINEAGE : OE_JUNGLE05 : 5 : NONE-0.6, NONE-0.6, CommonEel-0
+(White,Gourmand)LINEAGE : OE_JUNGLE05 : 5 : CommonEel-0
 
 (White,Yellow,Gourmand)OE_JUNGLE06 : 2-CicadaB-1, 6-CicadaA-2, 4-Yeek-3-{Ignorecycle}, 3-Hoverfly-{AlternateForm,IgnoreCycle}-3
 
+(White,Yellow,Gourmand)OE_JUNGLEESCAPE : 6-Blue-{Ignorecycle}, 3-Mimic-{Ignorecycle}-{16}, 9-DropBug-{Ignorecycle}, 8-Small Centipede-5-{Ignorecycle}
+(White,Yellow,Gourmand)LINEAGE : OE_JUNGLEESCAPE : 2 : ChipChop
+(White,Yellow,Gourmand)LINEAGE : OE_JUNGLEESCAPE : 4 : ChipChop
+(White,Yellow,Gourmand)LINEAGE : OE_JUNGLEESCAPE : 5 : ChipChop
+(White,Yellow,Gourmand)LINEAGE : OE_JUNGLEESCAPE : 7 : ChipChop
+(White,Yellow,Gourmand)LINEAGE : OE_JUNGLEESCAPE : 10 : ChipChop
+
+(White,Yellow,Gourmand)LINEAGE : OE_RUIN19 : 4 : SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0
+(White,Yellow,Gourmand)LINEAGE : OE_RUIN19 : 5 : EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0
+
 (White,Yellow)OE_RUIN24 : 4-CicadaB-3, 5-CicadaA-2, 7-CicadaA-4, 2-Hoverfly-{AlternateForm,IgnoreCycle}-2, 3-Hoverfly-{AlternateForm,IgnoreCycle}-2
 (Gourmand)OE_RUIN24 : 4-CicadaB-3, 5-CicadaA-2, 7-CicadaA-4, 4-TentaclePlant-{Night}, 9-TentaclePlant-{Night}, 2-Hoverfly-{AlternateForm,IgnoreCycle}-2, 3-Hoverfly-{AlternateForm,IgnoreCycle}-2
+
+(Yellow,White,Gourmand)LINEAGE : OE_RUIN11 : 3 : TintedBeetle-0.8, TintedBeetle-0.6, TintedBeetle-0.4, ThornBug-1, TintedBeetle-0.9, TintedBeetle-0.7, TintedBeetle-0.5, ThornBug-0
+(Yellow,White,Gourmand)LINEAGE : OE_RUIN11 : 4 : TintedBeetle-0.6, TintedBeetle-0.4, TintedBeetle-0.2, ThornBug-1, TintedBeetle-0.9, TintedBeetle-0.7, TintedBeetle-0.5, ThornBug-0
+(Yellow,White,Gourmand)LINEAGE : OE_RUIN11 : 6 : ThornBug-0
+
+(Yellow,White,Gourmand)LINEAGE : OE_RUINBackHall : 7 : NoodleEater-0.5, Blue-0.2, White-0.8, HunterSeeker-0
+(Yellow,White,Gourmand)LINEAGE : OE_RUINBackHall : 8 : NoodleEater-0
+(Yellow,White,Gourmand)LINEAGE : OE_RUINBackHall : 10 : NoodleEater-0
+
+(Yellow,White,Gourmand)LINEAGE : OE_RUINCourtYard : 6 : TintedBeetle-0.8, TintedBeetle-0.6, TintedBeetle-0.4, ThornBug-1, TintedBeetle-0.9, TintedBeetle-0.7, TintedBeetle-0.5, ThornBug-0
+(Yellow,White,Gourmand)LINEAGE : OE_RUINCourtYard : 7 : TintedBeetle-0.6, TintedBeetle-0.4, TintedBeetle-0.2, ThornBug-1, TintedBeetle-0.9, TintedBeetle-0.7, TintedBeetle-0.5, ThornBug-0
+(Yellow,White,Gourmand)LINEAGE : OE_RUINCourtYard : 8 : NONE-0.5, ThornBug-0
+(Yellow)LINEAGE : OE_RUINCourtYard : 4 : NoodleEater-0
+(Yellow)LINEAGE : OE_RUINCourtYard : 5 : NoodleEater-0
 
 
 
