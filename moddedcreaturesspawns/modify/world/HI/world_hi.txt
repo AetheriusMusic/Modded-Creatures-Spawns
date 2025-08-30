@@ -38,11 +38,10 @@ CREATURES
 (Rivulet)HI_C04 : 8-Eel, 8-TentaclePlant-{PreCycle}, 5-Cyan-{PreCycle}
 (Saint)HI_C04 : 5-Lantern Mouse-6, 8-TentaclePlant-{PreCycle}, 5-Cyan-{PreCycle}
 (Inv)HI_C04 : 5-Train, 8-TentaclePlant-{PreCycle}, 5-Cyan-{PreCycle}
-(Yellow,White)LINEAGE : HI_C04 : 6 : NONE-0.1, NONE-0.8, HunterSeeker-0
+(Yellow,White)LINEAGE : HI_C04 : 6 : NONE-0.2, NONE-0.8, HunterSeeker-0
 (Red,Gourmand,Artificer,Spear)LINEAGE : HI_C04 : 6 : HunterSeeker-0
-(Yellow,White)LINEAGE : HI_C04 : 6 : NONE-0.1, NONE-0.8, HunterSeeker-0
 (Rivulet)LINEAGE : HI_C04 : 6 : HunterSeeker-1, NONE-0.6, NONE-0.8, HunterSeeker-0
-(Saint)LINEAGE : HI_C04 : 6 : NONE-0.4, HunterSeeker-0
+(Saint)LINEAGE : HI_C04 : 6 : NONE-0.5, HunterSeeker-0
 
 
 

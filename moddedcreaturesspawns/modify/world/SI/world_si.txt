@@ -5,13 +5,32 @@ CREATURES
 
 
 (Yellow,White,Red,Gourmand,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : Bombadier-0
-(Yellow,White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : NONE-0.8, NONE-0.8, Bombadier-0
-(Red,Gourmand,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.6, NONE-0.4, Bombadier-0
+(Yellow,White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : NONE-0.6, NONE-0.4, NONE-0.2, NONE-0.2, Bombadier-1, NONE-0.3, Bombadier-0
+(Red,Gourmand,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.6, NONE-0.4, NONE-0.2, NONE-0.2, Bombadier-0
 
 (Yellow,White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : FatFireFly-0
-(Yellow,White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : NONE-0.6, NONE-0.4, FatFireFly-0
+(Yellow,White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : NONE-0.2, NONE-0.2, FatFireFly-1, NONE-0.8, FatFireFly-0
 
 (Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{Night}-0
+
+
+
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : SI_A08x : 4 : HunterSeeker-0
+
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : SI_A28 : 2 : TintedBeetle-1, ThornBug-0.5, TintedBeetle-0
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : SI_A28 : 3 : ThornBug-1, TintedBeetle-1, ThornBug-0
+
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : SI_B10 : 3 : TintedBeetle-1, ThornBug-0.5, TintedBeetle-0
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : SI_B10 : 4 : ThornBug-1, TintedBeetle-1, ThornBug-0
+
+(Yellow,White)LINEAGE : SI_B13 : 2 : Centiwing-0.2, RedHorror-0
+(Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : SI_B13 : 2 : RedHorror-0
+
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : SI_C01x : 4 : TintedBeetle-1, ThornBug-0.5, TintedBeetle-0
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : SI_C01x : 5 : ThornBug-1, TintedBeetle-1, ThornBug-0
+
+(Yellow,White)LINEAGE : SI_D08 : 3 : NONE-0.2, NONE-0.4, RedHorror-0
+(Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : SI_D08 : 3 : RedHorror-0
 
 
 
