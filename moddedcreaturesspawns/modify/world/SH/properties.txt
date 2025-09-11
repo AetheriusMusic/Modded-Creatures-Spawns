@@ -32,3 +32,29 @@
 [ADDAFTER]Joust-Like,KingMiros-Avoid,
 [FINDLINESTART]Room_Attr: SH_scavshop:
 [ADDAFTER]Joust-Like,KingMiros-Avoid,
+
+[FINDLINESTART]Room_Attr: SH_B13:
+[ADDAFTER]MoleSalamander-Avoid,
+[FINDLINESTART]Room_Attr: SH_B11:
+[ADDAFTER]MoleSalamander-Avoid,
+[FINDLINESTART]Room_Attr: SH_D02:
+[ADDAFTER]MoleSalamander-Stay,
+[FINDLINESTART]Room_Attr: SH_B10:
+[ADDAFTER]MoleSalamander-Like,
+[FINDLINESTART]Room_Attr: SH_E02:
+[ADDAFTER]MoleSalamander-Stay,
+[FINDLINESTART]Room_Attr: SH_B12:
+[ADDAFTER]MoleSalamander-Avoid,
+
+[FINDLINESTART]Room_Attr: SH_C02:
+[ADDAFTER]Killerpillar-Avoid,Glowpillar-Avoid,
+[FINDLINESTART]Room_Attr: SH_B08:
+[ADDAFTER]Killerpillar-Like,Glowpillar-Like,
+[FINDLINESTART]Room_Attr: SH_A05:
+[ADDAFTER]Killerpillar-Avoid,Glowpillar-Avoid,
+[FINDLINESTART]Room_Attr: SH_B01:
+[ADDAFTER]Killerpillar-Avoid,Glowpillar-Avoid,
+[FINDLINESTART]Room_Attr: SH_C10:
+[ADDAFTER]Killerpillar-Like,Glowpillar-Like,
+[FINDLINESTART]Room_Attr: SH_C01:
+[ADDAFTER]Killerpillar-Avoid,Glowpillar-Avoid,

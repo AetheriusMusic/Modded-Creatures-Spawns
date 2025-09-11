@@ -1,0 +1,11 @@
+[FIND]Vulture-Forbidden,
+[ADDAFTER]FatFireFly-Forbidden,
+[FIND]Vulture-Avoid,
+[ADDAFTER]FatFireFly-Avoid,
+
+[FINDLINESTART]Room_Attr: VS_C04:
+[ADDAFTER]FatFireFly-Like,
+
+
+
+[ADD]Room_Attr: VS_C13: FatFireFly-Stay,

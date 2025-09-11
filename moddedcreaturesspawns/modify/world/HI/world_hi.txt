@@ -5,19 +5,26 @@
 [FIND]LINEAGE : HI_C04 : 8 :
 [REPLACE]LINEAGE : HI_C04 : 9 :
 
+[FIND](X-Yellow,Red,Gourmand,Rivulet,Artificer,Spear,Saint,Inv)OFFSCREEN : 0-Vulture-3, 0-Scavenger-6
+[ADDAFTER], 0-FatFireFly-{AlternateForm}-1
+[FIND](Yellow)OFFSCREEN : 0-Vulture-1, 0-Scavenger-5
+[ADDAFTER], 0-FatFireFly-{AlternateForm}-1
+[FIND](Red)OFFSCREEN : 0-Vulture-2, 0-KingVulture-1, 0-Scavenger-7
+[ADDAFTER], 0-FatFireFly-{AlternateForm}-2
+[FIND](Gourmand)OFFSCREEN : 0-Vulture-2, 0-KingVulture-2, 0-Scavenger-7
+[ADDAFTER], 0-FatFireFly-{AlternateForm}-2
+[FIND](Artificer)OFFSCREEN : 0-Vulture-3, 0-KingVulture-1, 0-Scavenger-14
+[ADDAFTER], 0-FatFireFly-{AlternateForm}-1
+[FIND](Spear)OFFSCREEN : 0-Vulture-1, 0-KingVulture-2, 0-Scavenger-12
+[ADDAFTER], 0-FatFireFly-{AlternateForm}-1
+
 [MERGE]
 
 CREATURES
 
 
 
-(Yellow)OFFSCREEN : 0-Vulture, 0-Scavenger-5, 0-FatFireFly-{AlternateForm}-1
-(White)OFFSCREEN : 0-Vulture-3, 0-Scavenger-6, 0-FatFireFly-{AlternateForm}-1
-(Red)OFFSCREEN : 0-Vulture-2, 0-KingVulture, 0-Scavenger-7, 0-FatFireFly-{AlternateForm}-1, 0-FatFireFly-{AlternateForm}-1
-(Gourmand)OFFSCREEN : 0-Vulture-2, 0-KingVulture-2, 0-Scavenger-7, 0-FatFireFly-{AlternateForm}-1, 0-FatFireFly-{AlternateForm}-1
-(Artificer)OFFSCREEN : 0-Vulture-3, 0-KingVulture-1, 0-Scavenger-14, 0-FatFireFly-{AlternateForm}-1
-(Spear)OFFSCREEN : 0-Vulture-1, 0-KingVulture-2, 0-Scavenger-12, 0-FatFireFly-{AlternateForm}-1
-(Yellow,White,Red,Gourmand,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.8, NONE-0.4, FatFireFly-0
+(Yellow,White,Red,Gourmand,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.4, NONE-0.4, NONE-0.1, FatFireFly-0
 
 (Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{Night}-0
 (Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{Night}-0

@@ -1,0 +1,11 @@
+[FIND]MirosVulture-Forbidden,
+[ADDAFTER]KingMiros-Forbidden,
+[FIND]MirosVulture-Avoid,
+[ADDAFTER]KingMiros-Avoid,
+
+[FINDLINESTART]Room_Attr: VS_C04:
+[ADDAFTER]KingMiros-Like,
+
+
+
+[ADD]Room_Attr: VS_C13: KingMiros-Stay,

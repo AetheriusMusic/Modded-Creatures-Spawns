@@ -45,7 +45,6 @@ CREATURES
 (Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : SH_C10 : 8 : KillerPillar-0.5, GlowPillar-0.3, KillerPillar-0
 (Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : SH_C10 : 10 : GlowPillar-0
 
-//Rain World
 SH_D02 : 4-Tentacle Plant, 5-Tentacle Plant
 (Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : SH_D02 : 3 : MoleSalamander-0
 

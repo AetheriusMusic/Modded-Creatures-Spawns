@@ -1,0 +1,13 @@
+[FIND]MirosVulture-Forbidden,
+[ADDAFTER]KingMiros-Forbidden,
+[FIND]MirosVulture-Avoid,
+[ADDAFTER]KingMiros-Avoid,
+[FIND]MirosVulture-Like,
+[ADDAFTER]KingMiros-Like,
+[FIND]MirosVulture-Stay,
+[ADDAFTER]KingMiros-Stay,
+
+[FINDLINESTART]Room_Attr: HR_E04:
+[ADDAFTER]KingMiros-Stay,
+[FINDLINESTART]Room_Attr: HR_L02:
+[ADDAFTER]KingMiros-Stay,

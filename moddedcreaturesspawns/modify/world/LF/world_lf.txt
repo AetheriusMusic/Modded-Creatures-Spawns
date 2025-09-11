@@ -7,7 +7,7 @@ CREATURES
 
 
 
-(Yellow)LINEAGE : OFFSCREEN : 0 : NONE-0.2, Bombadier-0
+(Yellow)LINEAGE : OFFSCREEN : 0 : NONE-0.2, NONE-0.2, NONE-0.2, Bombadier-0
 //+1 Bombardier Vulture for Survivor, Gourmand and Rivulet, added by the mod
 
 (Artificer)LINEAGE : OFFSCREEN : 0 : NONE-0.4, NONE-0.2, FatFireFly-0
@@ -31,14 +31,12 @@ CREATURES
 (Rivulet)LF_D04 : 6-CicadaA-3, 3-AngryMosquito-2, 4-AngryMosquito-2, 5-Mosquito-1, 7-AngryMosquito-1
 (Saint)LF_D04 : 6-Centiwing-2
 
-//Adding and adjusting these broken Vanilla spawns
 (Yellow,White,Gourmand)LF_D06 : 5-Small Centipede-2, 4-Small Centipede-2, 5-Mosquito-1, 6-AngryMosquito-2, 7-Mosquito-1
 (Red)LF_D06 : 5-Centipede, 5-Small Centipede-2, 4-Small Centipede-2, 5-Mosquito-1, 6-AngryMosquito-2, 7-Mosquito-1
 (Artificer,Spear)LF_D06 : 5-Centipede, 5-Small Centipede-2, 4-Small Centipede-2, 5-AngryMosquito-1, 6-AngryMosquito-1, 7-AngryMosquito-1
 (Rivulet)LF_D06 : 5-Mosquito-2, 6-AngryMosquito-1, 7-Mosquito-2
 (Inv)LF_D06 : 5-RedCentipede
 
-//Adding and adjusting these broken Vanilla spawns
 (Yellow,White,Gourmand)LF_E04 : 2-AngryMosquito-2, 3-Mosquito-1, 4-AngryMosquito-1, 5-Mosquito-2
 (Red)LF_E04 : 7-Centipede, 2-AngryMosquito-2, 4-Mosquito-2
 (Rivulet)LF_E04 : 9-Caramel, 2-AngryMosquito-2, 3-Mosquito-2, 4-AngryMosquito-2, 5-Mosquito-2

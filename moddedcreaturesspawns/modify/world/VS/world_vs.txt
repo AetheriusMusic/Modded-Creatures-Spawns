@@ -5,7 +5,7 @@ CREATURES
 
 
 (Yellow,White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : FatFireFly-0
-(Rivulet)LINEAGE : OFFSCREEN : 0 : NONE-0.2, NONE-0.5, FatFireFly-0
+(Rivulet)OFFSCREEN : 0-Scavenger-8, 0-Vulture-2, FatFireFly-{AlternateForm}-1
 
 
 

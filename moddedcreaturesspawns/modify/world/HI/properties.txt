@@ -1,0 +1,44 @@
+[FINDLINESTART]Room_Attr: HI_B04:
+[ADDAFTER]ThornBug-Like,FatFireFly-Avoid,TintedBeetle-Like,
+[FINDLINESTART]Room_Attr: HI_B12:
+[ADDAFTER]ThornBug-Like,FatFireFly-Avoid,TintedBeetle-Like,
+[FINDLINESTART]Room_Attr: HI_A15:
+[ADDAFTER]ThornBug-Like,TintedBeetle-Like,
+[FINDLINESTART]Room_Attr: HI_A20:
+[ADDAFTER]ThornBug-Like,TintedBeetle-Like,
+[FINDLINESTART]Room_Attr: HI_A14:
+[ADDAFTER]ThornBug-Like,TintedBeetle-Like,
+[FINDLINESTART]Room_Attr: HI_A07:
+[ADDAFTER]ThornBug-Like,TintedBeetle-Like,
+[FINDLINESTART]Room_Attr: HI_C02:
+[ADDAFTER]ThornBug-Like,TintedBeetle-Like,
+[FINDLINESTART]Room_Attr: HI_B02:
+[ADDAFTER]FatFireFly-Stay,
+[FINDLINESTART]Room_Attr: HI_B03:
+[ADDAFTER]FatFireFly-Like,
+[FINDLINESTART]Room_Attr: HI_B08:
+[ADDAFTER]ThornBug-Like,HunterSeeker-Avoid,TintedBeetle-Like,
+[FINDLINESTART]Room_Attr: HI_C04:
+[ADDAFTER]HunterSeeker-Like,
+[FINDLINESTART]Room_Attr: HI_A25:
+[ADDAFTER]HunterSeeker-Like,
+[FINDLINESTART]Room_Attr: HI_A21:
+[ADDAFTER]HunterSeeker-Avoid,
+[FINDLINESTART]Room_Attr: HI_B06:
+[ADDAFTER]ThornBug-Like,HunterSeeker-Stay,TintedBeetle-Like,
+[FINDLINESTART]Room_Attr: HI_A10:
+[ADDAFTER]FatFireFly-Like,
+[FINDLINESTART]Room_Attr: HI_B09:
+[ADDAFTER]FatFireFly-Like,
+[FINDLINESTART]Room_Attr: HI_B07:
+[ADDAFTER]FatFireFly-Like,
+[FINDLINESTART]Room_Attr: HI_B14:
+[ADDAFTER]ThornBug-Like,TintedBeetle-Like,
+[FINDLINESTART]Room_Attr: HI_D01:
+[ADDAFTER]FatFireFly-Stay,
+[FINDLINESTART]Room_Attr: HI_C03:
+[ADDAFTER]ThornBug-Like,TintedBeetle-Like,
+[FINDLINESTART]Room_Attr: HI_A11:
+[ADDAFTER]ThornBug-Like,TintedBeetle-Like,
+[FINDLINESTART]Room_Attr: HI_B15:
+[ADDAFTER]ThornBug-Like,TintedBeetle-Like,
