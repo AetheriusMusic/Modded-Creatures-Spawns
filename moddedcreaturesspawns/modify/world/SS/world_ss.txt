@@ -1,0 +1,17 @@
+[MERGE]
+
+CREATURES
+
+
+
+(Yellow,White,Red,Gourmand,Artificer,Spear)LINEAGE : SS_C03 : 4 : GregTechLizard-{IgnoreCycle}-0
+
+(Yellow,White)LINEAGE : SS_D05 : 3 : NONE-0.4, SisterLongLegs-{Ignorecycle}-0
+
+(Yellow,White,Gourmand)LINEAGE : SS_F01 : 3 : SisterLongLegs-{Ignorecycle}-0
+
+
+
+END CREATURES
+
+[ENDMERGE]

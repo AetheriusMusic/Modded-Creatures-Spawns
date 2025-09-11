@@ -43,7 +43,7 @@ CREATURES
 
 (Yellow)GW_C09 : 6-Bro, 7-Bro, 3-AngryMosquito-1, 4-AngryMosquito-1, 5-AngryMosquito-1
 (White)GW_C09 : 6-Bro, 7-Bro, 3-AngryMosquito-2, 4-AngryMosquito-2, 5-AngryMosquito-1
-(Red,Gourmand)GW_C09 : 6-Bro, 7-Bro, 3-AngryMosquito-3, 4-AngryMosquito-2, 5-AngryMosquito-2
+(Red,Gourmand)GW_C09 : 6-Bro, 7-SisterLongLegs, 3-AngryMosquito-3, 4-AngryMosquito-2, 5-AngryMosquito-2
 (Artificer)GW_C09 : 6-Bro, 7-Daddy, 3-AngryMosquito-3, 4-AngryMosquito-3, 5-AngryMosquito-3
 (Rivulet)GW_C09 : 7-Bro, 9-Leech-29, 3-AngryMosquito-1, 5-AngryMosquito-1
 (Spear)GW_C09 : 7-Terror, 3-AngryMosquito-4, 4-AngryMosquito-3, 5-AngryMosquito-3

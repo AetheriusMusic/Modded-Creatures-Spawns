@@ -1,7 +1,7 @@
 {
-  "id": "aetherius_moddedcreaturesspawns",
+  "id": "aetherius.moddedcreaturesspawns",
   "name": "Modded Creatures Spawns",
-  "version": "2.0.0",
+  "version": "1.4.2",
   "hide_version": false,
   "target_game_version": "v1.10.4",
   "authors": "Aetherius",
@@ -12,14 +12,16 @@
     "Croken.bombardier-vulture",
     "nonescreatures",
     "lb-fgf-m4r-ik.modpack",
-    "mosquitoes"
+    "mosquitoes",
+    "bebra.gregtech_lizard"
   ],
   "requirements_names": [
     "More Slugcats Expansion",
     "Bombardier Vulture",
     "None's Creature Pack",
     "The M4rblelous Entity Pack",
-    "Mosquitoes"
+    "Mosquitoes",
+    "Electric Lizard"
   ],
   "priorities": [
     "screen-lady.notsosimplespawns",

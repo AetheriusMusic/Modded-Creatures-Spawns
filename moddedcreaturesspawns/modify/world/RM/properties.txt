@@ -1,0 +1,13 @@
+[FINDLINESTART]Room_Attr: RM_I03:
+[ADDAFTER]GregTechLizard-Avoid,
+[FINDLINESTART]Room_Attr: RM_A11:
+[ADDAFTER]GregTechLizard-Avoid,
+
+
+
+[ADD]Room_Attr: RM_C03: GregTechLizard-Like,
+[ADD]Room_Attr: RM_B02: GregTechLizard-Like,
+[ADD]Room_Attr: RM_A16: GregTechLizard-Like,
+[ADD]Room_Attr: RM_A03: GregTechLizard-Avoid,
+[ADD]Room_Attr: RM_A15: GregTechLizard-Avoid,
+[ADD]Room_Attr: RM_D03: GregTechLizard-Stay,

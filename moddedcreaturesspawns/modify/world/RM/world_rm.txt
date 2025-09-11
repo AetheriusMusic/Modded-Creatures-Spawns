@@ -1,0 +1,17 @@
+[MERGE]
+
+CREATURES
+
+
+
+(Rivulet)LINEAGE : RM_C03 : 4 : GregTechLizard-{IgnoreCycle}-0
+
+(Rivulet)LINEAGE : RM_E03 : 2 : SisterLongLegs-{IgnoreCycle}-0
+
+(Rivulet)LINEAGE : RM_LCHEADER : 4 : SisterLongLegs-{IgnoreCycle}-0
+
+
+
+END CREATURES
+
+[ENDMERGE]
