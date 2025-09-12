@@ -1,0 +1,20 @@
+[FIND]LINEAGE : UG_B03 : 4 :
+[REPLACE]LINEAGE : UG_B03 : 5 :
+
+[MERGE]
+
+CREATURES
+
+
+
+(Saint)UG_A06 : 4-JungleLeech-10-{Ignorecycle}, 2-ChipChop-1, 3-ChipChop-2
+
+(Saint)UG_A09 : 2-ChipChop-2, 3-ChipChop-2
+
+(Saint)UG_B03 : 4-ChipChop-2
+
+
+
+END CREATURES
+
+[ENDMERGE]

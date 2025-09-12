@@ -55,7 +55,8 @@ CREATURES
 (Red,Gourmand)DS_GUTTER05 : 2-ChipChop-1, 4-ChipChop-1, 5-ChipChop-1, 6-ChipChop-1, 7-ChipChop-1, 8-ChipChop-1, 11-ChipChop-1
 (Artificer,Spear)DS_GUTTER05 : 2-ChipChop-1, 3-ChipChop-1, 4-ChipChop-1, 5-ChipChop-1, 6-ChipChop-1, 7-ChipChop-1, 8-ChipChop-1, 9-ChipChop-1, 11-ChipChop-1
 
-END CREATURES
 
+
+END CREATURES
 
 [ENDMERGE]

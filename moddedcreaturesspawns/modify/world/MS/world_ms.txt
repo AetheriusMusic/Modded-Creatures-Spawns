@@ -9,8 +9,8 @@ CREATURES
 (Yellow,White,Red,Gourmand,Rivulet)LINEAGE : OFFSCREEN : 0 : MiniLeviathan-0
 (Yellow,White,Red,Gourmand,Rivulet)LINEAGE : OFFSCREEN : 0 : MiniLeviathan-0
 (Yellow,White,Red,Gourmand,Rivulet)LINEAGE : OFFSCREEN : 0 : MiniLeviathan-0
-(Yellow,White,Red,Gourmand,Rivulet)LINEAGE : OFFSCREEN : 0 : MiniLeviathan-0
-(Yellow,White,Red,Gourmand,Rivulet)LINEAGE : OFFSCREEN : 0 : NONE-0.6, NONE-0.5, NONE-0.4, NONE-0.3, MiniLeviathan-0
+(Yellow,White,Red,Gourmand,Rivulet,Saint)LINEAGE : OFFSCREEN : 0 : MiniLeviathan-0
+(Yellow,White,Red,Gourmand,Rivulet,Saint)LINEAGE : OFFSCREEN : 0 : NONE-0.6, NONE-0.5, NONE-0.4, NONE-0.3, MiniLeviathan-0
 
 (Rivulet)LINEAGE : OFFSCREEN : 0 : KingMiros-0
 
