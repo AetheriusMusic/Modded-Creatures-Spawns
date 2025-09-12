@@ -29,13 +29,17 @@ CREATURES
 (White,Yellow,Gourmand)OE_JUNGLE06 : 2-CicadaB-1, 6-CicadaA-2, 4-Yeek-3-{Ignorecycle}, 3-Hoverfly-{AlternateForm,IgnoreCycle}-3
 
 (White,Yellow,Gourmand)OE_JUNGLEESCAPE : 6-Blue-{Ignorecycle}, 3-Mimic-{Ignorecycle}-{16}, 9-DropBug-{Ignorecycle}, 8-Small Centipede-5-{Ignorecycle}
-(White,Yellow,Gourmand)LINEAGE : OE_JUNGLEESCAPE : 2 : ChipChop
-(White,Yellow,Gourmand)LINEAGE : OE_JUNGLEESCAPE : 4 : ChipChop
-(White,Yellow,Gourmand)LINEAGE : OE_JUNGLEESCAPE : 5 : ChipChop
-(White,Yellow,Gourmand)LINEAGE : OE_JUNGLEESCAPE : 7 : ChipChop
-(White,Yellow,Gourmand)LINEAGE : OE_JUNGLEESCAPE : 10 : ChipChop
+(White,Yellow,Gourmand)LINEAGE : OE_JUNGLEESCAPE : 2 : ChipChop-0
+(White,Yellow,Gourmand)LINEAGE : OE_JUNGLEESCAPE : 4 : ChipChop-0
+(White,Yellow,Gourmand)LINEAGE : OE_JUNGLEESCAPE : 5 : ChipChop-0
+(White,Yellow,Gourmand)LINEAGE : OE_JUNGLEESCAPE : 7 : ChipChop-0
+(White,Yellow,Gourmand)LINEAGE : OE_JUNGLEESCAPE : 10 : ChipChop-0
 
-(White,Yellow,Gourmand)LINEAGE : OE_RUIN19 : 4 : SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0
+
+(White,Gourmand)OE_RAIL06 : 5-Big Spider-2
+(Yellow,White,Gourmand)LINEAGE : OE_RAIL06 : 6 : Denture-{AlternateForm}-0
+
+(White,Yellow,Gourmand)LINEAGE : OE_RUIN19 : 4 : SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-1, SurfaceSwimmer-0
 (White,Yellow,Gourmand)LINEAGE : OE_RUIN19 : 5 : EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0
 
 (White,Yellow)OE_RUIN24 : 4-CicadaB-3, 5-CicadaA-2, 7-CicadaA-4, 2-Hoverfly-{AlternateForm,IgnoreCycle}-2, 3-Hoverfly-{AlternateForm,IgnoreCycle}-2
