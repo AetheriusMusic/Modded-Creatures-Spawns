@@ -1,7 +1,7 @@
 {
   "id": "aetherius.moddedcreaturesspawns",
   "name": "Modded Creatures Spawns",
-  "version": "1.4.4",
+  "version": "1.5.0",
   "hide_version": false,
   "target_game_version": "v1.10.4",
   "authors": "Aetherius",
@@ -13,7 +13,8 @@
     "nonescreatures",
     "lb-fgf-m4r-ik.modpack",
     "mosquitoes",
-    "bebra.gregtech_lizard"
+    "bebra.gregtech_lizard",
+    "Croken.Mimic-Long-Legs"
   ],
   "requirements_names": [
     "More Slugcats Expansion",
@@ -21,7 +22,8 @@
     "None's Creature Pack",
     "The M4rblelous Entity Pack",
     "Mosquitoes",
-    "Electric Lizard"
+    "Electric Lizard",
+    "Mimic Long Legs"
   ],
   "priorities": [
     "screen-lady.notsosimplespawns",

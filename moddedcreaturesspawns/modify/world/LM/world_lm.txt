@@ -15,6 +15,11 @@ CREATURES
 
 
 
+(Artificer,Spear)LM_TOWER14 : 3-ExplodingMosquito, 4-ExplodingMosquito, 5-ExplodingMosquito, 6-ExplodingMosquito
+(Spear)LM_TOWER12 : 3-ExplodingMosquito, 4-ExplodingMosquito, 5-ExplodingMosquito
+
+
+
 END CREATURES
 
 [ENDMERGE]

@@ -31,9 +31,7 @@ CREATURES
 (Yellow,Artificer,Spear)LF_C01 : 3-Green, 4-TentaclePlant-{PreCycle}
 (White,Gourmand,Red)LF_C01 : 3-Caramel, 4-TentaclePlant-{PreCycle}
 (Saint,Inv)LF_C01 : 3-Caramel, 4-TentaclePlant-{PreCycle}
-(Yellow,Artificer,Spear)LINEAGE : LF_C01 : 2 : Denture-0
-(White,Gourmand,Red)LINEAGE : LF_C01 : 2 : Denture-0
-(Rivulet)LINEAGE : LF_C01 : 2 : Denture-0
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : LF_C01 : 2 : Denture-0
 
 (Yellow,White,Red,Gourmand,Artificer,Rivulet,Spear)LF_D02 : 5-BigNeedleWorm, 5-SmallNeedleWorm-2, 3-Mosquito-2, 4-Mosquito-1
 (Artificer,Spear)LF_D02 : 5-BigNeedleWorm, 5-SmallNeedleWorm-2, 3-AngryMosquito-3, 4-AngryMosquito-3
@@ -56,16 +54,13 @@ CREATURES
 (Gourmand)LF_E01 : 5-Red, 3-Salamander-{PreCycle}, 4-TentaclePlant-{PreCycle}
 (Saint)LF_E01 : 6-Caramel, 3-Salamander-{PreCycle}, 4-TentaclePlant-{PreCycle}
 (Inv)LF_E01 : 5-Red, 3-Salamander-{PreCycle}, 4-TentaclePlant-{PreCycle}
-(White,Red,Artificer,Spear)LINEAGE : LF_E01 : 2 : Denture-0
-(Yellow,Rivulet)LINEAGE : LF_E01 : 2 : Denture-0
-(Gourmand)LINEAGE : LF_E01 : 2 : Denture-0
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : LF_E01 : 2 : Denture-0
 
 (White,Red,Gourmand,Artificer,Spear)LF_E02 : 3-Green
 (Yellow,Rivulet)LF_E02 : 3-Caramel
 (Saint)LF_E02 : 3-Caramel, 4-Yeek-6-{Winter}, 6-Caramel
 (Inv)LF_E02 : 3-Caramel
-(White,Red,Gourmand,Artificer,Spear)LINEAGE : LF_E02 : 2 : Denture-{AlternateForm}-0
-(Yellow,Rivulet)LINEAGE : LF_E02 : 2 : Denture-{AlternateForm}-0
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : LF_E02 : 2 : Denture-{AlternateForm}-0
 
 (Yellow,White,Gourmand)LF_E04 : 2-AngryMosquito-2, 3-Mosquito-1, 4-AngryMosquito-1, 5-Mosquito-2
 (Red)LF_E04 : 7-Centipede, 2-AngryMosquito-2, 4-Mosquito-2

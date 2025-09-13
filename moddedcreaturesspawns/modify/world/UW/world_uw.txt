@@ -9,12 +9,48 @@ CREATURES
 
 
 
+//(Red,Gourmand,White,Yellow)LINEAGE : UW_C01 : 5 : TubeWorm-{bigrub}-0
+//(Gourmand,White,Yellow)LINEAGE : UW_C01 : 6 : TubeWorm-{bigrub}-0
+
+//(Rivulet)LINEAGE : UW_C01RIV : 5 : TubeWorm-{bigrub}-0
+//(Rivulet)LINEAGE : UW_C01RIV : 6 : TubeWorm-{bigrub}-0
+
+UW_C06 : 5-Tube, 6-Tube, 7-Tube, 9-Tube
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)UW_C06 : 2-ExplodingMosquito, 3-ExplodingMosquito, 4-ExplodingMosquito
+
+(Yellow,White,Red,Gourmand,Artificer,Spear)LINEAGE : UW_D02 : 5 : ExplodingMosquito-0
+(Yellow,White,Red,Gourmand,Artificer,Spear)LINEAGE : UW_D02 : 6 : ExplodingMosquito-0
+(Yellow,White,Red,Gourmand,Artificer,Spear)LINEAGE : UW_D02 : 7 : ExplodingMosquito-0
+
+(Spear)LINEAGE : UW_I01 : 7 : ExplodingMosquito-0
+(Spear)LINEAGE : UW_I01 : 8 : ExplodingMosquito-0
+(Spear)LINEAGE : UW_I01 : 9 : ExplodingMosquito-0
+(Spear)LINEAGE : UW_I01 : 10 : ExplodingMosquito-0
+
+(X-Red,Artificer,Spear,Inv)UW_D06 : 4-Tube-2
+(Red,Artificer,Spear,Inv)UW_D06 : 4-Tube
+(Yellow,White,Red,Gourmand,Rivulet)LINEAGE : UW_D06 : 3 : MimicStar-1, NONE-0.4, NONE-0.3, MimicStar-1, NONE-0.4, NONE-0.3, MimicStar-0
+
+//(Red,Gourmand,White,Yellow)LINEAGE : UW_J02 : 9 : TubeWorm-{bigrub}-0
+//(Gourmand,White,Yellow)LINEAGE : UW_J02 : 10 : TubeWorm-{bigrub}-0
+
+//(Rivulet)LINEAGE : UW_J02RIV : 9 : TubeWorm-{bigrub}-0
+//(Rivulet)LINEAGE : UW_J02RIV : 10 : TubeWorm-{bigrub}-0
+//(Rivulet)LINEAGE : UW_J02RIV : 11 : TubeWorm-{bigrub}-0
+//(Rivulet)LINEAGE : UW_J02RIV : 12 : TubeWorm-{bigrub}-0
+
+//The Wall
+
+(X-Rivulet)UW_A02 : 2-White, 2-SpitterSpider-{Night}, 3-HunterSeeker-{Ignorecycle}
+(Rivulet)UW_A02 : 2-White, 2-HunterSeeker-{Night}
+
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)UW_C07 : 2-ExplodingMosquito, 3-ExplodingMosquito, 4-ExplodingMosquito-{Night}, 5-ExplodingMosquito-{Night}
+
 (Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)UW_E01 : 3-Blue, 2-White, 3-Cyan-{Night}, 4-Mimic-{18}, 5-Mimic-{16}, 6-Hoverfly-2, 7-Hoverfly-2, 8-Hoverfly-2
 
 (Red,Artificer,Spear)UW_J01 : 3-Cyan-{Ignorecycle}, 4-Cyan, 5-Cyan-{Ignorecycle}, 6-Cyan-2, 7-Hoverfly-1, 8-Hoverfly-1, 9-Hoverfly-2, 10-Hoverfly-2
-(White,Gourmand)UW_J01 : 3-Cyan-{Night}, 4-Cyan-{Night}, 5-Cyan-{Night}, 3-Yellow, 4-Yellow, 5-Yellow, 6-Yellow-2, 7-Hoverfly-1, 8-Hoverfly-1, 9-Hoverfly-2, 10-Hoverfly-2
-(Yellow,Rivulet)UW_J01 : 3-Yellow-{Ignorecycle}, 4-Yellow-{Ignorecycle}, 5-Yellow-{Ignorecycle}, 6-Yellow-{Ignorecycle}, 7-Hoverfly-1, 8-Hoverfly-1, 9-Hoverfly-2, 10-Hoverfly-2
-(Inv)UW_J01 : 3-Cyan-{Ignorecycle}, 4-Cyan, 5-Cyan-{Ignorecycle}, 6-Cyan-2
+(White,Gourmand)UW_J01 : 3-Cyan-{Night}, 4-Cyan-{Night}, 3-Yellow, 4-Yellow, 6-Yellow-2, 7-Hoverfly-1, 8-Hoverfly-1, 9-Hoverfly-2, 10-Hoverfly-2, 5-AlphaOrange-{Ignorecycle}
+(Yellow,Rivulet)UW_J01 : 3-Yellow-{Ignorecycle}, 4-Yellow-{Ignorecycle}, 6-Yellow-{Ignorecycle}, 7-Hoverfly-1, 8-Hoverfly-1, 9-Hoverfly-2, 10-Hoverfly-2, 5-AlphaOrange-{Ignorecycle}
 
 
 

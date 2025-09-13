@@ -10,6 +10,8 @@ CREATURES
 
 (Rivulet)LINEAGE : RM_LCHEADER : 4 : SisterLongLegs-{IgnoreCycle}-0
 
+(Rivulet)LINEAGE : RM_LAB8 : 5 : MimicStar-{IgnoreCycle}-1, NONE-0.4, NONE-0.3, MimicStar-{IgnoreCycle}-1, NONE-0.4, NONE-0.3, MimicStar-{IgnoreCycle}-0
+
 
 
 END CREATURES
