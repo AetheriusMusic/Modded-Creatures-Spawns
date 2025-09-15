@@ -25,6 +25,10 @@ CREATURES
 //(Red,Gourmand,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : Joust-1, NONE-0.7, Joust-1, NONE-0.3, Joust-0
 //(Rivulet)LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.5, Joust-1, NONE-0.1, Joust-1, NONE-0.1, Joust-0
 
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
+(Red,Gourmand,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
+
 (Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{IgnoreCycle}-0
 (Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{IgnoreCycle}-0
 

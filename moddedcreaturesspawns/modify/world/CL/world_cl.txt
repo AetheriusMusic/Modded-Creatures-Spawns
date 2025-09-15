@@ -1,5 +1,5 @@
 [FIND]0-Miros Bird-{Ignorecycle}-9
-[ADDAFTER], 0-Blizzor-{IgnoreCycle}-18
+[ADDAFTER], 0-Blizzor-{IgnoreCycle}-18, 0-MirosVulture-{Night}-1, 0-KingMiros-{Night}-1
 
 [MERGE]
 
@@ -7,15 +7,17 @@ CREATURES
 
 
 
-(Saint)LINEAGE : OFFSCREEN : 0 : MirosVulture-{Night}-0
-(Saint)LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.4, NONE-0.6, MirosVulture-{IgnoreCycle}-1, NONE-0.3, MirosVulture-{IgnoreCycle}-1, NONE-0.1, MirosVulture-{IgnoreCycle}-0
-(Saint)LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.4, NONE-0.6, MirosVulture-{IgnoreCycle}-1, NONE-0.3, MirosVulture-{IgnoreCycle}-1, NONE-0.1, MirosVulture-{IgnoreCycle}-0
+(Saint)LINEAGE : OFFSCREEN : 0 : NONE-0.2, NONE-0.4, NONE-0.2, MirosVulture-1, NONE-0.3, MirosVulture-1, NONE-0.1, MirosVulture-1, NONE-0
 
-(Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{Night}-0
-(Saint)LINEAGE : OFFSCREEN : 0 : NONE-0.3, NONE-0.4, NONE-0.5, KingMiros-{IgnoreCycle}-1, NONE-0.2, KingMiros-{IgnoreCycle}-0
-(Saint)LINEAGE : OFFSCREEN : 0 : NONE-0.3, NONE-0.4, NONE-0.5, KingMiros-{IgnoreCycle}-1, NONE-0.2, KingMiros-{IgnoreCycle}-0
+(Saint)LINEAGE : OFFSCREEN : 0 : NONE-0.1, NONE-0.4, NONE-0.2, KingMiros-1, NONE-0.2, KingMiros-0
 
-(Saint)LINEAGE : CL_B02 : 2 : RivuletLongLegs-{IgnoreCycle}-0, NONE-0
+(Saint)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
+(Saint)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
+(Saint)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
+
+
+
+(Saint)LINEAGE : CL_B02 : 2 : RivuletLongLegs-1, NONE-0
 
 
 

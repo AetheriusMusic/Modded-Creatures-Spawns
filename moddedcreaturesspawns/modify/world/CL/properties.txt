@@ -6,6 +6,7 @@
 [ADDAFTER]Blizzor-Like,
 [FIND]MirosBird-Stay,
 [ADDAFTER]Blizzor-Stay,
+
 [FIND]MirosVulture-Forbidden,
 [ADDAFTER]KingMiros-Forbidden,
 [FIND]MirosVulture-Avoid,
@@ -14,3 +15,13 @@
 [ADDAFTER]KingMiros-Like,
 [FIND]MirosVulture-Stay,
 [ADDAFTER]KingMiros-Stay,
+
+[FIND]Scavenger-Forbidden,
+[ADDAFTER]ScavengerSentinel-Forbidden,
+[FIND]Scavenger-Avoid,
+[ADDAFTER]ScavengerSentinel-Avoid,
+
+[FINDLINESTART]Room_Attr: CL_A34:
+[ADDAFTER]ScavengerSentinel-Stay,
+[FINDLINESTART]Room_Attr: CL_B27:
+[ADDAFTER]ScavengerSentinel-Stay,

@@ -17,6 +17,9 @@ CREATURES
 (Artificer)LINEAGE : OFFSCREEN : 0 : NONE-0.4, NONE-0.2, FatFireFly-0
 (Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.8, NONE-0.4, FatFireFly-0
 
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
+(White,Red,Gourmand,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
+
 
 
 (Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : LF_A01 : 3 : SurfaceSwimmer-0

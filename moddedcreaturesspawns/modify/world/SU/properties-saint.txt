@@ -1,0 +1,6 @@
+[FINDLINESTART]Room_Attr: SU_A45:
+[ADDAFTER]ScavengerSentinel-Avoid,
+[FINDLINESTART]Room_Attr: SU_C02:
+[ADDAFTER]ScavengerSentinel-Stay,
+[FINDLINESTART]Room_Attr: SU_A07:
+[ADDAFTER]ScavengerSentinel-Avoid,

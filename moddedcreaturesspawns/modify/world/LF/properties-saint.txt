@@ -3,5 +3,5 @@
 [FIND]Scavenger-Avoid,
 [ADDAFTER]ScavengerSentinel-Avoid,
 
-[FINDLINESTART]Room_Attr: UG_TOLL:
+[FINDLINESTART]Room_Attr: LF_E03:
 [ADDAFTER]ScavengerSentinel-Stay,

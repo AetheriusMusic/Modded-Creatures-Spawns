@@ -9,11 +9,10 @@ CREATURES
 
 
 
-//(Red,Gourmand,White,Yellow)LINEAGE : UW_C01 : 5 : TubeWorm-{bigrub}-0
-//(Gourmand,White,Yellow)LINEAGE : UW_C01 : 6 : TubeWorm-{bigrub}-0
+(Red,Gourmand,White,Yellow)UW_C01 : 2-Tube-2, 4-Daddy, 5-TubeWorm-{Bigrub}
+(Gourmand,White,Yellow)UW_C01 : 2-Tube-2, 4-Daddy, 6-TubeWorm-{Bigrub}
 
-//(Rivulet)LINEAGE : UW_C01RIV : 5 : TubeWorm-{bigrub}-0
-//(Rivulet)LINEAGE : UW_C01RIV : 6 : TubeWorm-{bigrub}-0
+(Rivulet)UW_C01RIV : 2-Tube-2, 3-Daddy, 5-TubeWorm-{Bigrub}, 6-TubeWorm-{Bigrub}
 
 UW_C06 : 5-Tube, 6-Tube, 7-Tube, 9-Tube
 (Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)UW_C06 : 2-ExplodingMosquito, 3-ExplodingMosquito, 4-ExplodingMosquito
@@ -31,13 +30,11 @@ UW_C06 : 5-Tube, 6-Tube, 7-Tube, 9-Tube
 (Red,Artificer,Spear,Inv)UW_D06 : 4-Tube
 (Yellow,White,Red,Gourmand,Rivulet)LINEAGE : UW_D06 : 3 : MimicStar-1, NONE-0.4, NONE-0.3, MimicStar-1, NONE-0.4, NONE-0.3, MimicStar-0
 
-//(Red,Gourmand,White,Yellow)LINEAGE : UW_J02 : 9 : TubeWorm-{bigrub}-0
-//(Gourmand,White,Yellow)LINEAGE : UW_J02 : 10 : TubeWorm-{bigrub}-0
+(White,Gourmand)UW_J02 : 5-Daddy, 16-Yellow, 19-Yellow, 17-Yellow-2, 13-Tube, 14-Tube, 9-TubeWorm-{Bigrub}
+(Yellow)UW_J02 : 5-Daddy, 19-Yellow, 17-Yellow, 13-Tube, 14-Tube 10-TubeWorm-{Bigrub}
+(Red)UW_J02 : 5-Daddy, 16-Cyan, 19-Cyan, 17-Cyan, 13-Tube, 14-Tube
 
-//(Rivulet)LINEAGE : UW_J02RIV : 9 : TubeWorm-{bigrub}-0
-//(Rivulet)LINEAGE : UW_J02RIV : 10 : TubeWorm-{bigrub}-0
-//(Rivulet)LINEAGE : UW_J02RIV : 11 : TubeWorm-{bigrub}-0
-//(Rivulet)LINEAGE : UW_J02RIV : 12 : TubeWorm-{bigrub}-0
+(Rivulet)UW_J02RIV : 5-Daddy, 8-Tube-2, 9-TubeWorm-{AltBigrub}, 10-TubeWorm-{Bigrub}, 11-TubeWorm-{Bigrub}, 12-TubeWorm-{Bigrub}
 
 //The Wall
 

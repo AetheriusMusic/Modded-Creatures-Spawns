@@ -6,7 +6,17 @@ CREATURES
 
 //+1 Bombardier Vulture for Hunter, added by the mod
 
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
+(Red,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
+
 (Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{Night}-0
+
+
+
+(Yellow,White,Red,Gourmand,Rivulet,Saint)LINEAGE : SU_B12 : 4 : SilverLizard-0
+
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : SU_C01 : 5 : SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-1, SurfaceSwimmer-0
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : SU_C01 : 6 : SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-1, SurfaceSwimmer-0
 
 
 

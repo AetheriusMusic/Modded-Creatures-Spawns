@@ -1,14 +1,3 @@
-[FIND]MirosVulture-Forbidden,
-[ADDAFTER]KingMiros-Forbidden,
-[FIND]MirosVulture-Avoid,
-[ADDAFTER]KingMiros-Avoid,
-[FIND]MirosVulture-Like,
-[ADDAFTER]KingMiros-Like,
-[FIND]MirosVulture-Stay,
-[ADDAFTER]KingMiros-Stay,
-
-
-
 [FINDLINESTART]Room_Attr: CC_C12:
 [ADDAFTER]BombadierVulture-Avoid,
 [FINDLINESTART]Room_Attr: CC_A06:

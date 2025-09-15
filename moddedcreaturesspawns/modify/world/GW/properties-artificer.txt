@@ -7,6 +7,16 @@
 [FIND]MirosVulture-Stay,
 [ADDAFTER]KingMiros-Stay,
 
+[FIND]Scavenger-Forbidden,
+[ADDAFTER]ScavengerSentinel-Forbidden,
+[FIND]Scavenger-Avoid,
+[ADDAFTER]ScavengerSentinel-Avoid,
+
+[FINDLINESTART]Room_Attr: GW_C05:
+[ADDAFTER]ScavengerSentinel-Stay,
+[FINDLINESTART]Room_Attr: GW_C11:
+[ADDAFTER]ScavengerSentinel-Stay,
+
 
 
 [FINDLINESTART]Room_Attr: GW_E02:

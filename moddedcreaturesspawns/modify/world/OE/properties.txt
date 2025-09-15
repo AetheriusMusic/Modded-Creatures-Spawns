@@ -3,6 +3,14 @@
 [FIND]Vulture-Avoid,
 [ADDAFTER]FatFireFly-Avoid,BombadierVulture-Avoid,
 
+[FIND]Scavenger-Forbidden,
+[ADDAFTER]ScavengerSentinel-Forbidden,
+[FIND]Scavenger-Avoid,
+[ADDAFTER]ScavengerSentinel-Avoid,
+
+[FINDLINESTART]Room_Attr: OE_TOWER04:
+[ADDAFTER]ScavengerSentinel-Like,
+
 [FINDLINESTART]Room_Attr: OE_RAIL01:
 [ADDAFTER]BombadierVulture-Like,
 [FINDLINESTART]Room_Attr: OE_RAIL02:
