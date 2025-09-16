@@ -7,7 +7,9 @@
 [FIND]MirosVulture-Stay,
 [ADDAFTER]KingMiros-Stay,
 
-[FINDLINESTART]Room_Attr: HR_E04:
-[ADDAFTER]KingMiros-Stay,
-[FINDLINESTART]Room_Attr: HR_L02:
-[ADDAFTER]KingMiros-Stay,
+[MERGE]
+
+Room_Attr: HR_E04: KingMiros-Stay,
+Room_Attr: HR_L02: KingMiros-Stay,
+
+[ENDMERGE]

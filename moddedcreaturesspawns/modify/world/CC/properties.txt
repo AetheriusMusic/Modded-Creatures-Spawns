@@ -1,68 +1,38 @@
-[FINDLINESTART]Room_Attr: CC_C12:
-[ADDAFTER]BombadierVulture-Avoid,
-[FINDLINESTART]Room_Attr: CC_A06:
-[ADDAFTER]BombadierVulture-Like,
-[FINDLINESTART]Room_Attr: CC_H01:
-[ADDAFTER]BombadierVulture-Like,
-[FINDLINESTART]Room_Attr: CC_C07:
-[ADDAFTER]FatFireFly-Like,
-[FINDLINESTART]Room_Attr: CC_B04:
-[ADDAFTER]FatFireFly-Like,
-[FINDLINESTART]Room_Attr: CC_D01:
-[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,
-[FINDLINESTART]Room_Attr: CC_A15:
-[ADDAFTER]BombadierVulture-Avoid,FatFireFly-Like,
-[FINDLINESTART]Room_Attr: CC_B05:
-[ADDAFTER]BombadierVulture-Stay,
-[FINDLINESTART]Room_Attr: CC_A10:
-[ADDAFTER]FatFireFly-Stay,
-[FINDLINESTART]Room_Attr: CC_B01:
-[ADDAFTER]FatFireFly-Stay,
-[FINDLINESTART]Room_Attr: CC_C04:
-[ADDAFTER]BombadierVulture-Avoid,FatFireFly-Like,
-[FINDLINESTART]Room_Attr: CC_B13:
-[ADDAFTER]BombadierVulture-Avoid,FatFireFly-Like,
-[FINDLINESTART]Room_Attr: CC_B10:
-[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,
-[FINDLINESTART]Room_Attr: CC_C08:
-[ADDAFTER]BombadierVulture-Like,
-[FINDLINESTART]Room_Attr: CC_A07:
-[ADDAFTER]BombadierVulture-Like,
-[FINDLINESTART]Room_Attr: CC_C11:
-[ADDAFTER]BombadierVulture-Like,FatFireFly-Like,
-[FINDLINESTART]Room_Attr: CC_B12:
-[ADDAFTER]BombadierVulture-Like,
-[FINDLINESTART]Room_Attr: CC_F01:
-[ADDAFTER]BombadierVulture-Stay,
-[FINDLINESTART]Room_Attr: CC_C03:
-[ADDAFTER]FatFireFly-Like,
-[FINDLINESTART]Room_Attr: CC_S03:
-[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,
-[FINDLINESTART]Room_Attr: CC_B14:
-[ADDAFTER]BombadierVulture-Avoid,
-[FINDLINESTART]Room_Attr: CC_SHAFT01x:
-[ADDAFTER]BombadierVulture-Avoid,
-[FINDLINESTART]Room_Attr: CC_SHAFT02:
-[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,
-[FINDLINESTART]Room_Attr: CC_SUMP01:
-[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,
-[FINDLINESTART]Room_Attr: CC_SUMP02:
-[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,
-[FINDLINESTART]Room_Attr: CC_STRAINER01:
-[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,
-[FINDLINESTART]Room_Attr: CC_SUMP03:
-[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,
-[FINDLINESTART]Room_Attr: CC_CLOG:
-[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,
-[FINDLINESTART]Room_Attr: CC_S06:
-[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,
-[FINDLINESTART]Room_Attr: CC_STRAINER02:
-[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,
-[FINDLINESTART]Room_Attr: CC_SUMP04:
-[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,
-[FINDLINESTART]Room_Attr: CC_STRAINER03:
-[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,
-[FINDLINESTART]Room_Attr: CC_OUTPUT:
-[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,
-[FINDLINESTART]Room_Attr: CC_SUMP05:
-[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,
+[MERGE]
+
+Room_Attr: CC_C12: BombadierVulture-Avoid,
+Room_Attr: CC_A06: BombadierVulture-Like,
+Room_Attr: CC_H01: BombadierVulture-Like,
+Room_Attr: CC_C07: FatFireFly-Like,
+Room_Attr: CC_B04: FatFireFly-Like,
+Room_Attr: CC_D01: BombadierVulture-Forbidden,FatFireFly-Forbidden,
+Room_Attr: CC_A15: BombadierVulture-Avoid,FatFireFly-Like,
+Room_Attr: CC_B05: BombadierVulture-Stay,
+Room_Attr: CC_A10: FatFireFly-Stay,
+Room_Attr: CC_B01: FatFireFly-Stay,
+Room_Attr: CC_C04: BombadierVulture-Avoid,FatFireFly-Like,
+Room_Attr: CC_B13: BombadierVulture-Avoid,FatFireFly-Like,
+Room_Attr: CC_B10: BombadierVulture-Forbidden,FatFireFly-Forbidden,
+Room_Attr: CC_C08: BombadierVulture-Like,
+Room_Attr: CC_A07: BombadierVulture-Like,
+Room_Attr: CC_C11: BombadierVulture-Like,FatFireFly-Like,
+Room_Attr: CC_B12: BombadierVulture-Like,
+Room_Attr: CC_F01: BombadierVulture-Stay,
+Room_Attr: CC_C03: FatFireFly-Like,
+Room_Attr: CC_S03: BombadierVulture-Forbidden,FatFireFly-Forbidden,
+Room_Attr: CC_B14: BombadierVulture-Avoid,
+Room_Attr: CC_SHAFT01x: BombadierVulture-Avoid,
+Room_Attr: CC_SHAFT02: BombadierVulture-Forbidden,FatFireFly-Forbidden,
+Room_Attr: CC_SUMP01: BombadierVulture-Forbidden,FatFireFly-Forbidden,
+Room_Attr: CC_SUMP02: BombadierVulture-Forbidden,FatFireFly-Forbidden,
+Room_Attr: CC_STRAINER01: BombadierVulture-Forbidden,FatFireFly-Forbidden,
+Room_Attr: CC_SUMP03: BombadierVulture-Forbidden,FatFireFly-Forbidden,
+Room_Attr: CC_CLOG: BombadierVulture-Forbidden,FatFireFly-Forbidden,
+Room_Attr: CC_S06: BombadierVulture-Forbidden,FatFireFly-Forbidden,
+Room_Attr: CC_STRAINER02: BombadierVulture-Forbidden,FatFireFly-Forbidden,
+Room_Attr: CC_SUMP04: BombadierVulture-Forbidden,FatFireFly-Forbidden,
+Room_Attr: CC_STRAINER03: BombadierVulture-Forbidden,FatFireFly-Forbidden,
+Room_Attr: CC_OUTPUT: BombadierVulture-Forbidden,FatFireFly-Forbidden,
+Room_Attr: CC_SUMP05: BombadierVulture-Forbidden,FatFireFly-Forbidden,
+
+[ENDMERGE]

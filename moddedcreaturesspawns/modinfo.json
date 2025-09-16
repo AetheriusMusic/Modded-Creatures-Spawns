@@ -1,7 +1,7 @@
 {
   "id": "aetherius.moddedcreaturesspawns",
   "name": "Modded Creatures Spawns",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "hide_version": false,
   "target_game_version": "v1.10.4",
   "authors": "Aetherius",
@@ -14,7 +14,8 @@
     "lb-fgf-m4r-ik.modpack",
     "mosquitoes",
     "bebra.gregtech_lizard",
-    "Croken.Mimic-Long-Legs"
+    "Croken.Mimic-Long-Legs",
+    "com.rainworldgame.shroudedassembly.plugin"
   ],
   "requirements_names": [
     "More Slugcats Expansion",
@@ -23,7 +24,8 @@
     "The M4rblelous Entity Pack",
     "Mosquitoes",
     "Electric Lizard",
-    "Mimic Long Legs"
+    "Mimic Long Legs",
+    "Shrouded Assembly Code"
   ],
   "priorities": [
     "screen-lady.notsosimplespawns",

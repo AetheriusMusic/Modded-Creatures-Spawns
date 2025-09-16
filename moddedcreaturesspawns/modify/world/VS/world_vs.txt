@@ -1,3 +1,20 @@
+[FINDLINESTART](Rivulet)OFFSCREEN : 
+[ADDAFTER], 0-FatFireFly-{AlternateForm}-1, 
+
+[FINDLINESTART](Yellow)VS_C03 : 
+[ADDAFTER], 7-BouncingBall-3, 
+[FINDLINESTART](Rivulet)VS_C03 : 
+[ADDAFTER], 7-BouncingBall-2, 
+[FINDLINESTART](Red,Artificer,Spear)VS_C03 : 
+[ADDAFTER], 7-BouncingBall-4, 
+
+[FINDLINESTART](Yellow)VS_F01 : 
+[ADDAFTER], 6-BouncingBall-2, 7-BouncingBall-1, 
+[FINDLINESTART](Rivulet)VS_F01 : 
+[ADDAFTER], 6-BouncingBall-1, 7-BouncingBall-1, 
+[FINDLINESTART](Red,Artificer,Spear)VS_F01 : 
+[ADDAFTER], 6-BouncingBall-3, 7-BouncingBall-2, 
+
 [MERGE]
 
 CREATURES
@@ -5,7 +22,26 @@ CREATURES
 
 
 (Yellow,White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : FatFireFly-0
-(Rivulet)OFFSCREEN : 0-Scavenger-8, 0-Vulture-2, FatFireFly-{AlternateForm}-1
+
+
+
+(Yellow,White,Gourmand,Rivulet,Saint)LINEAGE : VS_A06 : 3 : Gecko-0
+
+(Yellow,White,Red,Gourmand,Rivulet,Saint)LINEAGE : VS_B10 : 5 : Gecko-0
+
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : VS_C01 : 2 : BouncingBall-0, NONE-0.1, BouncingBall-0, NONE-0.1, BouncingBall-0, NONE-0.1, BouncingBall-0
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : VS_C01 : 3 : BouncingBall-0, NONE-0.1, BouncingBall-0, NONE-0.1, BouncingBall-0, NONE-0.1, BouncingBall-0
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : VS_C01 : 4 : BouncingBall-0, NONE-0.1, BouncingBall-0, NONE-0.1, BouncingBall-0, NONE-0.1, BouncingBall-0
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : VS_C01 : 5 : BouncingBall-0, NONE-0.1, BouncingBall-0, NONE-0.1, BouncingBall-0, NONE-0.1, BouncingBall-0
+
+(White,Gourmand)VS_C03 : 4-Snail-4, 7-BouncingBall-3
+(Saint)LINEAGE : VS_C03 : 7 : BouncingBall-0
+
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : VS_D02 : 5 : MoleSalamander-0
+
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : VS_E06 : 7 : WaterSpitter-0.5, MoleSalamander-0.5, WaterSpitter-0
+
+(White,Gourmand)VS_F01 : 5-Small Centipede-8, 6-BouncingBall-2, 7-BouncingBall-2
 
 
 

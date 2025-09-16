@@ -3,5 +3,8 @@
 [FIND]Scavenger-Avoid,
 [ADDAFTER]ScavengerSentinel-Avoid,
 
-[FINDLINESTART]Room_Attr: LF_E03:
-[ADDAFTER]ScavengerSentinel-Stay,
+[MERGE]
+
+Room_Attr: LF_E03: ScavengerSentinel-Stay,
+
+[ENDMERGE]

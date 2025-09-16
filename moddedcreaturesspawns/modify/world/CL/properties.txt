@@ -21,7 +21,9 @@
 [FIND]Scavenger-Avoid,
 [ADDAFTER]ScavengerSentinel-Avoid,
 
-[FINDLINESTART]Room_Attr: CL_A34:
-[ADDAFTER]ScavengerSentinel-Stay,
-[FINDLINESTART]Room_Attr: CL_B27:
-[ADDAFTER]ScavengerSentinel-Stay,
+[MERGE]
+
+Room_Attr: CL_A34: ScavengerSentinel-Stay,
+Room_Attr: CL_B27: ScavengerSentinel-Stay,
+
+[ENDMERGE]

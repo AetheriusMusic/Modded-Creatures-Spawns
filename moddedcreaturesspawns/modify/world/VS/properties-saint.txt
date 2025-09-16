@@ -3,9 +3,29 @@
 [FIND]MirosVulture-Avoid,
 [ADDAFTER]KingMiros-Avoid,
 
-[FINDLINESTART]Room_Attr: VS_C04:
-[ADDAFTER]KingMiros-Like,
+[MERGE]
 
+Room_Attr: VS_C04: KingMiros-Like,
+Room_Attr: VS_C13: KingMiros-Stay,
 
+Room_Attr: VS_B02: Gecko-Like,
+Room_Attr: VS_C04: Gecko-Like,
+Room_Attr: VS_D01: Gecko-Like,
+Room_Attr: VS_A14: Gecko-Avoid,
+Room_Attr: VS_C02: Gecko-Avoid,
+Room_Attr: VS_B09: Gecko-Avoid,
+Room_Attr: VS_C06: Gecko-Like,
+Room_Attr: VS_C13: Gecko-Like,
+Room_Attr: VS_E07: Gecko-Avoid,
+Room_Attr: VS_A07: Gecko-Avoid,
+Room_Attr: VS_C07: Gecko-Avoid,
 
-[ADD]Room_Attr: VS_C13: KingMiros-Stay,
+Room_Attr: VS_F01: WaterSpitter-Stay,
+Room_Attr: VS_D04: WaterSpitter-Avoid,
+Room_Attr: VS_C11: WaterSpitter-Avoid,
+Room_Attr: VS_E02: WaterSpitter-Avoid,
+Room_Attr: VS_B17: WaterSpitter-Like,
+Room_Attr: VS_F02: WaterSpitter-Like,
+Room_Attr: VS_E06: WaterSpitter-Like,
+
+[ENDMERGE]

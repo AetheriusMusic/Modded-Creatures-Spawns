@@ -12,7 +12,9 @@
 [FIND]Scavenger-Avoid,
 [ADDAFTER]ScavengerSentinel-Avoid,
 
-[FINDLINESTART]Room_Attr: GW_C05:
-[ADDAFTER]ScavengerSentinel-Stay,
-[FINDLINESTART]Room_Attr: GW_C11:
-[ADDAFTER]ScavengerSentinel-Stay,
+[MERGE]
+
+Room_Attr: GW_C05:ScavengerSentinel-Stay,
+Room_Attr: GW_C11:ScavengerSentinel-Stay,
+
+[ENDMERGE]

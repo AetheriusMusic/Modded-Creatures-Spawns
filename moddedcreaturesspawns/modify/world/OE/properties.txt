@@ -8,22 +8,18 @@
 [FIND]Scavenger-Avoid,
 [ADDAFTER]ScavengerSentinel-Avoid,
 
-[FINDLINESTART]Room_Attr: OE_TOWER04:
-[ADDAFTER]ScavengerSentinel-Like,
+[MERGE]
 
-[FINDLINESTART]Room_Attr: OE_RAIL01:
-[ADDAFTER]BombadierVulture-Like,
-[FINDLINESTART]Room_Attr: OE_RAIL02:
-[ADDAFTER]FatFireFly-Like,
-[FINDLINESTART]Room_Attr: OE_RAIL03:
-[ADDAFTER]BombadierVulture-Like,
-[FINDLINESTART]Room_Attr: OE_TOWER03:
-[ADDAFTER]FatFireFly-Like,
-[FINDLINESTART]Room_Attr: OE_TOWER06:
-[ADDAFTER]FatFireFly-Like,
-[FINDLINESTART]Room_Attr: OE_TOWER10:
-[ADDAFTER]FatFireFly-Like,
-[FINDLINESTART]Room_Attr: OE_RUINCourtYard:
-[ADDAFTER]BombadierVulture-Like,
-[FINDLINESTART]Room_Attr: OE_RUIN24:
-[ADDAFTER]BombadierVulture-Like,
+Room_Attr: OE_TOWER04: ScavengerSentinel-Like,
+
+Room_Attr: OE_RAIL01: BombadierVulture-Like,
+Room_Attr: OE_RAIL03: BombadierVulture-Like,
+Room_Attr: OE_RUINCourtYard: BombadierVulture-Like,
+Room_Attr: OE_RUIN24: BombadierVulture-Like,
+
+Room_Attr: OE_RAIL02: FatFireFly-Like,
+Room_Attr: OE_TOWER03: FatFireFly-Like,
+Room_Attr: OE_TOWER06: FatFireFly-Like,
+Room_Attr: OE_TOWER10: FatFireFly-Like,
+
+[ENDMERGE]

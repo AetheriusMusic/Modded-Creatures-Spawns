@@ -2,7 +2,7 @@
   "Title": "Modded Creatures Spawns",
   "Description": "Adds various modded creatures spawns to Vanilla and Downpour regions (Watcher regions not included!).\u003CLINE\u003EThis mod is constantly getting updated, way more creatures are yet to be added!\u003CLINE\u003EMostly compatible with mods such as Screen Lady\u0027s Diverse Spawns or mods that add Watcher creatures.",
   "ID": "aetherius.moddedcreaturesspawns",
-  "Version": "1.5.1",
+  "Version": "1.5.2",
   "TargetGameVersion": "v1.10.4",
   "Requirements": "moreslugcats,Croken.bombardier-vulture,nonescreatures,lb-fgf-m4r-ik.modpack,mosquitoes,bebra.gregtech_lizard",
   "RequirementNames": "More Slugcats Expansion,Bombardier Vulture,None\u0027s Creature Pack,The M4rblelous Entity Pack,Mosquitoes,Electric Lizard",
