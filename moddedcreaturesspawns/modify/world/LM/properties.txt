@@ -29,7 +29,8 @@ Room_Attr: LM_TOWER13: MirosVulture-Stay,KingMiros-Like,
 Room_Attr: LM_BRIDGE04: MirosVulture-Like,KingMiros-Stay,
 Room_Attr: LM_BRIDGE04ARTY: MirosVulture-Avoid,KingMiros-Avoid,
 Room_Attr: LM_TOWER14: MirosVulture-Like,KingMiros-Stay,
-Room_Attr: LM_WALL03: KingMiros-Like,
 Room_Attr: LM_WALL02: MirosVulture-Avoid,KingMiros-Avoid,
+
+Room_Attr: LM_WALL03: KingMiros-Like,
 
 [ENDMERGE]

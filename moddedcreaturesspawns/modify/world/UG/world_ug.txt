@@ -1,8 +1,11 @@
-[FIND]LINEAGE : UG_B03 : 4 :
-[REPLACE]LINEAGE : UG_B03 : 5 :
+[FIND]LINEAGE : UG_B03 : 4
+[REPLACE]LINEAGE : UG_B03 : 5
 
-[FIND]0-Scavenger-13-{Ignorecycle}
+[FINDLINESTART]OFFSCREEN
 [ADDAFTER], 0-ScavengerSentinel-2-{Night}
+
+[FINDLINESTART]UG_B07 : 3-Small Centipede-6, 4-Small Centipede-4, 4-Red Centipede
+[ADDAFTER], 7-WaterBlob-{IgnoreCycle}-2, 8-WaterBlob-{IgnoreCycle}-1
 
 [MERGE]
 
@@ -20,8 +23,6 @@ CREATURES
 (Saint)UG_A09 : 2-ChipChop-2, 3-ChipChop-2
 
 (Saint)UG_B03 : 4-ChipChop-2
-
-(Saint)UG_B07 : 3-Small Centipede-6, 4-Small Centipede-4, 4-Red Centipede, 7-WaterBlob-{IgnoreCycle}-2, 8-WaterBlob-{IgnoreCycle}-1
 
 (Saint)UG_RIVSTART : 3-WaterBlob-{IgnoreCycle}-1, 4-WaterBlob-{IgnoreCycle}-1, 5-WaterBlob-{IgnoreCycle}-2, 6-WaterBlob-{IgnoreCycle}-2
 

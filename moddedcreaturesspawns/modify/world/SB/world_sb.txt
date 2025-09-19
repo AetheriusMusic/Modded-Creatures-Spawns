@@ -1,4 +1,4 @@
-[FIND]0-Miros-{Ignorecycle}-11
+[FINDLINESTART](Saint)OFFSCREEN
 [ADDAFTER], 0-Blizzor-{Ignorecycle}-7
 
 
@@ -6,7 +6,6 @@
 [MERGE]
 
 CREATURES
-
 
 
 

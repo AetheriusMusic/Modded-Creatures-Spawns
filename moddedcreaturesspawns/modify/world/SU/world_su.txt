@@ -1,3 +1,6 @@
+[FINDLINESTART](Saint)OFFSCREEN
+[ADDAFTER], 0-KingMiros-{Night}
+
 [MERGE]
 
 CREATURES
@@ -8,8 +11,6 @@ CREATURES
 
 (Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
 (Red,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
-
-(Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{Night}-0
 
 
 
