@@ -1,17 +1,14 @@
-[FINDLINESTART]OFFSCREEN
-[ADDAFTER], 0-KingMiros-{IgnoreCycle}-2
-
 [MERGE]
 
 CREATURES
 
 
 
-(Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.4, NONE-0.3, NONE-0.2, KingMiros-0
+(Spear)LINEAGE : OFFSCREEN : 0 : KingMiros-{IgnoreCycle}-0
+(Spear)LINEAGE : OFFSCREEN : 0 : KingMiros-{IgnoreCycle}-0
+(Spear)LINEAGE : OFFSCREEN : 0 : KingMiros-{IgnoreCycle}-0
 
-
-
-(Spear)DM_U03 : 2-GregTechLizard-{IgnoreCycle}
+(Spear)LINEAGE : DM_U03 : 2 : GregTechLizard-{IgnoreCycle}-0
 
 
 

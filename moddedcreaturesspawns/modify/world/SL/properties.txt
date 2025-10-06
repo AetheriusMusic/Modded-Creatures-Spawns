@@ -1,12 +1,11 @@
 [MERGE]
 
+Room_Attr: SL_C02: WaterSpitter-Like,CommonEel-Avoid,
 Room_Attr: SL_F02: WaterSpitter-Like,CommonEel-Stay,DivingBeetle-Avoid,
 Room_Attr: SL_D06: WaterSpitter-Like,CommonEel-Like,DivingBeetle-Like,
 Room_Attr: SL_D04: WaterSpitter-Like,CommonEel-Stay,DivingBeetle-Like,
 Room_Attr: SL_H02: WaterSpitter-Like,CommonEel-Stay,DivingBeetle-Stay,
 Room_Attr: SL_H03: WaterSpitter-Avoid,CommonEel-Stay,DivingBeetle-Stay,
-
-Room_Attr: SL_C02: WaterSpitter-Like,CommonEel-Avoid,
 
 Room_Attr: SL_F01: CommonEel-Stay,
 Room_Attr: SL_D01: CommonEel-Like,

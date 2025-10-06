@@ -6,32 +6,31 @@
 [MERGE]
 
 Room_Attr: VS_C04: FatFireFly-Like,
+Room_Attr: VS_C04: Gecko-Like,FatFireFly-Like,
+Room_Attr: VS_C13: Gecko-Like,FatFireFly-Stay,
 
-Room_Attr: VS_C04: FatFireFly-Like,Gecko-Like,
-Room_Attr: VS_C13: FatFireFly-Stay,Gecko-Like,
-
+Room_Attr: VS_B02: Gecko-Like,
+Room_Attr: VS_D01: Gecko-Like,
 Room_Attr: VS_A14: Gecko-Avoid,
 Room_Attr: VS_C02: Gecko-Avoid,
 Room_Attr: VS_B09: Gecko-Avoid,
+Room_Attr: VS_C06: Gecko-Like,
 Room_Attr: VS_E07: Gecko-Avoid,
 Room_Attr: VS_A07: Gecko-Avoid,
 Room_Attr: VS_C07: Gecko-Avoid,
-Room_Attr: VS_B02: Gecko-Like,
-Room_Attr: VS_D01: Gecko-Like,
-Room_Attr: VS_C06: Gecko-Like,
 
+Room_Attr: VS_F01: WaterSpitter-Stay,MoleSalamander-Stay,
 Room_Attr: VS_D04: WaterSpitter-Avoid,MoleSalamander-Avoid,
 Room_Attr: VS_C11: WaterSpitter-Avoid,MoleSalamander-Avoid,
 Room_Attr: VS_E02: WaterSpitter-Avoid,MoleSalamander-Avoid,
 Room_Attr: VS_B17: WaterSpitter-Like,MoleSalamander-Like,
 Room_Attr: VS_F02: WaterSpitter-Like,MoleSalamander-Like,
 Room_Attr: VS_E06: WaterSpitter-Like,MoleSalamander-Like,
-Room_Attr: VS_F01: WaterSpitter-Stay,MoleSalamander-Stay,
 
+Room_Attr: VS_D02: MoleSalamander-Stay,
 Room_Attr: VS_B05: MoleSalamander-Like,
 Room_Attr: VS_E01: MoleSalamander-Like,
 Room_Attr: VS_D05: MoleSalamander-Like,
 Room_Attr: VS_C08: MoleSalamander-Like,
-Room_Attr: VS_D02: MoleSalamander-Stay,
 
 [ENDMERGE]

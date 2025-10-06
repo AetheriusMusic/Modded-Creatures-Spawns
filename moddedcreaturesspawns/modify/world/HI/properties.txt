@@ -7,15 +7,14 @@ Room_Attr: HI_B09: FatFireFly-Like,
 Room_Attr: HI_B07: FatFireFly-Like,
 Room_Attr: HI_D01: FatFireFly-Stay,
 
-Room_Attr: HI_B04: ThornBug-Like,TintedBeetle-Like,FatFireFly-Avoid,
-Room_Attr: HI_B12: ThornBug-Like,TintedBeetle-Like,FatFireFly-Avoid,
-
-Room_Attr: HI_B06: ThornBug-Like,TintedBeetle-Like,HunterSeeker-Stay,
-Room_Attr: HI_B08: ThornBug-Like,TintedBeetle-Like,HunterSeeker-Avoid,
-
+Room_Attr: HI_B06: ThornBug-Like,HunterSeeker-Stay,TintedBeetle-Like,
+Room_Attr: HI_B08: ThornBug-Like,HunterSeeker-Avoid,TintedBeetle-Like,
 Room_Attr: HI_C04: HunterSeeker-Like,
 Room_Attr: HI_A25: HunterSeeker-Like,
 Room_Attr: HI_A21: HunterSeeker-Avoid,
+
+Room_Attr: HI_B04: ThornBug-Like,FatFireFly-Avoid,TintedBeetle-Like,
+Room_Attr: HI_B12: ThornBug-Like,FatFireFly-Avoid,TintedBeetle-Like,
 
 Room_Attr: HI_B14: ThornBug-Like,TintedBeetle-Like,
 Room_Attr: HI_A15: ThornBug-Like,TintedBeetle-Like,

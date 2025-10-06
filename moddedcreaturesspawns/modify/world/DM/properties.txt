@@ -6,15 +6,3 @@
 [ADDAFTER]KingMiros-Like,
 [FIND]MirosVulture-Stay,
 [ADDAFTER]KingMiros-Stay,
-
-[MERGE]
-
-Room_Attr: DM_ROOF01: KingMiros-Neutral,
-Room_Attr: DM_ROOF03: KingMiros-Neutral,
-Room_Attr: DM_WALL04: KingMiros-Avoid,
-Room_Attr: DM_WALL06: KingMiros-Like,
-Room_Attr: DM_LEG07: KingMiros-Avoid,
-Room_Attr: DM_S11: KingMiros-Avoid,
-Room_Attr: DM_U09: KingMiros-Avoid,
-
-[ENDMERGE]

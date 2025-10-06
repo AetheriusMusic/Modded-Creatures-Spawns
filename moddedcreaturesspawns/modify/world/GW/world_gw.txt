@@ -3,9 +3,6 @@
 [FIND]LINEAGE : GW_C09 : 6 :
 [REPLACE]LINEAGE : GW_C09 : 9 :
 
-[FINDLINESTART](Saint)OFFSCREEN
-[ADDAFTER], 0-KingMiros-{IgnoreCycle}-2
-
 [MERGE]
 
 CREATURES
@@ -31,6 +28,9 @@ CREATURES
 (Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
 (Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
 (Red,Gourmand,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
+
+(Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{IgnoreCycle}-0
+(Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{IgnoreCycle}-0
 
 
 

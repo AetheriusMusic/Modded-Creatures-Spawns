@@ -16,14 +16,14 @@ Room_Attr: SU_A04: BombadierVulture-Avoid,
 Room_Attr: SU_C01: BombadierVulture-Avoid,
 Room_Attr: SU_B14: BombadierVulture-Avoid,
 
-Room_Attr: SU_A45: ScavengerSentinel-Avoid,
-Room_Attr: SU_C02: ScavengerSentinel-Stay,
-Room_Attr: SU_A07: ScavengerSentinel-Avoid,
-
 Room_Attr: SU_A63: SilverLizard-Avoid,
 Room_Attr: SU_B12: SilverLizard-Like,
 Room_Attr: SU_A40: SilverLizard-Like,
 Room_Attr: SU_B07: SilverLizard-Like,
+
+Room_Attr: SU_A45: ScavengerSentinel-Avoid,
+Room_Attr: SU_C02: ScavengerSentinel-Stay,
+Room_Attr: SU_A07: ScavengerSentinel-Avoid,
 
 Room_Attr: SU_C01: SurfaceSwimmer-Stay,
 
