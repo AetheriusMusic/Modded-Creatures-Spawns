@@ -1,18 +1,18 @@
-[FINDLINESTART](Rivulet)OFFSCREEN : 
+[FINDLINESTART](Rivulet)OFFSCREEN
 [ADDAFTER], 0-FatFireFly-{AlternateForm}-1, 
 
-[FINDLINESTART](Yellow)VS_C03 : 
+[FINDLINESTART](Yellow)VS_C03
 [ADDAFTER], 7-BouncingBall-3, 
-[FINDLINESTART](Rivulet)VS_C03 : 
+[FINDLINESTART](Rivulet)VS_C03
 [ADDAFTER], 7-BouncingBall-2, 
-[FINDLINESTART](Red,Artificer,Spear)VS_C03 : 
+[FINDLINESTART](Red,Artificer,Spear)VS_C03
 [ADDAFTER], 7-BouncingBall-4, 
 
-[FINDLINESTART](Yellow)VS_F01 : 
+[FINDLINESTART](Yellow)VS_F01
 [ADDAFTER], 6-BouncingBall-2, 7-BouncingBall-1, 
-[FINDLINESTART](Rivulet)VS_F01 : 
+[FINDLINESTART](Rivulet)VS_F01
 [ADDAFTER], 6-BouncingBall-1, 7-BouncingBall-1, 
-[FINDLINESTART](Red,Artificer,Spear)VS_F01 : 
+[FINDLINESTART](Red,Artificer,Spear)VS_F01
 [ADDAFTER], 6-BouncingBall-3, 7-BouncingBall-2, 
 
 [MERGE]
@@ -29,10 +29,10 @@ CREATURES
 
 (Yellow,White,Red,Gourmand,Rivulet,Saint)LINEAGE : VS_B10 : 5 : Gecko-0
 
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : VS_C01 : 2 : BouncingBall-0, NONE-0.1, BouncingBall-0, NONE-0.1, BouncingBall-0, NONE-0.1, BouncingBall-0
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : VS_C01 : 3 : BouncingBall-0, NONE-0.1, BouncingBall-0, NONE-0.1, BouncingBall-0, NONE-0.1, BouncingBall-0
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : VS_C01 : 4 : BouncingBall-0, NONE-0.1, BouncingBall-0, NONE-0.1, BouncingBall-0, NONE-0.1, BouncingBall-0
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : VS_C01 : 5 : BouncingBall-0, NONE-0.1, BouncingBall-0, NONE-0.1, BouncingBall-0, NONE-0.1, BouncingBall-0
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : VS_C01 : 2 : BouncingBall-1, NONE-0.1, BouncingBall-1, NONE-0.1, BouncingBall-1, NONE-0.1, BouncingBall-0
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : VS_C01 : 3 : BouncingBall-1, NONE-0.1, BouncingBall-1, NONE-0.1, BouncingBall-1, NONE-0.1, BouncingBall-0
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : VS_C01 : 4 : BouncingBall-1, NONE-0.1, BouncingBall-1, NONE-0.1, BouncingBall-1, NONE-0.1, BouncingBall-0
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : VS_C01 : 5 : BouncingBall-1, NONE-0.1, BouncingBall-1, NONE-0.1, BouncingBall-1, NONE-0.1, BouncingBall-0
 
 (White,Gourmand)VS_C03 : 4-Snail-4, 7-BouncingBall-3
 (Saint)LINEAGE : VS_C03 : 7 : BouncingBall-0

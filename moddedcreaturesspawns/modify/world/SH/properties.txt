@@ -1,13 +1,10 @@
 [MERGE]
 
-Room_Attr: SH_D01: Joust-Stay,
 Room_Attr: SH_C02: Joust-Like,KingMiros-Like,
 Room_Attr: SH_A05: Joust-Like,KingMiros-Forbidden,
 Room_Attr: SH_A14: Joust-Like,KingMiros-Like,
 Room_Attr: SH_C03: Joust-Avoid,KingMiros-Forbidden,
 Room_Attr: SH_A06: Joust-Avoid,KingMiros-Forbidden,
-Room_Attr: SH_B02: Joust-Like,
-Room_Attr: SH_B03: Joust-Like,
 Room_Attr: SH_A10: Joust-Like,KingMiros-Avoid,
 Room_Attr: SH_E05: Joust-Like,KingMiros-Stay,
 Room_Attr: SH_E03: Joust-Avoid,KingMiros-Forbidden,
@@ -17,6 +14,10 @@ Room_Attr: SH_E04: Joust-Avoid,KingMiros-Avoid,
 Room_Attr: SH_D03: Joust-Avoid,,KingMiros-Like,
 Room_Attr: SH_OVERHEAD: Joust-Like,KingMiros-Avoid,
 Room_Attr: SH_scavshop: Joust-Like,KingMiros-Avoid,
+
+Room_Attr: SH_D01: Joust-Stay,
+Room_Attr: SH_B02: Joust-Like,
+Room_Attr: SH_B03: Joust-Like,
 
 Room_Attr: SH_B13: MoleSalamander-Avoid,
 Room_Attr: SH_B11: MoleSalamander-Avoid,

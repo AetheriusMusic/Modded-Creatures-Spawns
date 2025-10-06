@@ -1,3 +1,6 @@
+[FINDLINESTART](Saint)OFFSCREEN
+[ADDAFTER], 0-KingMiros-{IgnoreCycle}-3
+
 [MERGE]
 
 CREATURES
@@ -11,10 +14,6 @@ CREATURES
 (Red,Gourmand,Rivulet)LINEAGE : OFFSCREEN : 0 : MiniLeviathan-0
 
 (Gourmand)LINEAGE : OFFSCREEN : 0 : Leviathan-0
-
-(Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{IgnoreCycle}-0
-(Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{IgnoreCycle}-0
-(Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-{IgnoreCycle}-0
 
 
 

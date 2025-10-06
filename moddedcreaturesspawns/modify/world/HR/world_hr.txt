@@ -7,9 +7,11 @@ CREATURES
 (Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-0
 (Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-0
 (Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-0
+
 (Saint)LINEAGE : OFFSCREEN : 0 : FlyingLeviathan-0
 (Saint)LINEAGE : OFFSCREEN : 0 : FlyingLeviathan-0
 (Saint)LINEAGE : OFFSCREEN : 0 : FlyingLeviathan-0
+
 (Saint)LINEAGE : OFFSCREEN : 0 : MiniEchoLeviathan-0
 (Saint)LINEAGE : OFFSCREEN : 0 : MiniEchoLeviathan-0
 (Saint)LINEAGE : OFFSCREEN : 0 : MiniEchoLeviathan-0

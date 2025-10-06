@@ -1,21 +1,42 @@
+[FINDLINESTART](Rivulet)UW_C01RIV
+[ADDAFTER], 5-TubeWorm-{Bigrub}, 6-TubeWorm-{Bigrub}
+
+[FINDLINESTART](Yellow)UW_J02
+[ADDAFTER], 9-TubeWorm-{Bigrub}, 10-TubeWorm-{Bigrub}
+[FINDLINESTART](White)UW_J02
+[ADDAFTER], 9-TubeWorm-{Bigrub}
+[FINDLINESTART](Gourmand)UW_J02
+[ADDAFTER], 9-TubeWorm-{Bigrub}
+[FINDLINESTART](Rivulet)UW_J02RIV
+[ADDAFTER], 9-TubeWorm-{AltBigrub}, 10-TubeWorm-{Bigrub}, 11-TubeWorm-{Bigrub}, 12-TubeWorm-{Bigrub}
+
+//The Wall
+
+[FINDLINESTART](X-Rivulet)UW_A02
+[ADDAFTER], 3-HunterSeeker-{Ignorecycle}
+[FINDLINESTART](Rivulet)UW_A02
+[ADDAFTER], 2-HunterSeeker-{Night}
+
+
 [MERGE]
 
 CREATURES
 
 
 
-(Artificer)LINEAGE : OFFSCREEN : 0 : NONE-0.8, NONE-0.7, KingMiros-0
-(Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.8, KingMiros-0
+(Artificer)LINEAGE : OFFSCREEN : 0 : KingMiros-0
+(Spear)LINEAGE : OFFSCREEN : 0 : KingMiros-0
 
 
 
 (Red,Gourmand,White,Yellow)UW_C01 : 2-Tube-2, 4-Daddy, 5-TubeWorm-{Bigrub}
 (Gourmand,White,Yellow)UW_C01 : 2-Tube-2, 4-Daddy, 6-TubeWorm-{Bigrub}
 
-(Rivulet)UW_C01RIV : 2-Tube-2, 3-Daddy, 5-TubeWorm-{Bigrub}, 6-TubeWorm-{Bigrub}
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)UW_C06 : 2-Tube, 3-Tube, 4-Tube, 6-Tube, 2-ExplodingMosquito, 3-ExplodingMosquito, 4-ExplodingMosquito
 
-UW_C06 : 5-Tube, 6-Tube, 7-Tube, 9-Tube
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)UW_C06 : 2-ExplodingMosquito, 3-ExplodingMosquito, 4-ExplodingMosquito
+(X-Red,Artificer,Spear,Inv)UW_D06 : 4-Tube-2
+(Red,Artificer,Spear,Inv)UW_D06 : 4-Tube
+(Yellow,White,Red,Gourmand,Rivulet)LINEAGE : UW_D06 : 3 : MimicStar-1, NONE-0.4, NONE-0.3, MimicStar-1, NONE-0.4, NONE-0.3, MimicStar-0
 
 (Yellow,White,Red,Gourmand,Artificer,Spear)LINEAGE : UW_D02 : 5 : ExplodingMosquito-0
 (Yellow,White,Red,Gourmand,Artificer,Spear)LINEAGE : UW_D02 : 6 : ExplodingMosquito-0
@@ -26,20 +47,7 @@ UW_C06 : 5-Tube, 6-Tube, 7-Tube, 9-Tube
 (Spear)LINEAGE : UW_I01 : 9 : ExplodingMosquito-0
 (Spear)LINEAGE : UW_I01 : 10 : ExplodingMosquito-0
 
-(X-Red,Artificer,Spear,Inv)UW_D06 : 4-Tube-2
-(Red,Artificer,Spear,Inv)UW_D06 : 4-Tube
-(Yellow,White,Red,Gourmand,Rivulet)LINEAGE : UW_D06 : 3 : MimicStar-1, NONE-0.4, NONE-0.3, MimicStar-1, NONE-0.4, NONE-0.3, MimicStar-0
-
-(White,Gourmand)UW_J02 : 5-Daddy, 16-Yellow, 19-Yellow, 17-Yellow-2, 13-Tube, 14-Tube, 9-TubeWorm-{Bigrub}
-(Yellow)UW_J02 : 5-Daddy, 19-Yellow, 17-Yellow, 13-Tube, 14-Tube 10-TubeWorm-{Bigrub}
-(Red)UW_J02 : 5-Daddy, 16-Cyan, 19-Cyan, 17-Cyan, 13-Tube, 14-Tube
-
-(Rivulet)UW_J02RIV : 5-Daddy, 8-Tube-2, 9-TubeWorm-{AltBigrub}, 10-TubeWorm-{Bigrub}, 11-TubeWorm-{Bigrub}, 12-TubeWorm-{Bigrub}
-
 //The Wall
-
-(X-Rivulet)UW_A02 : 2-White, 2-SpitterSpider-{Night}, 3-HunterSeeker-{Ignorecycle}
-(Rivulet)UW_A02 : 2-White, 2-HunterSeeker-{Night}
 
 (Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)UW_C07 : 2-ExplodingMosquito, 3-ExplodingMosquito, 4-ExplodingMosquito-{Night}, 5-ExplodingMosquito-{Night}
 

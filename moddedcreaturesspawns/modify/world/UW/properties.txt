@@ -9,8 +9,8 @@
 
 [MERGE]
 
-Room_Attr: UW_A04: KingMiros-Like
 Room_Attr: UW_C01: KingMiros-Avoid
+Room_Attr: UW_A04: KingMiros-Like
 Room_Attr: UW_C02: KingMiros-Like
 Room_Attr: UW_C04: KingMiros-Like
 

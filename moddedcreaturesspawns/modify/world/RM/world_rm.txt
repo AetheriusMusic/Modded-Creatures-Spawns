@@ -4,11 +4,11 @@ CREATURES
 
 
 
-(Rivulet)LINEAGE : RM_C03 : 4 : GregTechLizard-{IgnoreCycle}-0
+(Rivulet)RM_C03 : 4-GregTechLizard-{IgnoreCycle}-1
 
-(Rivulet)LINEAGE : RM_E03 : 2 : SisterLongLegs-{IgnoreCycle}-0
+(Rivulet)RM_E03 : 2-SisterLongLegs-{IgnoreCycle}-1
 
-(Rivulet)LINEAGE : RM_LCHEADER : 4 : SisterLongLegs-{IgnoreCycle}-0
+(Rivulet)RM_LCHEADER : 4-SisterLongLegs-{IgnoreCycle}-1
 
 (Rivulet)LINEAGE : RM_LAB8 : 5 : MimicStar-{IgnoreCycle}-1, NONE-0.4, NONE-0.3, MimicStar-{IgnoreCycle}-1, NONE-0.4, NONE-0.3, MimicStar-{IgnoreCycle}-0
 
