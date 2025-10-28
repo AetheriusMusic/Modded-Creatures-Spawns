@@ -1,9 +1,9 @@
 {
   "id": "aetherius.moddedcreaturesspawns",
   "name": "Modded Creatures Spawns",
-  "version": "1.5.6",
+  "version": "1.5.7",
   "hide_version": false,
-  "target_game_version": "v1.11.1",
+  "target_game_version": "v1.11.3",
   "authors": "Aetherius",
   "description": "Adds various modded creatures spawns to Vanilla and Downpour regions (Watcher regions not included!).<LINE>This mod is constantly getting updated, way more creatures are yet to be added!<LINE>Mostly compatible with mods such as Screen Lady's Diverse Spawns or mods that add Watcher creatures.",
   "youtube_trailer_id": "",
@@ -14,7 +14,8 @@
     "mosquitoes",
     "bebra.gregtech_lizard",
     "Croken.Mimic-Long-Legs",
-    "com.rainworldgame.shroudedassembly.plugin"
+    "com.rainworldgame.shroudedassembly.plugin",
+    "reaperlizard"
   ],
   "requirements_names": [
     "More Slugcats Expansion",
@@ -23,7 +24,8 @@
     "Mosquitoes",
     "Electric Lizard",
     "Mimic Long Legs",
-    "Shrouded Assembly Code"
+    "Shrouded Assembly Code",
+    "Reaper Lizard"
   ],
   "priorities": [
     "screen-lady.notsosimplespawns",

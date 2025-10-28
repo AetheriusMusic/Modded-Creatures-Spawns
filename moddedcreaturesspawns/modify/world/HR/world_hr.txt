@@ -1,21 +1,29 @@
+[FINDLINESTART]OFFSCREEN
+[ADDAFTER], 0-KingMiros-{VoidSea}-3
+
+[FINDLINESTART]HR_gbfi : 2-FireBug-{Voidsea}
+[ADDAFTER], 3-ReaperLizard-{VoidSea}
+[FINDLINESTART]HR_hrce : 5-FireBug-{Voidsea}, 8-FireBug-{Voidsea}
+[ADDAFTER], 2-ReaperLizard-{VoidSea}
+
+
+
 [MERGE]
 
 CREATURES
 
 
 
-(Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-0
-(Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-0
-(Saint)LINEAGE : OFFSCREEN : 0 : KingMiros-0
+LINEAGE : OFFSCREEN : 0 : FlyingLeviathan-0
+LINEAGE : OFFSCREEN : 0 : FlyingLeviathan-0
+LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.5, FlyingLeviathan-0
+LINEAGE : OFFSCREEN : 0 : NONE-0.4, NONE-0.2, FlyingLeviathan-0
 
-(Saint)LINEAGE : OFFSCREEN : 0 : FlyingLeviathan-0
-(Saint)LINEAGE : OFFSCREEN : 0 : FlyingLeviathan-0
-(Saint)LINEAGE : OFFSCREEN : 0 : FlyingLeviathan-0
-
-(Saint)LINEAGE : OFFSCREEN : 0 : MiniEchoLeviathan-0
-(Saint)LINEAGE : OFFSCREEN : 0 : MiniEchoLeviathan-0
-(Saint)LINEAGE : OFFSCREEN : 0 : MiniEchoLeviathan-0
-(Saint)LINEAGE : OFFSCREEN : 0 : MiniEchoLeviathan-0
+LINEAGE : OFFSCREEN : 0 : MiniEchoLeviathan-0
+LINEAGE : OFFSCREEN : 0 : MiniEchoLeviathan-0
+LINEAGE : OFFSCREEN : 0 : MiniEchoLeviathan-0
+LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.5, MiniEchoLeviathan-0
+LINEAGE : OFFSCREEN : 0 : NONE-0.4, NONE-0.2, MiniEchoLeviathan-0
 
 
 
