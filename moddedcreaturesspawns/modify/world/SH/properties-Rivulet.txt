@@ -1,8 +1,8 @@
 [MERGE]
 
 Room_Attr: SH_D01: Joust-Stay,
-Room_Attr: SH_C02: Joust-Like,
-Room_Attr: SH_A05: Joust-Like,
+Room_Attr: SH_C02: Joust-Like,Killerpillar-Avoid,Glowpillar-Avoid,
+Room_Attr: SH_A05: Joust-Like,Killerpillar-Avoid,Glowpillar-Avoid,
 Room_Attr: SH_A14: Joust-Like,
 Room_Attr: SH_C03: Joust-Avoid,
 Room_Attr: SH_A06: Joust-Avoid,
@@ -26,9 +26,7 @@ Room_Attr: SH_B10: MoleSalamander-Like,
 Room_Attr: SH_E02: MoleSalamander-Stay,
 Room_Attr: SH_B12: MoleSalamander-Avoid,
 
-Room_Attr: SH_C02: Killerpillar-Avoid,Glowpillar-Avoid,
 Room_Attr: SH_B08: Killerpillar-Like,Glowpillar-Like,
-Room_Attr: SH_A05: Killerpillar-Avoid,Glowpillar-Avoid,
 Room_Attr: SH_B01: Killerpillar-Avoid,Glowpillar-Avoid,
 Room_Attr: SH_C10: Killerpillar-Like,Glowpillar-Like,
 Room_Attr: SH_C01: Killerpillar-Avoid,Glowpillar-Avoid,

@@ -5,7 +5,7 @@
 
 CREATURES
 
-
+(Red)OFFSCREEN : 0-MirosBird-10
 
 (Artificer)LINEAGE : OFFSCREEN : 0 : KingMiros-0
 (Spear)LINEAGE : OFFSCREEN : 0 : KingMiros-0
