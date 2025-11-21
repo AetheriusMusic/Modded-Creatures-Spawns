@@ -1,30 +1,49 @@
-[MERGE]
+[FINDLINESTART]Room_Attr: SU_B12
+[ADDAFTER]BombadierVulture-Like,
+[FINDLINESTART]Room_Attr: SU_B07
+[ADDAFTER]BombadierVulture-Like,
+[FINDLINESTART]Room_Attr: SU_A53
+[ADDAFTER]BombadierVulture-Avoid,
+[FINDLINESTART]Room_Attr: SU_A06
+[ADDAFTER]BombadierVulture-Avoid,
+[FINDLINESTART]Room_Attr: SU_B08
+[ADDAFTER]BombadierVulture-Stay,
+[FINDLINESTART]Room_Attr: SU_A20
+[ADDAFTER]BombadierVulture-Avoid,
+[FINDLINESTART]Room_Attr: SU_C02
+[ADDAFTER]BombadierVulture-Like,
+[FINDLINESTART]Room_Attr: SU_B11
+[ADDAFTER]BombadierVulture-Avoid,
+[FINDLINESTART]Room_Attr: SU_A13
+[ADDAFTER]BombadierVulture-Avoid,
+[FINDLINESTART]Room_Attr: SU_B02
+[ADDAFTER]BombadierVulture-Avoid,
+[FINDLINESTART]Room_Attr: SU_A10
+[ADDAFTER]BombadierVulture-Avoid,
+[FINDLINESTART]Room_Attr: SU_B01
+[ADDAFTER]BombadierVulture-Avoid,
+[FINDLINESTART]Room_Attr: SU_A04
+[ADDAFTER]BombadierVulture-Avoid,
+[FINDLINESTART]Room_Attr: SU_C01
+[ADDAFTER]BombadierVulture-Avoid,
+[FINDLINESTART]Room_Attr: SU_B14
+[ADDAFTER]BombadierVulture-Avoid,
 
-Room_Attr: SU_B12: BombadierVulture-Like,
-Room_Attr: SU_B07: BombadierVulture-Like,
-Room_Attr: SU_A53: BombadierVulture-Avoid,
-Room_Attr: SU_A06: BombadierVulture-Avoid,
-Room_Attr: SU_B08: BombadierVulture-Stay,
-Room_Attr: SU_A20: BombadierVulture-Avoid,
-Room_Attr: SU_C02: BombadierVulture-Like,
-Room_Attr: SU_B11: BombadierVulture-Avoid,
-Room_Attr: SU_A13: BombadierVulture-Avoid,
-Room_Attr: SU_B02: BombadierVulture-Avoid,
-Room_Attr: SU_A10: BombadierVulture-Avoid,
-Room_Attr: SU_B01: BombadierVulture-Avoid,
-Room_Attr: SU_A04: BombadierVulture-Avoid,
-Room_Attr: SU_C01: BombadierVulture-Avoid,
-Room_Attr: SU_B14: BombadierVulture-Avoid,
+[FINDLINESTART]Room_Attr: SU_A45
+[ADDAFTER]ScavengerSentinel-Avoid,
+[FINDLINESTART]Room_Attr: SU_C02
+[ADDAFTER]ScavengerSentinel-Stay,
+[FINDLINESTART]Room_Attr: SU_A07
+[ADDAFTER]ScavengerSentinel-Avoid,
 
-Room_Attr: SU_A45: ScavengerSentinel-Avoid,
-Room_Attr: SU_C02: ScavengerSentinel-Stay,
-Room_Attr: SU_A07: ScavengerSentinel-Avoid,
+[FINDLINESTART]Room_Attr: SU_A63
+[ADDAFTER]SilverLizard-Avoid,
+[FINDLINESTART]Room_Attr: SU_B12
+[ADDAFTER]SilverLizard-Like,
+[FINDLINESTART]Room_Attr: SU_A40
+[ADDAFTER]SilverLizard-Like,
+[FINDLINESTART]Room_Attr: SU_B07
+[ADDAFTER]SilverLizard-Like,
 
-Room_Attr: SU_A63: SilverLizard-Avoid,
-Room_Attr: SU_B12: SilverLizard-Like,
-Room_Attr: SU_A40: SilverLizard-Like,
-Room_Attr: SU_B07: SilverLizard-Like,
-
-Room_Attr: SU_C01: SurfaceSwimmer-Stay,
-
-[ENDMERGE]
+[FINDLINESTART]Room_Attr: SU_C01
+[ADDAFTER]SurfaceSwimmer-Stay,

@@ -3,29 +3,44 @@
 [FIND]MirosVulture-Avoid,
 [ADDAFTER]KingMiros-Avoid,
 
-[MERGE]
+[FINDLINESTART]Room_Attr: VS_C04
+[ADDAFTER]KingMiros-Like,
 
-Room_Attr: VS_C04: KingMiros-Like,
-Room_Attr: VS_C13: KingMiros-Stay,
+[FINDLINESTART]Room_Attr: VS_B02
+[ADDAFTER]Gecko-Like,
+[FINDLINESTART]Room_Attr: VS_C04
+[ADDAFTER]Gecko-Like,
+[FINDLINESTART]Room_Attr: VS_D01
+[ADDAFTER]Gecko-Like,
+[FINDLINESTART]Room_Attr: VS_A14
+[ADDAFTER]Gecko-Avoid,
+[FINDLINESTART]Room_Attr: VS_C02
+[ADDAFTER]Gecko-Avoid,
+[FINDLINESTART]Room_Attr: VS_B09
+[ADDAFTER]Gecko-Avoid,
+[FINDLINESTART]Room_Attr: VS_C06
+[ADDAFTER]Gecko-Like,
+[FINDLINESTART]Room_Attr: VS_A07
+[ADDAFTER]Gecko-Avoid,
+[FINDLINESTART]Room_Attr: VS_C07
+[ADDAFTER]Gecko-Avoid,
 
-Room_Attr: VS_B02: Gecko-Like,
-Room_Attr: VS_C04: Gecko-Like,
-Room_Attr: VS_D01: Gecko-Like,
-Room_Attr: VS_A14: Gecko-Avoid,
-Room_Attr: VS_C02: Gecko-Avoid,
-Room_Attr: VS_B09: Gecko-Avoid,
-Room_Attr: VS_C06: Gecko-Like,
-Room_Attr: VS_C13: Gecko-Like,
-Room_Attr: VS_E07: Gecko-Avoid,
-Room_Attr: VS_A07: Gecko-Avoid,
-Room_Attr: VS_C07: Gecko-Avoid,
+[FINDLINESTART]Room_Attr: VS_F01
+[ADDAFTER]WaterSpitter-Stay,
+[FINDLINESTART]Room_Attr: VS_D04
+[ADDAFTER]WaterSpitter-Avoid,
+[FINDLINESTART]Room_Attr: VS_C11
+[ADDAFTER]WaterSpitter-Avoid,
+[FINDLINESTART]Room_Attr: VS_E02
+[ADDAFTER]WaterSpitter-Avoid,
+[FINDLINESTART]Room_Attr: VS_B17
+[ADDAFTER]WaterSpitter-Like,
+[FINDLINESTART]Room_Attr: VS_F02
+[ADDAFTER]WaterSpitter-Like,
+[FINDLINESTART]Room_Attr: VS_E06
+[ADDAFTER]WaterSpitter-Like,
 
-Room_Attr: VS_F01: WaterSpitter-Stay,
-Room_Attr: VS_D04: WaterSpitter-Avoid,
-Room_Attr: VS_C11: WaterSpitter-Avoid,
-Room_Attr: VS_E02: WaterSpitter-Avoid,
-Room_Attr: VS_B17: WaterSpitter-Like,
-Room_Attr: VS_F02: WaterSpitter-Like,
-Room_Attr: VS_E06: WaterSpitter-Like,
 
-[ENDMERGE]
+
+[ADD]Room_Attr: VS_C13: KingMiros-Stay,Gecko-Like,
+[ADD]Room_Attr: VS_E07: Gecko-Avoid,

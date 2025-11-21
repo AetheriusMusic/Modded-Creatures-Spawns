@@ -1,38 +1,66 @@
+[FINDLINESTART]Room_Attr: SI_A06
+[ADDAFTER]BombadierVulture-Avoid,FatFireFly-Forbidden,
+[FINDLINESTART]Room_Attr: SI_A07
+[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,
+[FINDLINESTART]Room_Attr: SI_C01
+[ADDAFTER]BombadierVulture-Stay,FatFireFly-Avoid,
+[FINDLINESTART]Room_Attr: SI_C02
+[ADDAFTER]BombadierVulture-Like,FatFireFly-Avoid,
+[FINDLINESTART]Room_Attr: SI_C07
+[ADDAFTER]BombadierVulture-Avoid,FatFireFly-Avoid,
+
+[FINDLINESTART]Room_Attr: SI_B03
+[ADDAFTER]BombadierVulture-Avoid,FatFireFly-Avoid,
+[FINDLINESTART]Room_Attr: SI_B09
+[ADDAFTER]BombadierVulture-Avoid,FatFireFly-Like,
+[FINDLINESTART]Room_Attr: SI_B11
+[ADDAFTER]BombadierVulture-Avoid,FatFireFly-Avoid,
+[FINDLINESTART]Room_Attr: SI_B12
+[ADDAFTER]BombadierVulture-Avoid,FatFireFly-Avoid,
+[FINDLINESTART]Room_Attr: SI_D01
+[ADDAFTER]BombadierVulture-Like,FatFireFly-Stay,
+
+[FINDLINESTART]Room_Attr: SI_C03
+[ADDAFTER]BombadierVulture-Like,
+[FINDLINESTART]Room_Attr: SI_C04
+[ADDAFTER]BombadierVulture-Like,
+
+[FINDLINESTART]Room_Attr: SI_A02
+[ADDAFTER]BombadierVulture-Avoid,
+[FINDLINESTART]Room_Attr: SI_A23
+[ADDAFTER]BombadierVulture-Avoid,
+[FINDLINESTART]Room_Attr: SI_B13
+[ADDAFTER]BombadierVulture-Avoid,
+[FINDLINESTART]Room_Attr: SI_C09
+[ADDAFTER]BombadierVulture-Avoid,
+[FINDLINESTART]Room_Attr: SI_D03
+[ADDAFTER]BombadierVulture-Avoid,
+[FINDLINESTART]Room_Attr: SI_D07
+[ADDAFTER]BombadierVulture-Avoid,
+
+[FINDLINESTART]Room_Attr: SI_B01
+[ADDAFTER]FatFireFly-Like,
+[FINDLINESTART]Room_Attr: SI_B02
+[ADDAFTER]FatFireFly-Like,
+[FINDLINESTART]Room_Attr: SI_C05
+[ADDAFTER]FatFireFly-Avoid,
+[FINDLINESTART]Room_Attr: SI_C08
+[ADDAFTER]FatFireFly-Avoid,
+[FINDLINESTART]Room_Attr: SI_D05
+[ADDAFTER]FatFireFly-Avoid,
+
 [MERGE]
 
-Room_Attr: SI_A07: BombadierVulture-Forbidden,FatFireFly-Forbidden,
-Room_Attr: SI_A06: BombadierVulture-Avoid,FatFireFly-Forbidden,
-Room_Attr: SI_C07: BombadierVulture-Avoid,FatFireFly-Avoid,
-Room_Attr: SI_C02: BombadierVulture-Like,FatFireFly-Avoid,
-Room_Attr: SI_C01: BombadierVulture-Stay,FatFireFly-Avoid,
-Room_Attr: SI_F01: BombadierVulture-Avoid,FatFireFly-Like,
-Room_Attr: SI_D01: BombadierVulture-Like,FatFireFly-Stay,
-Room_Attr: SI_B11: BombadierVulture-Avoid,FatFireFly-Avoid,
-Room_Attr: SI_B12: BombadierVulture-Avoid,FatFireFly-Avoid,
-Room_Attr: SI_B03: BombadierVulture-Avoid,FatFireFly-Avoid,
-Room_Attr: SI_B09: BombadierVulture-Avoid,FatFireFly-Like,
-Room_Attr: SI_B16: BombadierVulture-Avoid,FatFireFly-Avoid,
-Room_Attr: SI_D09: BombadierVulture-Avoid,FatFireFly-Stay,
-Room_Attr: SI_A31: BombadierVulture-Avoid,FatFireFly-Like,
 Room_Attr: SI_SAINTINTRO: BombadierVulture-Avoid,FatFireFly-Avoid,
+Room_Attr: SI_A31: BombadierVulture-Avoid,FatFireFly-Like,
+Room_Attr: SI_B16: BombadierVulture-Avoid,FatFireFly-Avoid,
 Room_Attr: SI_C01x: BombadierVulture-Avoid,FatFireFly-Like,
+Room_Attr: SI_D09: BombadierVulture-Avoid,FatFireFly-Stay,
+Room_Attr: SI_F01: BombadierVulture-Avoid,FatFireFly-Like,
 
-Room_Attr: SI_C04: BombadierVulture-Like,
-Room_Attr: SI_C03: BombadierVulture-Like,
 Room_Attr: SI_B02x: BombadierVulture-Like,
-Room_Attr: SI_D03: BombadierVulture-Avoid,
-Room_Attr: SI_A02: BombadierVulture-Avoid,
-Room_Attr: SI_A23: BombadierVulture-Avoid,
-Room_Attr: SI_C09: BombadierVulture-Avoid,
-Room_Attr: SI_D07: BombadierVulture-Avoid,
-Room_Attr: SI_B13: BombadierVulture-Avoid,
 
-Room_Attr: SI_C08: FatFireFly-Avoid,
-Room_Attr: SI_D05: FatFireFly-Avoid,
 Room_Attr: SI_C06x: FatFireFly-Like,
-Room_Attr: SI_C05: FatFireFly-Avoid,
-Room_Attr: SI_B01: FatFireFly-Like,
 Room_Attr: SI_D08: FatFireFly-Like,
-Room_Attr: SI_B02: FatFireFly-Like,
 
 [ENDMERGE]

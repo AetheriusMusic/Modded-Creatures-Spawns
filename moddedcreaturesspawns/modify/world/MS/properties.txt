@@ -3,12 +3,11 @@
 [FIND]MirosVulture-Avoid,
 [ADDAFTER]KingMiros-Avoid,
 
-[MERGE]
-
-Room_Attr: MS_bitteraerie3: KingMiros-Like,
-Room_Attr: MS_bitteraerie5: KingMiros-Like,
-Room_Attr: MS_bitterunderground: KingMiros-Like,
-Room_Attr: MS_bitterentrance: KingMiros-Like,
-Room_Attr: MS_bitterunderground: KingMiros-Stay,
-
-[ENDMERGRE]
+[FINDLINESTART]Room_Attr: MS_bitteraerie3
+[ADDAFTER]KingMiros-Like,
+[FINDLINESTART]Room_Attr: MS_bitteraerie5
+[ADDAFTER]KingMiros-Like,
+[FINDLINESTART]Room_Attr: MS_bitterentrance
+[ADDAFTER]KingMiros-Like,
+[FINDLINESTART]Room_Attr: MS_bitterunderground
+[ADDAFTER]KingMiros-Stay,

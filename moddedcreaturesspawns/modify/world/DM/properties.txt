@@ -7,14 +7,21 @@
 [FIND]MirosVulture-Stay,
 [ADDAFTER]KingMiros-Stay,
 
+[FINDLINESTART]Room_Attr: DM_U09
+[ADDAFTER]KingMiros-Avoid,
+[FINDLINESTART]Room_Attr: DM_ROOF01
+[ADDAFTER]KingMiros-Neutral,
+[FINDLINESTART]Room_Attr: DM_ROOF03
+[ADDAFTER]KingMiros-Neutral,
+[FINDLINESTART]Room_Attr: DM_WALL04
+[ADDAFTER]KingMiros-Avoid,
+[FINDLINESTART]Room_Attr: DM_WALL06
+[ADDAFTER]KingMiros-Like,
+[FINDLINESTART]Room_Attr: DM_LEG07
+[ADDAFTER]KingMiros-Avoid,
+
 [MERGE]
 
-Room_Attr: DM_ROOF01: KingMiros-Neutral,
-Room_Attr: DM_ROOF03: KingMiros-Neutral,
-Room_Attr: DM_WALL04: KingMiros-Avoid,
-Room_Attr: DM_WALL06: KingMiros-Like,
-Room_Attr: DM_LEG07: KingMiros-Avoid,
 Room_Attr: DM_S11: KingMiros-Avoid,
-Room_Attr: DM_U09: KingMiros-Avoid,
 
 [ENDMERGE]

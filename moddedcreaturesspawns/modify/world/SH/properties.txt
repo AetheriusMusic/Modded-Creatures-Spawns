@@ -1,35 +1,57 @@
-[ADD]Room_Attr: SH_H01: Joust-Avoid,KingMiros-Like,
+[FINDLINESTART]Room_Attr: SH_A05
+[ADDAFTER]Joust-Like,KingMiros-Forbidden,Killerpillar-Avoid,Glowpillar-Avoid,
+[FINDLINESTART]Room_Attr: SH_A06
+[ADDAFTER]Joust-Avoid,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: SH_A10
+[ADDAFTER]Joust-Like,KingMiros-Avoid,
+[FINDLINESTART]Room_Attr: SH_A14
+[ADDAFTER]Joust-Like,KingMiros-Like,
+[FINDLINESTART]Room_Attr: SH_C02
+[ADDAFTER]Joust-Like,KingMiros-Like,Killerpillar-Avoid,Glowpillar-Avoid,
+[FINDLINESTART]Room_Attr: SH_C03
+[ADDAFTER]Joust-Avoid,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: SH_D03
+[ADDAFTER]Joust-Avoid,KingMiros-Like,
+[FINDLINESTART]Room_Attr: SH_E01
+[ADDAFTER]Joust-Avoid,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: SH_E03
+[ADDAFTER]Joust-Avoid,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: SH_E05
+[ADDAFTER]Joust-Like,KingMiros-Stay,
+[FINDLINESTART]Room_Attr: SH_E04
+[ADDAFTER]Joust-Avoid,KingMiros-Avoid,
+[FINDLINESTART]Room_Attr: SH_H01
+[ADDAFTER]Joust-Avoid,KingMiros-Like,
+[FINDLINESTART]Room_Attr: SH_OVERHEAD
+[ADDAFTER]Joust-Like,KingMiros-Avoid,
+[FINDLINESTART]Room_Attr: SH_scavshop
+[ADDAFTER]Joust-Like,KingMiros-Avoid,
 
-[MERGE]
+[FINDLINESTART]Room_Attr: SH_B02
+[ADDAFTER]Joust-Like,
+[FINDLINESTART]Room_Attr: SH_B03
+[ADDAFTER]Joust-Like,
+[FINDLINESTART]Room_Attr: SH_D01
+[ADDAFTER]Joust-Stay,
 
-Room_Attr: SH_A05: Joust-Like,KingMiros-Forbidden,Killerpillar-Avoid,Glowpillar-Avoid,
-Room_Attr: SH_A06: Joust-Avoid,KingMiros-Forbidden,
-Room_Attr: SH_A10: Joust-Like,KingMiros-Avoid,
-Room_Attr: SH_A14: Joust-Like,KingMiros-Like,
-Room_Attr: SH_C02: Joust-Like,KingMiros-Like,Killerpillar-Avoid,Glowpillar-Avoid,
-Room_Attr: SH_C03: Joust-Avoid,KingMiros-Forbidden,
-Room_Attr: SH_D03: Joust-Avoid,KingMiros-Like,
-Room_Attr: SH_E01: Joust-Avoid,KingMiros-Forbidden,
-Room_Attr: SH_E03: Joust-Avoid,KingMiros-Forbidden,
-Room_Attr: SH_E05: Joust-Like,KingMiros-Stay,
-Room_Attr: SH_E04: Joust-Avoid,KingMiros-Avoid,
-Room_Attr: SH_OVERHEAD: Joust-Like,KingMiros-Avoid,
-Room_Attr: SH_scavshop: Joust-Like,KingMiros-Avoid,
+[FINDLINESTART]Room_Attr: SH_B10
+[ADDAFTER]MoleSalamander-Like,
+[FINDLINESTART]Room_Attr: SH_B11
+[ADDAFTER]MoleSalamander-Avoid,
+[FINDLINESTART]Room_Attr: SH_B12
+[ADDAFTER]MoleSalamander-Avoid,
+[FINDLINESTART]Room_Attr: SH_B13
+[ADDAFTER]MoleSalamander-Avoid,
+[FINDLINESTART]Room_Attr: SH_D02
+[ADDAFTER]MoleSalamander-Stay,
+[FINDLINESTART]Room_Attr: SH_E02
+[ADDAFTER]MoleSalamander-Stay,
 
-Room_Attr: SH_B02: Joust-Like,
-Room_Attr: SH_B03: Joust-Like,
-Room_Attr: SH_D01: Joust-Stay,
-
-Room_Attr: SH_B10: MoleSalamander-Like,
-Room_Attr: SH_B11: MoleSalamander-Avoid,
-Room_Attr: SH_B12: MoleSalamander-Avoid,
-Room_Attr: SH_B13: MoleSalamander-Avoid,
-Room_Attr: SH_D02: MoleSalamander-Stay,
-Room_Attr: SH_E02: MoleSalamander-Stay,
-
-Room_Attr: SH_B01: Killerpillar-Avoid,Glowpillar-Avoid,
-Room_Attr: SH_B08: Killerpillar-Like,Glowpillar-Like,
-Room_Attr: SH_C01: Killerpillar-Avoid,Glowpillar-Avoid,
-Room_Attr: SH_C10: Killerpillar-Like,Glowpillar-Like,
-
-[ENDMERGE]
+[FINDLINESTART]Room_Attr: SH_B01
+[ADDAFTER]Killerpillar-Avoid,Glowpillar-Avoid,
+[FINDLINESTART]Room_Attr: SH_B08
+[ADDAFTER]Killerpillar-Like,Glowpillar-Like,
+[FINDLINESTART]Room_Attr: SH_C01
+[ADDAFTER]Killerpillar-Avoid,Glowpillar-Avoid,
+[FINDLINESTART]Room_Attr: SH_C10
+[ADDAFTER]Killerpillar-Like,Glowpillar-Like,

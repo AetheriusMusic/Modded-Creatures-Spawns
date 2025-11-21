@@ -1,11 +1,11 @@
 {
   "id": "aetherius.moddedcreaturesspawns",
   "name": "Modded Creatures Spawns",
-  "version": "1.5.8",
+  "version": "1.6.0",
   "hide_version": false,
   "target_game_version": "v1.11.3",
   "authors": "Aetherius",
-  "description": "Adds various modded creatures spawns to Vanilla and Downpour regions (Watcher regions not included!).<LINE>This mod is constantly getting updated, way more creatures are yet to be added!<LINE>Mostly compatible with mods such as Screen Lady's Diverse Spawns or mods that add Watcher creatures.",
+  "description": "Adds various modded creatures spawns to Vanilla and Downpour regions.<LINE>Mostly compatible with other mods that modify spawns or mods that add Watcher creatures.",
   "youtube_trailer_id": "",
   "requirements": [
     "moreslugcats",

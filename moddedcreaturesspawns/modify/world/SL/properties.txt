@@ -1,17 +1,23 @@
-[MERGE]
+[FINDLINESTART]Room_Attr: SL_D04
+[ADDAFTER]WaterSpitter-Like,CommonEel-Stay,DivingBeetle-Like,
+[FINDLINESTART]Room_Attr: SL_D06
+[ADDAFTER]WaterSpitter-Like,CommonEel-Like,DivingBeetle-Like,
+[FINDLINESTART]Room_Attr: SL_F02
+[ADDAFTER]WaterSpitter-Like,CommonEel-Stay,DivingBeetle-Avoid,
+[FINDLINESTART]Room_Attr: SL_H02
+[ADDAFTER]WaterSpitter-Like,CommonEel-Stay,DivingBeetle-Stay,
+[FINDLINESTART]Room_Attr: SL_H03
+[ADDAFTER]WaterSpitter-Avoid,CommonEel-Stay,DivingBeetle-Stay,
 
-Room_Attr: SL_F02: WaterSpitter-Like,CommonEel-Stay,DivingBeetle-Avoid,
-Room_Attr: SL_D06: WaterSpitter-Like,CommonEel-Like,DivingBeetle-Like,
-Room_Attr: SL_D04: WaterSpitter-Like,CommonEel-Stay,DivingBeetle-Like,
-Room_Attr: SL_H02: WaterSpitter-Like,CommonEel-Stay,DivingBeetle-Stay,
-Room_Attr: SL_H03: WaterSpitter-Avoid,CommonEel-Stay,DivingBeetle-Stay,
+[FINDLINESTART]Room_Attr: SL_C02
+[ADDAFTER]WaterSpitter-Like,CommonEel-Avoid,
 
-Room_Attr: SL_C02: WaterSpitter-Like,CommonEel-Avoid,
+[FINDLINESTART]Room_Attr: SL_D01
+[ADDAFTER]CommonEel-Like,
+[FINDLINESTART]Room_Attr: SL_F01
+[ADDAFTER]CommonEel-Stay,
 
-Room_Attr: SL_F01: CommonEel-Stay,
-Room_Attr: SL_D01: CommonEel-Like,
-
-Room_Attr: SL_C01: DivingBeetle-Like,
-Room_Attr: SL_B01: DivingBeetle-Like,
-
-[ENDMERGE]
+[FINDLINESTART]Room_Attr: SL_B01
+[ADDAFTER]DivingBeetle-Like,
+[FINDLINESTART]Room_Attr: SL_C01
+[ADDAFTER]DivingBeetle-Like,

@@ -1,12 +1,16 @@
-[MERGE]
-
-Room_Attr: SS_I03: GregTechLizard-Avoid,
-Room_Attr: SS_A11: GregTechLizard-Avoid,
-Room_Attr: SS_C03: GregTechLizard-Like,
-Room_Attr: SS_B02: GregTechLizard-Like,
-Room_Attr: SS_A16: GregTechLizard-Like,
-Room_Attr: SS_A03: GregTechLizard-Avoid,
-Room_Attr: SS_A15: GregTechLizard-Avoid,
-Room_Attr: SS_D03: GregTechLizard-Stay,
-
-[ENDMERGE]
+[FINDLINESTART]Room_Attr: SS_I03
+[ADDAFTER]GregTechLizard-Avoid,
+[FINDLINESTART]Room_Attr: SS_A11
+[ADDAFTER]GregTechLizard-Avoid,
+[FINDLINESTART]Room_Attr: SS_C03
+[ADDAFTER]GregTechLizard-Like,
+[FINDLINESTART]Room_Attr: SS_B02
+[ADDAFTER]GregTechLizard-Like,
+[FINDLINESTART]Room_Attr: SS_A16
+[ADDAFTER]GregTechLizard-Like,
+[FINDLINESTART]Room_Attr: SS_A03
+[ADDAFTER]GregTechLizard-Avoid,
+[FINDLINESTART]Room_Attr: SS_A15
+[ADDAFTER]GregTechLizard-Avoid,
+[FINDLINESTART]Room_Attr: SS_D03
+[ADDAFTER]GregTechLizard-Stay,

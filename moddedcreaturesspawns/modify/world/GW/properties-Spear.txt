@@ -1,55 +1,48 @@
-[FIND]Scavenger-Forbidden,
-[ADDAFTER]ScavengerSentinel-Forbidden,
-[FIND]Scavenger-Avoid,
-[ADDAFTER]ScavengerSentinel-Avoid,
+[FINDLINESTART]Room_Attr: LM_B02
+[ADDAFTER]MirosVulture-Forbidden,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: LM_C01
+[ADDAFTER]MirosVulture-Forbidden,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: LM_B01
+[ADDAFTER]MirosVulture-Forbidden,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: LM_F01
+[ADDAFTER]MirosVulture-Forbidden,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: LM_C02
+[ADDAFTER]MirosVulture-Forbidden,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: LM_D06
+[ADDAFTER]MirosVulture-Forbidden,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: LM_D01
+[ADDAFTER]MirosVulture-Forbidden,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: LM_B04
+[ADDAFTER]MirosVulture-Forbidden,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: LM_C03
+[ADDAFTER]MirosVulture-Forbidden,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: LM_SIDESWAMP
+[ADDAFTER]MirosVulture-Forbidden,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: LM_TOWERSIDE
+[ADDAFTER]MirosVulture-Forbidden,KingMiros-Forbidden,
+[FINDLINESTART]Room_Attr: LM_H03
+[ADDAFTER]MirosVulture-Avoid,KingMiros-Avoid,
+[FINDLINESTART]Room_Attr: LM_LEGENTRANCE
+[ADDAFTER]MirosVulture-Avoid,KingMiros-Avoid,
+[FINDLINESTART]Room_Attr: LM_LEGENTRANCEARTY
+[ADDAFTER]MirosVulture-Avoid,KingMiros-Avoid,
+[FINDLINESTART]Room_Attr: LM_BRIDGE03
+[ADDAFTER]MirosVulture-Like,KingMiros-Stay,
+[FINDLINESTART]Room_Attr: LM_TOWER10
+[ADDAFTER]MirosVulture-Like,KingMiros-Like,
+[FINDLINESTART]Room_Attr: LM_TOWER12
+[ADDAFTER]MirosVulture-Like,KingMiros-Stay,
 
-[MERGE]
 
-Room_Attr: GW_C05: ScavengerSentinel-Stay,
-Room_Attr: GW_C11: ScavengerSentinel-Stay,
 
-Room_Attr: GW_B09_PAST: Joust-Forbidden,
-Room_Attr: GW_TOWER05: Joust-Forbidden,
-Room_Attr: GW_C01_PAST: Joust-Forbidden,
-Room_Attr: GW_TOWER08: Joust-Forbidden,
-Room_Attr: GW_A11_PAST: Joust-Forbidden,
-Room_Attr: GW_C02_PAST: Joust-Forbidden,
-Room_Attr: GW_TOWER10: Joust-Forbidden,
-Room_Attr: GW_TOWER14: Joust-Forbidden,
-Room_Attr: GW_TOWER15: Joust-Forbidden,
-
-Room_Attr: GW_E02: BombadierVulture-Stay,Joust-Forbidden,
-Room_Attr: GW_B02: BombadierVulture-Like,Joust-Forbidden,
-Room_Attr: GW_C03: BombadierVulture-Like,Joust-Forbidden,
-Room_Attr: GW_C05: BombadierVulture-Like,Joust-Forbidden,
-Room_Attr: GW_A24: BombadierVulture-Forbidden,Joust-Forbidden,
-Room_Attr: GW_C01: BombadierVulture-Like,Joust-Forbidden,
-Room_Attr: GW_D01: BombadierVulture-Stay,Joust-Forbidden,
-Room_Attr: GW_C02: BombadierVulture-Like,Joust-Forbidden,
-Room_Attr: GW_A25: BombadierVulture-Like,Joust-Forbidden,
-Room_Attr: GW_EDGE01: BombadierVulture-Forbidden,Joust-Forbidden,
-Room_Attr: GW_EDGE02: BombadierVulture-Forbidden,Joust-Forbidden,
-Room_Attr: GW_EDGE03: BombadierVulture-Avoid,Joust-Stay,
-Room_Attr: GW_EDGE04: BombadierVulture-Forbidden,Joust-Forbidden,
-Room_Attr: GW_EDGE05: BombadierVulture-Avoid,Joust-Like,
-Room_Attr: GW_B01_PAST: BombadierVulture-Avoid,Joust-Forbidden,
-Room_Attr: GW_B01: BombadierVulture-Avoid,Joust-Forbidden,
-Room_Attr: GW_TOWER02: BombadierVulture-Avoid,Joust-Forbidden,
-Room_Attr: GW_TOWER03: BombadierVulture-Avoid,Joust-Forbidden,
-Room_Attr: GW_PIPE01: BombadierVulture-Forbidden,Joust-Forbidden,
-Room_Attr: GW_PIPE02: BombadierVulture-Forbidden,Joust-Forbidden,
-Room_Attr: GW_PIPE03: BombadierVulture-Forbidden,Joust-Forbidden,
-Room_Attr: GW_PIPE04: BombadierVulture-Forbidden,Joust-Forbidden,
-Room_Attr: GW_PIPE07: BombadierVulture-Forbidden,Joust-Forbidden,
-Room_Attr: GW_PIPE09: BombadierVulture-Forbidden,Joust-Forbidden,
-Room_Attr: GW_E02_PAST: BombadierVulture-Stay,Joust-Forbidden,
-Room_Attr: GW_S09: BombadierVulture-Forbidden,Joust-Forbidden,
-Room_Attr: GW_C04: BombadierVulture-Like,Joust-Forbidden,
-Room_Attr: GW_C04_PAST: BombadierVulture-Like,Joust-Forbidden,
-Room_Attr: GW_TOWER04: BombadierVulture-Avoid,Joust-Forbidden,
-Room_Attr: GW_TOWER06: BombadierVulture-Like,Joust-Forbidden,
-Room_Attr: GW_PIPE13: BombadierVulture-Avoid,Joust-Forbidden,
-Room_Attr: GW_D01_PAST: BombadierVulture-Like,Joust-Forbidden,
-Room_Attr: GW_TOWER12: BombadierVulture-Avoid,Joust-Forbidden,
-
-[ENDMERGE]
+[ADD]Room_Attr: LM_BRIDGE01: MirosVulture-Like,KingMiros-Like,
+[ADD]Room_Attr: LM_BRIDGE02: MirosVulture-Like,KingMiros-Stay,
+[ADD]Room_Attr: LM_EDGE02: MirosVulture-Avoid,KingMiros-Avoid,
+[ADD]Room_Attr: LM_TOWER01: MirosVulture-Avoid,KingMiros-Avoid,
+[ADD]Room_Attr: LM_TOWER02: MirosVulture-Avoid,KingMiros-Avoid,
+[ADD]Room_Attr: LM_TOWER04: MirosVulture-Stay,KingMiros-Like,
+[ADD]Room_Attr: LM_TOWER09: MirosVulture-Stay,KingMiros-Like,
+[ADD]Room_Attr: LM_TOWER10ARTY: MirosVulture-Like,KingMiros-Like,
+[ADD]Room_Attr: LM_TOWER13: MirosVulture-Stay,KingMiros-Like,
+[ADD]Room_Attr: LM_BRIDGE04ARTY: MirosVulture-Avoid,KingMiros-Avoid,
+[ADD]Room_Attr: LM_TOWER14: MirosVulture-Like,KingMiros-Stay,
