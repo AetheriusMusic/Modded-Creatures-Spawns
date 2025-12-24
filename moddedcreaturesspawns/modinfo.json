@@ -1,16 +1,15 @@
 {
   "id": "aetherius.moddedcreaturesspawns",
   "name": "Modded Creatures Spawns",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "hide_version": false,
-  "target_game_version": "v1.11.3",
+  "target_game_version": "v1.11.5",
   "authors": "Aetherius",
   "description": "Adds various modded creatures spawns to Vanilla and Downpour regions.<LINE>Mostly compatible with other mods that modify spawns or mods that add Watcher creatures.",
   "youtube_trailer_id": "",
   "requirements": [
     "moreslugcats",
     "Croken.bombardier-vulture",
-    "nonescreatures",
     "mosquitoes",
     "bebra.gregtech_lizard",
     "Croken.Mimic-Long-Legs",
@@ -21,7 +20,6 @@
   "requirements_names": [
     "More Slugcats Expansion",
     "Bombardier Vulture",
-    "None's Creature Pack",
     "Mosquitoes",
     "Electric Lizard",
     "Mimic Long Legs",
