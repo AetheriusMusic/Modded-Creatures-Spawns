@@ -1,11 +1,11 @@
 {
   "Title": "Modded Creatures Spawns",
-  "Description": "Adds various modded creatures spawns to Vanilla and Downpour regions.\u003CLINE\u003EMostly compatible with other mods that modify spawns or mods that add Watcher creatures.",
+  "Description": "Adds various modded creatures spawns in Vanilla and Downpour regions, following Aetherius\u0027 headcanoncs.\u003CLINE\u003EMostly compatible with other mods that modify spawns and/or rooms.",
   "ID": "aetherius.moddedcreaturesspawns",
-  "Version": "1.6.0",
-  "TargetGameVersion": "v1.11.3",
-  "Requirements": "moreslugcats,Croken.bombardier-vulture,nonescreatures,mosquitoes,bebra.gregtech_lizard,Croken.Mimic-Long-Legs,com.rainworldgame.shroudedassembly.plugin,reaperlizard,lb-fgf-m4r-ik.modpack",
-  "RequirementNames": "More Slugcats Expansion,Bombardier Vulture,None\u0027s Creature Pack,Mosquitoes,Electric Lizard,Mimic Long Legs,Shrouded Assembly Code,Reaper Lizard,The M4rblelous Entity Pack",
+  "Version": "2.0",
+  "TargetGameVersion": "v1.11.6",
+  "Requirements": "moreslugcats,Croken.bombardier-vulture,mosquitoes,bebra.gregtech_lizard,Croken.Mimic-Long-Legs,com.rainworldgame.shroudedassembly.plugin,reaperlizard,lb-fgf-m4r-ik.modpack,nonescreatures",
+  "RequirementNames": "More Slugcats Expansion,Bombardier Vulture,Mosquitoes,Electric Lizard,Mimic Long Legs,Shrouded Assembly Code,Reaper Lizard,The M4rblelous Entity Pack,None\u0027s Creature Pack",
   "Authors": "Aetherius",
   "Visibility": "Public",
   "Tags": [

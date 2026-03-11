@@ -1,5 +1,5 @@
 [FINDLINESTART](Saint)OFFSCREEN
-[ADDAFTER], 0-Blizzor-{Ignorecycle}-7
+[ADDAFTER], 0-Blizzor-{Ignorecycle}-9
 
 
 
@@ -9,9 +9,9 @@ CREATURES
 
 
 
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)SB_C02 : 4-TentaclePlant, 5-JetFish, 3-Eel-2-{PreCycle}
-(Saint)SB_C02 : 5-Jetfish, 3-Eel-2-{PreCycle}
-(Inv)SB_C02 : 4-TentaclePlant, 5-JetFish, 3-Eel-2-{PreCycle}
+(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)SB_C02 : 4-TentaclePlant, 5-JetFish, 3-Eel-{PreCycle}-2
+(Saint)SB_C02 : 5-Jetfish, 3-Eel-{PreCycle}-2
+(Inv)SB_C02 : 4-TentaclePlant, 5-JetFish, 3-Eel-{PreCycle}-2
 (Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : SB_C02 : 2 : SurfaceSwimmer-0
 
 

@@ -28,6 +28,7 @@
 [ADDAFTER]BombadierVulture-Stay,FatFireFly-Stay,Joust-Forbidden,
 
 # Downpour rooms
+
 [FINDLINESTART]Room_Attr: GW_A11_PAST
 [ADDAFTER]FatFireFly-Like,Joust-Forbidden,
 [FINDLINESTART]Room_Attr: GW_A25

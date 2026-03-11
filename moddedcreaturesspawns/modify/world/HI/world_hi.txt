@@ -9,24 +9,28 @@
 [ADDAFTER], 0-KingMiros-{Night}-2
 
 [FINDLINESTART](X-Yellow,Red,Gourmand,Rivulet,Artificer,Spear,Saint,Inv)OFFSCREEN
-[ADDAFTER], 0-FatFireFly-{AlternateForm}-1
+[ADDAFTER], 0-FatFireFly-{AlternateForm}
 [FINDLINESTART](Yellow)OFFSCREEN
-[ADDAFTER], 0-FatFireFly-{AlternateForm}-1
+[ADDAFTER], 0-FatFireFly-{AlternateForm}
 [FINDLINESTART](Red)OFFSCREEN
 [ADDAFTER], 0-FatFireFly-{AlternateForm}-2
 [FINDLINESTART](Gourmand)OFFSCREEN
 [ADDAFTER], 0-FatFireFly-{AlternateForm}-2
 [FINDLINESTART](Artificer)OFFSCREEN
-[ADDAFTER], 0-FatFireFly-{AlternateForm}-1
+[ADDAFTER], 0-FatFireFly-{AlternateForm}
 [FINDLINESTART](Spear)OFFSCREEN
-[ADDAFTER], 0-FatFireFly-{AlternateForm}-1
+[ADDAFTER], 0-FatFireFly-{AlternateForm}
 
 [FINDLINESTART](X-Gourmand,Red,Artificer,Spear,Saint,Inv)HI_C03
 [ADDAFTER], 4-ThornBug-{AlternateForm}, 5-TintedBeetle-{AlternateForm}, 6-TintedBeetle-{AlternateForm}
 [FINDLINESTART](Gourmand)HI_C03
+[ADDAFTER], 4-ThornBug-{AlternateForm}, 5-TintedBeetle-{AlternateForm}, 6-TintedBeetle-{AlternateForm}-2
+[FINDLINESTART](Red)HI_C03
 [ADDAFTER], 4-ThornBug-{AlternateForm}, 5-TintedBeetle-{AlternateForm}, 6-TintedBeetle-{AlternateForm}
-[FINDLINESTART](Red,Artificer,Spear)HI_C03
-[ADDAFTER], 4-ThornBug-{AlternateForm}, 5-TintedBeetle-{AlternateForm}, 6-TintedBeetle-{AlternateForm}
+[FINDLINESTART](Artificer)HI_C03
+[ADDAFTER], 4-ThornBug-{AlternateForm}-2, 5-TintedBeetle-{AlternateForm}, 6-TintedBeetle-{AlternateForm}
+[FINDLINESTART](Spear)HI_C03
+[ADDAFTER], 4-ThornBug-{AlternateForm}-2, 5-TintedBeetle-{AlternateForm}-2, 6-TintedBeetle-{AlternateForm}
 
 [MERGE]
 
@@ -41,9 +45,6 @@ CREATURES
 (Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)HI_C02 : 6-ThornBug-{AlternateForm}, 7-TintedBeetle-{AlternateForm}, 8-TintedBeetle-{AlternateForm}
 (Saint)HI_C02 : 9-Yellow-3
 (Inv)HI_C02 : 9-Yellow-3
-
-(Gourmand)HI_C03 : 3-Cyan, 3-Eel-{PreCycle}
-(Saint)HI_C03 : 3-White, 3-Eel-{PreCycle}
 
 (Yellow,White,Gourmand)HI_C04 : 5-Blue, 7-Snail, 8-Snail-2, 8-TentaclePlant-{PreCycle}, 5-Cyan-{PreCycle}
 (Red,Artificer,Spear)HI_C04 : 5-Cyan, 8-TentaclePlant-{PreCycle}, 5-Cyan-{PreCycle}

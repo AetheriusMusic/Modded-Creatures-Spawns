@@ -9,7 +9,7 @@
 [ADDAFTER]ScavengerSentinel-Avoid,
 
 [FINDLINESTART]Room_Attr: OE_TOWER04
-[ADDAFTER]ScavengerSentinel-Like,
+[ADDAFTER]ScavengerSentinel-Stay,
 
 [FINDLINESTART]Room_Attr: OE_RAIL01
 [ADDAFTER]BombadierVulture-Like,

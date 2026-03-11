@@ -6,10 +6,10 @@
 [ADDAFTER]KingMiros-Like,
 [FINDLINESTART]Room_Attr: CC_A10
 [ADDAFTER]KingMiros-Like,
-[FINDLINESTART]Room_Attr: CC_B06
-[ADDAFTER]KingMiros-Forbidden,
 [FINDLINESTART]Room_Attr: CC_B01
 [ADDAFTER]KingMiros-Like,
+[FINDLINESTART]Room_Attr: CC_B06
+[ADDAFTER]KingMiros-Forbidden,
 [FINDLINESTART]Room_Attr: CC_B08
 [ADDAFTER]KingMiros-Avoid,
 [FINDLINESTART]Room_Attr: CC_B10

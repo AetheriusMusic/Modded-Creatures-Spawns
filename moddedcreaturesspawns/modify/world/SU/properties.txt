@@ -1,40 +1,40 @@
-[FINDLINESTART]Room_Attr: SU_B12
-[ADDAFTER]BombadierVulture-Like,
-[FINDLINESTART]Room_Attr: SU_B07
-[ADDAFTER]BombadierVulture-Like,
-[FINDLINESTART]Room_Attr: SU_A53
+[FINDLINESTART]Room_Attr: SU_A04
 [ADDAFTER]BombadierVulture-Avoid,
 [FINDLINESTART]Room_Attr: SU_A06
 [ADDAFTER]BombadierVulture-Avoid,
-[FINDLINESTART]Room_Attr: SU_B08
-[ADDAFTER]BombadierVulture-Stay,
-[FINDLINESTART]Room_Attr: SU_A20
-[ADDAFTER]BombadierVulture-Avoid,
-[FINDLINESTART]Room_Attr: SU_C02
-[ADDAFTER]BombadierVulture-Like,
-[FINDLINESTART]Room_Attr: SU_B11
+[FINDLINESTART]Room_Attr: SU_A07
+[ADDAFTER]ScavengerSentinel-Avoid,
+[FINDLINESTART]Room_Attr: SU_A10
 [ADDAFTER]BombadierVulture-Avoid,
 [FINDLINESTART]Room_Attr: SU_A13
 [ADDAFTER]BombadierVulture-Avoid,
-[FINDLINESTART]Room_Attr: SU_B02
+[FINDLINESTART]Room_Attr: SU_A20
 [ADDAFTER]BombadierVulture-Avoid,
-[FINDLINESTART]Room_Attr: SU_A10
+[FINDLINESTART]Room_Attr: SU_A45
+[ADDAFTER]ScavengerSentinel-Avoid,
+[FINDLINESTART]Room_Attr: SU_A53
 [ADDAFTER]BombadierVulture-Avoid,
 [FINDLINESTART]Room_Attr: SU_B01
 [ADDAFTER]BombadierVulture-Avoid,
-[FINDLINESTART]Room_Attr: SU_A04
+[FINDLINESTART]Room_Attr: SU_B02
+[ADDAFTER]BombadierVulture-Avoid,
+[FINDLINESTART]Room_Attr: SU_B07
+[ADDAFTER]BombadierVulture-Like,
+[FINDLINESTART]Room_Attr: SU_B08
+[ADDAFTER]BombadierVulture-Stay,
+[FINDLINESTART]Room_Attr: SU_B11
+[ADDAFTER]BombadierVulture-Avoid,
+[FINDLINESTART]Room_Attr: SU_B12
+[ADDAFTER]BombadierVulture-Like,
+[FINDLINESTART]Room_Attr: SU_B14
 [ADDAFTER]BombadierVulture-Avoid,
 [FINDLINESTART]Room_Attr: SU_C01
 [ADDAFTER]BombadierVulture-Avoid,
-[FINDLINESTART]Room_Attr: SU_B14
-[ADDAFTER]BombadierVulture-Avoid,
+[FINDLINESTART]Room_Attr: SU_C02
+[ADDAFTER]BombadierVulture-Like,
 
-[FINDLINESTART]Room_Attr: SU_A45
-[ADDAFTER]ScavengerSentinel-Avoid,
 [FINDLINESTART]Room_Attr: SU_C02
 [ADDAFTER]ScavengerSentinel-Stay,
-[FINDLINESTART]Room_Attr: SU_A07
-[ADDAFTER]ScavengerSentinel-Avoid,
 
 [FINDLINESTART]Room_Attr: SU_A63
 [ADDAFTER]SilverLizard-Avoid,

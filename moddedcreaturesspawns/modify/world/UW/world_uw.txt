@@ -30,7 +30,6 @@ CREATURES
 
 
 (Red,Gourmand,White,Yellow)UW_C01 : 2-Tube-2, 4-Daddy, 5-TubeWorm-{Bigrub}
-(Gourmand,White,Yellow)UW_C01 : 2-Tube-2, 4-Daddy, 6-TubeWorm-{Bigrub}
 
 (Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)UW_C06 : 2-Tube, 3-Tube, 4-Tube, 6-Tube, 2-ExplodingMosquito, 3-ExplodingMosquito, 4-ExplodingMosquito
 

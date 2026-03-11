@@ -12,32 +12,35 @@
 [FINDLINESTART]Room_Attr: LC_templetoll
 [ADDAFTER]ScavengerSentinel-Stay,
 
-[FINDLINESTART]Room_Attr: LC_entrancezone
-[ADDAFTER]BombadierVulture-Avoid,FatFireFly-Like,
+[FINDLINESTART]Room_Attr: LC_A02
+[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Avoid,
+
+[FINDLINESTART]Room_Attr: LC_C08
+[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Like,
 [FINDLINESTART]Room_Attr: LC_C10
 [ADDAFTER]BombadierVulture-Like,FatFireFly-Stay,
+[FINDLINESTART]Room_Attr: LC_crash
+[ADDAFTER]BombadierVulture-Avoid,FatFireFly-Like,
+[FINDLINESTART]Room_Attr: LC_dome
+[ADDAFTER]BombadierVulture-Like,FatFireFly-Avoid,
+[FINDLINESTART]Room_Attr: LC_entrancezone
+[ADDAFTER]BombadierVulture-Avoid,FatFireFly-Like,
 [FINDLINESTART]Room_Attr: LC_rooftophop
 [ADDAFTER]BombadierVulture-Stay,FatFireFly-Stay,
 [FINDLINESTART]Room_Attr: LC_THECLIMB
 [ADDAFTER]BombadierVulture-Avoid,FatFireFly-Avoid,
-[FINDLINESTART]Room_Attr: LC_crash
-[ADDAFTER]BombadierVulture-Avoid,FatFireFly-Like,
-[FINDLINESTART]Room_Attr: LC_A02
-[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Avoid,
-[FINDLINESTART]Room_Attr: LC_C08
-[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Like,
-[FINDLINESTART]Room_Attr: LC_dome
-[ADDAFTER]BombadierVulture-Like,FatFireFly-Avoid,
 
 [FINDLINESTART]Room_Attr: LC_capbase
 [ADDAFTER]BombadierVulture-Forbidden,
-[FINDLINESTART]Room_Attr: LC_highestpoint
-[ADDAFTER]BombadierVulture-Forbidden,
-[FINDLINESTART]Room_Attr: LC_gatehouse03
-[ADDAFTER]BombadierVulture-Like,
 [FINDLINESTART]Room_Attr: LC_downwards
 [ADDAFTER]BombadierVulture-Stay,
-[FINDLINESTART]Room_Attr: LC_stripmallNEW
+[FINDLINESTART]Room_Attr: LC_floorpipes
+[ADDAFTER]BombadierVulture-Like,
+[FINDLINESTART]Room_Attr: LC_gatehouse03
+[ADDAFTER]BombadierVulture-Like,
+[FINDLINESTART]Room_Attr: LC_highestpoint
+[ADDAFTER]BombadierVulture-Forbidden,
+[FINDLINESTART]Room_Attr: LC_longslum
 [ADDAFTER]BombadierVulture-Like,
 [FINDLINESTART]Room_Attr: LC_mallentrance
 [ADDAFTER]BombadierVulture-Avoid,
@@ -45,28 +48,26 @@
 [ADDAFTER]BombadierVulture-Avoid,
 [FINDLINESTART]Room_Attr: LC_scavtreasury
 [ADDAFTER]BombadierVulture-Avoid,
-[FINDLINESTART]Room_Attr: LC_longslum
-[ADDAFTER]BombadierVulture-Like,
-[FINDLINESTART]Room_Attr: LC_floorpipes
+[FINDLINESTART]Room_Attr: LC_stripmallNEW
 [ADDAFTER]BombadierVulture-Like,
 
+[FINDLINESTART]Room_Attr: LC_02A
+[ADDAFTER]FatFireFly-Like,
 [FINDLINESTART]Room_Attr: LC_C07
+[ADDAFTER]FatFireFly-Like,
+[FINDLINESTART]Room_Attr: LC_dome
+[ADDAFTER]FatFireFly-Avoid,
+[FINDLINESTART]Room_Attr: LC_eastdome
+[ADDAFTER]FatFireFly-Avoid,
+[FINDLINESTART]Room_Attr: LC_longori
+[ADDAFTER]FatFireFly-Stay,
+[FINDLINESTART]Room_Attr: LC_SUBWAY01
 [ADDAFTER]FatFireFly-Like,
 [FINDLINESTART]Room_Attr: LC_tallestconnection
 [ADDAFTER]FatFireFly-Like,
 [FINDLINESTART]Room_Attr: LC_towerCLIMB
 [ADDAFTER]FatFireFly-Like,
-[FINDLINESTART]Room_Attr: LC_longori
-[ADDAFTER]FatFireFly-Stay,
-[FINDLINESTART]Room_Attr: LC_02A
-[ADDAFTER]FatFireFly-Like,
-[FINDLINESTART]Room_Attr: LC_SUBWAY01
-[ADDAFTER]FatFireFly-Like,
 [FINDLINESTART]Room_Attr: LC_templetoll
 [ADDAFTER]FatFireFly-Avoid,
 [FINDLINESTART]Room_Attr: LC_westdome
-[ADDAFTER]FatFireFly-Avoid,
-[FINDLINESTART]Room_Attr: LC_dome
-[ADDAFTER]FatFireFly-Avoid,
-[FINDLINESTART]Room_Attr: LC_eastdome
 [ADDAFTER]FatFireFly-Avoid,

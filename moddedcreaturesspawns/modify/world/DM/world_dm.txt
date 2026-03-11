@@ -7,11 +7,11 @@ CREATURES
 
 
 
-(Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.4, NONE-0.3, NONE-0.2, KingMiros-0
+LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.4, NONE-0.3, KingMiros-0
 
 
 
-(Spear)DM_U03 : 2-GregTechLizard-{IgnoreCycle}
+DM_U03 : 2-GregTechLizard-{Mean:0.6,IgnoreCycle}
 
 
 

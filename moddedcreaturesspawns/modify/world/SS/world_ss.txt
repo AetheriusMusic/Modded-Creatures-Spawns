@@ -1,3 +1,6 @@
+[FINDLINESTART]SS_C03 : 3-Inspector-{Ignorecycle}
+[ADDAFTER], 4-GregTechLizard-{IgnoreCycle}
+
 [MERGE]
 
 CREATURES
@@ -7,8 +10,6 @@ CREATURES
 (Yellow,White,Red,Gourmand,Artificer,Spear)SS_A09 : 4-ExplodingMosquito, 5-ExplodingMosquito, 6-ExplodingMosquito-{Night}
 
 (Yellow,White,Red,Gourmand,Artificer,Spear)SS_A19 : 2-ExplodingMosquito, 3-ExplodingMosquito-{Night}, 4-ExplodingMosquito-{Night}
-
-(Yellow,White,Red,Gourmand,Artificer,Spear)SS_C03 : 3-Inspector-{Ignorecycle}, 4-GregTechLizard-{IgnoreCycle}
 
 (Yellow,White)SS_D05 : 3-SisterLongLegs-{Ignorecycle}
 

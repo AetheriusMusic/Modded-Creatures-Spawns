@@ -16,10 +16,10 @@
 [ADDAFTER]Joust-Avoid,KingMiros-Forbidden,
 [FINDLINESTART]Room_Attr: SH_E03
 [ADDAFTER]Joust-Avoid,KingMiros-Forbidden,
-[FINDLINESTART]Room_Attr: SH_E05
-[ADDAFTER]Joust-Like,KingMiros-Stay,
 [FINDLINESTART]Room_Attr: SH_E04
 [ADDAFTER]Joust-Avoid,KingMiros-Avoid,
+[FINDLINESTART]Room_Attr: SH_E05
+[ADDAFTER]Joust-Like,KingMiros-Stay,
 [FINDLINESTART]Room_Attr: SH_H01
 [ADDAFTER]Joust-Avoid,KingMiros-Like,
 [FINDLINESTART]Room_Attr: SH_OVERHEAD

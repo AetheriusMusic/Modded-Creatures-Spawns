@@ -2,10 +2,10 @@
 [REPLACE]LINEAGE : UG_B03 : 5
 
 [FINDLINESTART]OFFSCREEN
-[ADDAFTER], 0-ScavengerSentinel-2-{Night}
+[ADDAFTER], 0-ScavengerSentinel-{Night}-2
 
 [FINDLINESTART]UG_B07 : 3-Small Centipede-6, 4-Small Centipede-4, 4-Red Centipede
-[ADDAFTER], 7-WaterBlob-{IgnoreCycle}-2, 8-WaterBlob-{IgnoreCycle}-1
+[ADDAFTER], 7-WaterBlob-{IgnoreCycle}-2, 8-WaterBlob-{IgnoreCycle}
 
 [MERGE]
 
@@ -13,18 +13,18 @@ CREATURES
 
 
 
-(Saint)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
-(Saint)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
+LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
+LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
 
 
 
-(Saint)UG_A06 : 4-JungleLeech-10-{Ignorecycle}, 2-ChipChop-1, 3-ChipChop-2
+UG_A06 : 4-JungleLeech-{Ignorecycle}-10, 2-ChipChop, 3-ChipChop-2
 
-(Saint)UG_A09 : 2-ChipChop-2, 3-ChipChop-2
+UG_A09 : 2-ChipChop-2, 3-ChipChop-2
 
-(Saint)UG_B03 : 4-ChipChop-2
+UG_B03 : 4-ChipChop-2
 
-(Saint)UG_RIVSTART : 3-WaterBlob-{IgnoreCycle}-1, 4-WaterBlob-{IgnoreCycle}-1, 5-WaterBlob-{IgnoreCycle}-2, 6-WaterBlob-{IgnoreCycle}-2
+UG_RIVSTART : 3-WaterBlob-{IgnoreCycle}, 4-WaterBlob-{IgnoreCycle}, 5-WaterBlob-{IgnoreCycle}-2, 6-WaterBlob-{IgnoreCycle}-2
 
 
 

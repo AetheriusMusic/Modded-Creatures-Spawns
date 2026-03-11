@@ -1,7 +1,7 @@
 [FINDLINESTART]OFFSCREEN
-[ADDAFTER], 0-FatFireFly-{Night}-{AlternateForm}-1, 0-ScavengerSentinel-2-{Night}, 
+[ADDAFTER], 0-FatFireFly-{AlternateForm,Night}-1, 0-ScavengerSentinel-{Night}-2
 [FINDLINESTART](Artificer)OFFSCREEN
-[ADDAFTER], 0-FatFireFly-{Night}-{AlternateForm}-1, 0-ScavengerSentinel-2-{IgnoreCycle}, 0-ScavengerSentinel-5-{Night}
+[ADDAFTER], 0-FatFireFly-{AlternateForm,Night}-2, 0-ScavengerSentinel-{Night}-4
 
 [MERGE]
 
@@ -9,16 +9,18 @@ CREATURES
 
 
 
-(Yellow,White,Artificer)LINEAGE : OFFSCREEN : 0 : Bombadier-0.8, Bombadier-0.6, FatFireFly-0.8, FatFireFly-1, Bombadier-0
-(Artificer)LINEAGE : OFFSCREEN : 0 : Bombadier-0.8, Bombadier-0.6, FatFireFly-0.8, FatFireFly-0
+LINEAGE : OFFSCREEN : 0 : Bombadier-1, Bombadier-0.6, FatFireFly-0.8, FatFireFly-1, Bombadier-0
+(Artificer)LINEAGE : OFFSCREEN : 0 : Bombadier-1, Bombadier-0.6, FatFireFly-0.8, FatFireFly-1, Bombadier-0
 
-(Yellow,White,Artificer)LINEAGE : OFFSCREEN : 0 : FatFireFly-0
-(Artificer)LINEAGE : OFFSCREEN : 0 : FatFireFly-0
+LINEAGE : OFFSCREEN : 0 : FatFireFly-0
+(Artificer)LINEAGE : OFFSCREEN : 0 : FatFireFly-0.9, FatFireFly-0.3, Bombadier-0
 
-(Yellow,White,Artificer)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
-(Yellow,White,Artificer)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
-(Yellow,White,Artificer)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
-(Yellow,White,Artificer)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
+LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
+LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
+LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
+LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
+LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
+(Artificer)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
 (Artificer)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
 (Artificer)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
 

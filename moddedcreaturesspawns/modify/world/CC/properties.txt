@@ -16,6 +16,8 @@
 [ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,
 [FINDLINESTART]Room_Attr: CC_CLOG
 [ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,
+[FINDLINESTART]Room_Attr: CC_OUTPUT
+[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,
 [FINDLINESTART]Room_Attr: CC_SHAFT02
 [ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,
 [FINDLINESTART]Room_Attr: CC_STRAINER01
@@ -23,8 +25,6 @@
 [FINDLINESTART]Room_Attr: CC_STRAINER02
 [ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,
 [FINDLINESTART]Room_Attr: CC_STRAINER03
-[ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,
-[FINDLINESTART]Room_Attr: CC_OUTPUT
 [ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,
 [FINDLINESTART]Room_Attr: CC_SUMP01
 [ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Forbidden,

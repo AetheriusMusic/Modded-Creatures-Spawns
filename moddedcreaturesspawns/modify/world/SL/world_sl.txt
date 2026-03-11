@@ -25,8 +25,7 @@ CREATURES
 
 (Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : SL_C02 : 8 : WaterSpitter-0.2, CommonEel-0.6, WaterSpitter-0
 
-(White,Red,Gourmand,Artificer,Spear)LINEAGE : SL_C03 : 7 : WaterSpitter-0
-(Yellow,Rivulet)LINEAGE : SL_C03 : 7 : NONE-0.2, WaterSpitter-0
+(White,Red,Gourmand,Artificer,Spear,Yellow,Rivulet)LINEAGE : SL_C03 : 7 : WaterSpitter-0
 
 (Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : SL_D01 : 9 : CommonEel-0
 

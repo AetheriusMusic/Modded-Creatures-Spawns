@@ -22,7 +22,7 @@ CREATURES
 
 
 
-(Yellow,White,Red,Gourmand,Rivulet)MS_AI : 6-MiniScutigera-2, 7-MiniScutigera-1
+(Yellow,White,Red,Gourmand,Rivulet)MS_AI : 6-MiniScutigera-2, 7-MiniScutigera
 (Yellow,White,Red,Gourmand,Rivulet)LINEAGE : MS_AI : 3 : Scutigera-0
 (Yellow,White,Red,Gourmand,Rivulet)LINEAGE : MS_AI : 5 : Scutigera-0
 (Saint)LINEAGE : MS_AI : 3 : NONE-0.05, Scutigera-0
@@ -30,17 +30,17 @@ CREATURES
 (Saint)LINEAGE : MS_AI : 6 : NONE-0.05, MiniScutigera-0
 (Saint)LINEAGE : MS_AI : 7 : NONE-0.05, MiniScutigera-0
 
-(Yellow,White,Red,Gourmand,Rivulet)MS_MEMTUBE : 3-MiniScutigera-1, 4-MiniScutigera-1
+(Yellow,White,Red,Gourmand,Rivulet)MS_MEMTUBE : 3-MiniScutigera, 4-MiniScutigera
 (Saint)LINEAGE : MS_MEMTUBE : 3 : NONE-0.05, MiniScutigera-0
 (Saint)LINEAGE : MS_MEMTUBE : 4 : NONE-0.05, MiniScutigera-0
 
-(Yellow,White,Red,Gourmand,Rivulet,Saint)MS_MEM06 : 2-MiniScutigera-1, 3-MiniScutigera-1, 4-MiniScutigera-1, 6-MiniScutigera-1
+(Yellow,White,Red,Gourmand,Rivulet,Saint)MS_MEM06 : 2-MiniScutigera, 3-MiniScutigera, 4-MiniScutigera, 6-MiniScutigera
 (Yellow,White,Red,Gourmand,Rivulet,Saint)LINEAGE : MS_MEM06 : 13 : Scutigera-0
 (Yellow,White,Red,Gourmand,Rivulet,Saint)LINEAGE : MS_MEM06 : 14 : Scutigera-0
 
 (Yellow,White,Red,Gourmand,Rivulet)MS_LAB14 : 5-MiniScutigera-2, 6-MiniScutigera-2
 
-//Bitter Aerie
+// Bitter Aerie
 
 (Saint)LINEAGE : MS_bitterentrance : 7 : SilverLizard-0
 
