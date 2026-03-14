@@ -1,9 +1,9 @@
-[FINDLINESTART]Room_Attr: SH_A10
-[ADDAFTER]Joust-Like,
 [FINDLINESTART]Room_Attr: SH_A05
 [ADDAFTER]Joust-Like,Killerpillar-Avoid,Glowpillar-Avoid,
 [FINDLINESTART]Room_Attr: SH_A06
 [ADDAFTER]Joust-Avoid,
+[FINDLINESTART]Room_Attr: SH_A10
+[ADDAFTER]Joust-Like,
 [FINDLINESTART]Room_Attr: SH_A14
 [ADDAFTER]Joust-Like,
 [FINDLINESTART]Room_Attr: SH_B02

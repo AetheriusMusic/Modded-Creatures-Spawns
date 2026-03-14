@@ -3,39 +3,29 @@
 [FINDLINESTART](Saint)OFFSCREEN
 [ADDAFTER], 0-KingMiros-{Night}
 
-[FINDLINESTART](X-Inv,Yellow,Rivulet,Saint)CC_B01
-[ADDAFTER], 5-Hoverfly-2, 6-Hoverfly, 7-Hoverfly
-[FINDLINESTART](Yellow)CC_B01
-[ADDAFTER], 5-Hoverfly-2, 6-Hoverfly, 7-Hoverfly
-[FINDLINESTART](Rivulet)CC_B01
-[ADDAFTER], 5-Hoverfly, 6-Hoverfly, 7-Hoverfly
-[FINDLINESTART](Saint)CC_B01
-[ADDAFTER], 5-Hoverfly, 6-Hoverfly, 7-Hoverfly
-
-[FINDLINESTART](X-Rivulet,Red,Artificer,Spear,Saint,Inv)CC_B14
-[ADDAFTER], 6-Hoverfly, 7-Hoverfly, 8-Hoverfly
-[FINDLINESTART](Spear)CC_B14
-[ADDAFTER], 5-Hoverfly, 6-Hoverfly, 7-Hoverfly, 8-Hoverfly
-[FINDLINESTART](Artificer)CC_B14
-[ADDAFTER], 5-Hoverfly, 6-Hoverfly, 7-Hoverfly, 8-Hoverfly
-[FINDLINESTART](Red)CC_B14
-[ADDAFTER], 5-Hoverfly, 6-Hoverfly, 7-Hoverfly, 8-Hoverfly
-[FINDLINESTART](Rivulet)CC_B14
-[ADDAFTER], 7-Hoverfly, 8-Hoverfly
-
-[FINDLINESTART](Spear)CC_C04
-[ADDAFTER], 2-Hoverfly-2, 3-Hoverfly, 4-Hoverfly-2, 5-Hoverfly, 6-Hoverfly
-[FINDLINESTART](Artificer)CC_C04
-[ADDAFTER], 3-Hoverfly, 4-Hoverfly-2, 5-Hoverfly, 6-Hoverfly
-[FINDLINESTART](Red)CC_C04
-[ADDAFTER], 5-Hoverfly, 6-Hoverfly, 7-Hoverfly
-[FINDLINESTART](Rivulet)CC_C04
-[ADDAFTER], 7-Hoverfly
+[FINDLINESTART](X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)CC_B04
+[REPLACE](X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)CC_B04 : 4-White, 4-Snail-{PreCycle}-2, 3-Hoverfly-2
+[FINDLINESTART](Spear)CC_B04
+[REPLACE](Spear)CC_B04 : 4-White, 5-BigNeedleWorm, 5-SmallNeedleWorm-2, 4-Snail-{PreCycle}-2, 3-Hoverfly-3
+[FINDLINESTART](Artificer)CC_B04
+[REPLACE](Artificer)CC_B04 : 4-White, 5-BigNeedleWorm, 5-SmallNeedleWorm-2, 4-Snail-{PreCycle}-2, 3-Hoverfly-3
+[FINDLINESTART](Red)CC_B04
+[REPLACE](Red)CC_B04 : 4-White, 5-BigNeedleWorm, 5-SmallNeedleWorm-2, 4-Snail-{PreCycle}-2, 3-Hoverfly-3
+[FINDLINESTART](Yellow)CC_B04
+[REPLACE](Yellow)CC_B04 : 4-Blue, 4-Snail-{PreCycle}-2, 3-Hoverfly-2
+[FINDLINESTART](Rivulet)CC_B04
+[REPLACE](Rivulet)CC_B04 : 4-Blue, 4-Centiwing, 5-Centiwing, 4-Snail-{PreCycle}-2, 3-Hoverfly
+[FINDLINESTART](Saint)CC_B04
+[REPLACE](Saint)CC_B04 : 4-Centiwing, 5-Centiwing, 4-Snail-{PreCycle}-2
+[FINDLINESTART](Inv)CC_B04
+[REPLACE](Inv)CC_B04 : 4-Red, 5-BigNeedleWorm, 5-SmallNeedleWorm-2, 4-Snail-{PreCycle}-2
 
 [FINDLINESTART]CC_C05 : 3-Snail-{PreCycle}-2
 [REPLACE]CC_C05 : 4-Snail-{PreCycle}-2
 [FIND]LINEAGE : CC_C05 : 3
 [REPLACE]LINEAGE : CC_C05 : 4
+[FIND]LINEAGE : CC_C05 : 4 : Hoverfly
+[REPLACE]LINEAGE : CC_C05 : 3 : Hoverfly
 
 [MERGE]
 
@@ -43,34 +33,40 @@ CREATURES
 
 
 
-(White,Red,Gourmand,Rivulet)LINEAGE : OFFSCREEN : 0 : NONE-0.1, NONE-0.1, Bombadier-0
-(Artificer,Spear,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : Bombadier-0
-(Artificer,Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.2, NONE-0.2, Bombadier-0
+(Red,Gourmand,White,Yellow,Rivulet)LINEAGE : OFFSCREEN : 0 : NONE-0.1, NONE-0.1, Bombadier-0
+(Spear,Artificer,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : Bombadier-0
+(Spear,Artificer)LINEAGE : OFFSCREEN : 0 : NONE-0.2, NONE-0.2, Bombadier-0
 
-(Yellow,White,Red,Gourmand,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : FatFireFly-0
-(Yellow)LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.5, NONE-0.2, FatFireFly-0
+(Spear,Artificer,Red,Gourmand,White,Yellow)LINEAGE : OFFSCREEN : 0 : FatFireFly-0
+(Spear,Artificer)LINEAGE : OFFSCREEN : 0 : FatFireFly-0
+(Spear,Artificer)LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.5, FatFireFly-0
 (White)LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.5, FatFireFly-0
-(Artificer,Spear)LINEAGE : OFFSCREEN : 0 : FatFireFly-0
-(Artificer,Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.5, FatFireFly-0
+(Yellow)LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.5, NONE-0.2, FatFireFly-0
 
 
 
-(Yellow)CC_B04 : 4-Blue, 4-Snail-{PreCycle}-2, 3-Hoverfly-2
-(Rivulet)CC_B04 : 4-Blue, 4-Centiwing, 5-Centiwing, 4-Snail-{PreCycle}-2, 3-Hoverfly
-(Red,Artificer,Spear)CC_B04 : 4-White, 5-BigNeedleWorm, 5-SmallNeedleWorm-2, 4-Snail-2-{PreCycle}, 3-Hoverfly-3
-(Saint)CC_B04 : 4-Centiwing, 5-Centiwing, 4-Snail-2-{PreCycle}
-(Inv)CC_B04 : 4-Red, 5-BigNeedleWorm, 5-SmallNeedleWorm-2, 4-Snail-2-{PreCycle}
+(Spear,Artificer,Red,Gourmand,White,Yellow)LINEAGE : CC_B01 : 5 : Hoverfly-0
+(Red,Gourmand,White,Yellow)LINEAGE : CC_B01 : 6 : Hoverfly-0
+(Red,Gourmand)LINEAGE : CC_B01 : 7 : Hoverfly-0
 
-(Artificer,Spear)CC_B12 : 2-Hoverfly-2, 3-Hoverfly, 4-Hoverfly, 5-Hoverfly-2, 6-Hoverfly
-(Red,Gourmand)CC_B12 : 2-Hoverfly-2, 3-Hoverfly, 4-Hoverfly, 5-Hoverfly, 6-Hoverfly
-(Yellow,White)CC_B12 : 2-Hoverfly, 3-Hoverfly, 4-Hoverfly, 5-Hoverfly, 6-Hoverfly
+(Spear,Artificer)CC_B12 : 2-Hoverfly-2, 3-Hoverfly, 4-Hoverfly, 5-Hoverfly, 6-Hoverfly
+(Red,Gourmand)CC_B12 : 2-Hoverfly-2, 3-Hoverfly, 5-Hoverfly, 6-Hoverfly
+(Yellow,White)CC_B12 : 2-Hoverfly, 4-Hoverfly, 5-Hoverfly, 6-Hoverfly
 (Rivulet)CC_B12 : 3-Hoverfly, 5-Hoverfly, 6-Hoverfly
 
-(Yellow,White)CC_C04 : 6-Hoverfly, 7-Hoverfly
+(Spear,Artificer,Red,Gourmand)LINEAGE : CC_B14 : 5 : Hoverfly-0
+(Spear,Artificer,Red,Gourmand)LINEAGE : CC_B14 : 6 : Hoverfly-0
+(Spear,Artificer,Red,Gourmand,White)LINEAGE : CC_B14 : 7 : Hoverfly-0
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet)LINEAGE : CC_B14 : 8 : Hoverfly-0
 
-(Red,Artificer,Spear)CC_C05 : 3-Hoverfly, 5-Hoverfly, 6-Hoverfly
-(Yellow,White,Gourmand)CC_C05 : 3-Hoverfly, 5-Hoverfly
-(Rivulet)CC_C05 : 6-Hoverfly
+(Spear,Artificer,Red)LINEAGE : CC_C04 : 5 : Hoverfly-0
+(Spear,Artificer,Red,Gourmand,White)LINEAGE : CC_C04 : 5 : Hoverfly-0
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet)LINEAGE : CC_C04 : 6 : Hoverfly-0
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet,Saint)LINEAGE : CC_C04 : 7 : Hoverfly-0
+
+(Spear,Artificer,Red,Gourmand,White,Yellow)LINEAGE : CC_C05 : 3 : Hoverfly-0
+(Spear,Artificer,Red,Gourmand,White,Yellow)LINEAGE : CC_C05 : 5 : Hoverfly-0
+(Spear,Artificer,Red,Rivulet)LINEAGE : CC_C05 : 6 : Hoverfly-0
 
 
 

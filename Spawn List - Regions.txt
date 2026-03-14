@@ -1,0 +1,335 @@
+[h1]Custom Creatures[/h1]
+[h3]Most of the spawns are guaranteed, but some of them (especially those for big aerial threats) only have a chance to spawn via lineage, depending on the slugcat, or only spawn at night.[/h3]
+
+[b]Outskirts[/b]
+[list]
+[*]Bombardier Vulture (As [b]Hunter[/b])
+[*]Scavenger Sentinel
+[*]Silver Lizard ([u]Not[/u] as [b]Spearmaster[/b] or [b]Artificer[/b])
+[*]MamaBug ([u]Not[/u] as [b]Rivulet[/b]) 
+[*]SurfaceSwimmer
+[/list]
+
+[b]Industrial Complex[/b]
+[list]
+[*]Fire Vulture ([u]Not[/u] as [b]Rivulet[/b])
+[*]Hunter Seeker Lizard
+[*]Thorn Bug
+[*]Tinted Beetle
+[/list]
+
+[b]Garbage Wastes | Pre-Collapse[/b]
+[list]
+[*]Bombardier Vulture
+[*][strike]Joust[/strike] [i](Jousts will spawn if you have the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3452675272]mod[/url] enabled, but since they are broken I recommend not using it)
+[*]Scavenger Sentinel
+[*]Mosquito
+[*]Angry Mosquito
+[/list]
+
+[b]Garbage Wastes | Post-Collapse[/b]
+[list]
+[*]Bombardier Vulture ([u]Not[/u] as [b]Rivulet[/b])
+[*]Fire Vulture
+[*][strike]Joust[/strike] [i](Jousts will spawn if you have the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3452675272]mod[/url] enabled, but since they are broken I recommend not using it)
+[*]Scavenger Sentinel
+[*]Mosquito
+[*]Angry Mosquito
+[*]Sister Long Legs ([u]Not[/u] as [b]Rivulet[/b])
+[/list]
+
+[b]Drainage System[/b]
+[list]
+[*]Chip Chop
+[*]Water Blob
+[*]Mini Black Leech
+[/list]
+
+[b]Shaded Citadel[/b]
+[list]
+[*]King Miros Vulture (As [b]Artificer[/b] & [b]Spearmaster[/b])
+[*]Mole Salamander
+[*]Killerpillar
+[*]Glowpillar
+[/list]
+
+[b]Shoreline[/b]
+[list]
+[*]Diving Beetle
+[*]Mini Leviathan
+[*]Common Eel
+[*]Water Spitter
+[/list]
+
+[b]The Exterior | The Leg & Underhang[/b]
+[list]
+[*]King Miros Vulture (As [b]Artificer[/b] & [b]Spearmaster[/b])
+[*]Exploding Mosquito
+[*]Bigrub ([u]Not[/u] as [b]Spearmaster[/b], [b]Artificer[/b] or [b]Hunter[/b])
+[*]Mimic Starfish ([u]Not[/u] as [b]Spearmaster[/b] or [b]Artificer[/b])
+[/list]
+
+[b]The Exterior | The Wall[/b]
+[list]
+[*]Exploding Mosquito
+[*]Hunter Seeker Lizard
+[*]Alpha Orange Lizard ([u]Not[/u] as [b]Spearmaster[/b] or [b]Artificer[/b])
+[*]Hoverfly
+[/list]
+
+[b]Five Pebbles[/b]
+[list]
+[*]Exploding Mosquito
+[*]Electric Lizard
+[*]Sister Long Legs ([u]Not[/u] as [b]Spearmaster[/b] or [b]Artificer[/b])
+[*]Mimic Starfish ([u]Not[/u] as [b]Spearmaster[/b] or [b]Artificer[/b])
+[/list]
+
+[b]Pipeyard[/b]
+[list]
+[*]Fire Vulture ([u]Not[/u] as [b]Spearmaster[/b] or [b]Artificer[/b])
+[*]Gecko Lizard ([u]Not[/u] as [b]Spearmaster[/b] or [b]Artificer[/b])
+[*]Bouncing Ball
+[*]Water Spitter
+[*]Mole Salamander (in a lineage)
+[*]Xylo
+[*]Xylo Grub
+[/list]
+
+[b]Pipeyard | Sump Tunnel[/b]
+[list]
+[*]Mole Salamander
+[/list]
+
+[b]Chimney Canopy[/b]
+[list]
+[*]Bombardier Vulture
+[*]Fire Vulture
+[*]Hoverfly
+[/list]
+
+[b]Chimney Canopy | The Gutter[/b]
+[list]
+[*]Hazer Mom
+[/list]
+
+[b]Sky Islands[/b]
+[list]
+[*]Bombardier Vulture ([u]Not[/u] as [b]Rivulet[/b])
+[*]Fire Vulture ([u]Not[/u] as [b]Rivulet[/b])
+[*]Red Horror Centipede
+[*]Hunter Seeker Lizard
+[*]Thorn Bug
+[*]Tinted Beetle
+[/list]
+
+[b]Farm Arrays[/b]
+[list]
+[*]Bombardier Vulture ([u]Not[/u] as [b]Spearmaster[/b], [b]Artificer[/b] or [b]Hunter[/b])
+[*]Fire Vulture (As [b]Artificer[/b] & [b]Spearmaster[/b])
+[*]Scavenger Sentinel
+[*]Mosquito
+[*]Angry Mosquito
+[*]Denture
+[*]Surface Swimmer
+[/list]
+
+[b]Subterranean[/b]
+[list]
+[*]Surface Swimmer
+[/list]
+
+[b]Subterranean | Filtration System[/b]
+[list]
+[*]Xylo
+[*]Xylo Grub
+[/list]
+
+[b]Outer Expanse[/b]
+[list]
+[*]Fire Vulture
+[*]Scavenger Sentinel
+[*]Hunter Seeker Lizard (Lineage)
+[*]Hoverfly
+[*]Thorn Bug
+[*]Tinted Beetle
+[*]Mama Bug
+[*]Surface Swimmer
+[*]Noodle Eater
+[*]Chip Chop
+[*]Common Eel
+[/list]
+
+[b]Outer Expanse | Sunken Pier[/b]
+[list]
+[*]Fire Vulture
+[*]Scavenger Sentinel
+[*]Denture
+[/list]
+
+[b]Submerged Superstructure[/b]
+[list]
+[*]Mini Leviathan
+[*]Scutigera
+[*]Mini Scutigera
+[/list]
+
+[b]Submerged Superstructure | Bitter Aerie[/b]
+[list]
+[*]King Miros Vulture
+[*]Silver Lizard
+[/list]
+
+[b]Waterfront Facility | The Precipice[/b]
+[list]
+[*]King Miros Vulture
+[*]Exploding Mosquito
+[/list]
+
+[b]Metropolis[/b]
+[list]
+[*]Bombardier Vulture
+[*]Fire Vulture
+[*]Scavenger Sentinel
+[/list]
+
+[b]Looks to the Moon[/b]
+[list]
+[*]King Miros Vulture
+[*]Electric Lizard
+[/list]
+
+[b]The Rot[/b]
+[list]
+[*]Electric Lizard
+[*]Sister Long Legs
+[*]Mimic Starfish
+[/list]
+
+[b]Suburban Drifts[/b]
+[list]
+[*]King Miros Vulture
+[*]Scavenger Sentinel
+[*]Silver Lizard
+[/list]
+
+[b]Icy Monument[/b]
+[list]
+[*]King Miros Vulture
+[*]Hunter Seeker Lizard
+[/list]
+
+[b]Glacial Wasteland[/b]
+[list]
+[*]King Miros Vulture
+[*]Scavenger Sentinel
+[/list]
+
+[b]Frigid Coast[/b]
+[list]
+[*]King Miros Vulture
+[*]Common Eel
+[*]Water Spitter
+[/list]
+
+[b]Barren Conduits[/b]
+[list]
+[*]King Miros Vulture
+[*]Gecko Lizard
+[*]Bouncing Ball
+[*]Water Spitter
+[*]Mole Salamander (in a lineage)
+[*]Xylo
+[*]Xylo Grub
+[/list]
+
+[b]Solitary Towers[/b]
+[list]
+[*]King Miros Vulture
+[*]Hoverfly
+[/list]
+
+[b]Solitary Towers | Forgotten Conduit[/b]
+[list]
+[*]Hazer Mom
+[/list]
+
+[b]Windswept Spires[/b]
+[list]
+[*]King Miros Vulture
+[*]Hunter Seeker Lizard
+[*]Red Horror Centipede
+[/list]
+
+[b]Desolate Fields[/b]
+[list]
+[*]Scavenger Sentinel
+[/list]
+
+[b]Primordial Underground[/b]
+[list]
+[*]Blizzor Bird
+[/list]
+
+[b]Primordial Underground | Ancient Labyrinth[/b]
+[list]
+[*]Xylo
+[*]Xylo Grub
+[/list]
+
+[b]Undergrowth[/b]
+[list]
+[*]Scavenger Sentinel
+[*]Chip Chop
+[*]Water Blob
+[/list]
+
+[b]Silent Construct[/b]
+[list]
+[*]King Miros Vulture
+[*]Blizzor Bird
+[*]Scavenger Sentinel
+[*][spoiler][b]Rivulet[/b] Long Legs[/spoiler]
+[/list]
+
+[b]Rubicon[/b]
+[list]
+[*]King Miros Vulture
+[*]Echo Leviathan
+[*]Mini Echo Leviathan
+[*]Reaper Lizard
+[/list]
+
+[h1]Vanilla Creatures[/h1]
+
+[b]Outskirts[/b]
+[list]
+[*][*]Eggbug (in some lineages, [u]except[/u] as [b]Rivulet[/b])
+[/list]
+
+[b]Shoreline[/b]
+[list]
+[*]Leviathan (As [b]Gourmand[/b])
+[/list]
+
+[b]Sky Islands[/b]
+[list]
+[*]Centiwing (As [b]Monk[/b] & [b]Survivor[/b], lineages into Red Horror Centipede)
+[/list]
+
+[b]Outer Expanse[/b]
+[list]
+[*]Blue Lizard (in a lineage)
+[*]White Lizard (in a lineage)
+[*]Eggbug (in some lineages)
+[/list]
+
+[b]Waterfront Facility | The Precipice[/b]
+[list]
+[*]Miros Vulture
+[/list]
+
+[b]Silent Construct[/b]
+[list]
+[*]Miros Vulture
+[/list]

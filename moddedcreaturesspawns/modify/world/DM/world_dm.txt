@@ -1,5 +1,5 @@
 [FINDLINESTART]OFFSCREEN
-[ADDAFTER], 0-KingMiros-{IgnoreCycle}-2
+[ADDAFTER], 0-KingMiros-{IgnoreCycle}, 0-KingMiros-{Night}
 
 [MERGE]
 

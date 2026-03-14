@@ -7,10 +7,10 @@
 [FIND]MirosVulture-Stay,
 [ADDAFTER]KingMiros-Like,
 
-[FINDLINESTART]Room_Attr: UW_C01
-[ADDAFTER]KingMiros-Avoid
 [FINDLINESTART]Room_Attr: UW_A04
 [ADDAFTER]KingMiros-Like
+[FINDLINESTART]Room_Attr: UW_C01
+[ADDAFTER]KingMiros-Avoid
 [FINDLINESTART]Room_Attr: UW_C02
 [ADDAFTER]KingMiros-Like
 [FINDLINESTART]Room_Attr: UW_C04

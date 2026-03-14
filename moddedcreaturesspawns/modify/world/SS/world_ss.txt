@@ -1,4 +1,4 @@
-[FINDLINESTART]SS_C03 : 3-Inspector-{Ignorecycle}
+[FINDLINESTART]SS_C03 : 3-Inspector-{IgnoreCycle}
 [ADDAFTER], 4-GregTechLizard-{IgnoreCycle}
 
 [MERGE]
@@ -7,16 +7,16 @@ CREATURES
 
 
 
-(Yellow,White,Red,Gourmand,Artificer,Spear)SS_A09 : 4-ExplodingMosquito, 5-ExplodingMosquito, 6-ExplodingMosquito-{Night}
+(Spear,Artificer,Red,Gourmand,White)SS_A09 : 4-ExplodingMosquito, 5-ExplodingMosquito, 6-ExplodingMosquito-{Night}
 
-(Yellow,White,Red,Gourmand,Artificer,Spear)SS_A19 : 2-ExplodingMosquito, 3-ExplodingMosquito-{Night}, 4-ExplodingMosquito-{Night}
+(Spear,Artificer,Red,Gourmand)SS_A19 : 2-ExplodingMosquito, 3-ExplodingMosquito-{Night}, 4-ExplodingMosquito-{Night}
 
-(Yellow,White)SS_D05 : 3-SisterLongLegs-{Ignorecycle}
+(White,Yellow)SS_D05 : 3-SisterLongLegs-{IgnoreCycle}
 
-(Yellow,White,Gourmand)SS_F01 : 3-SisterLongLegs-{Ignorecycle}
+(Red,Gourmand,White,Yellow)SS_F01 : 3-SisterLongLegs-{IgnoreCycle}
 
-(Yellow,White)LINEAGE : SS_LAB3 : 3 : NONE-0.5, MimicStar-{IgnoreCycle}-1, NONE-0.4, NONE-0.3, MimicStar-{IgnoreCycle}-1, NONE-0.4, NONE-0.3, MimicStar-{IgnoreCycle}-0
-(Red,Gourmand)LINEAGE : SS_LAB3 : 3 : NONE-0.4, NONE-0.2, MimicStar-{IgnoreCycle}-1, NONE-0.4, NONE-0.3, MimicStar-{IgnoreCycle}-1, NONE-0.4, NONE-0.3, MimicStar-{IgnoreCycle}-0
+(White,Yellow)LINEAGE : SS_LAB3 : 3 : NONE-0.5, MimicStar-{IgnoreCycle}-0
+(Red,Gourmand)LINEAGE : SS_LAB3 : 3 : NONE-0.4, NONE-0.2, MimicStar-{IgnoreCycle}-0
 
 
 

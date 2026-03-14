@@ -7,9 +7,9 @@ CREATURES
 
 
 
-LINEAGE : OFFSCREEN : 0 : NONE-0.3, MirosVulture-1, NONE-0.4, NONE-0.3, NONE-0.3, MirosVulture-1, NONE-0.1, MirosVulture-1, NONE-0
+LINEAGE : OFFSCREEN : 0 : NONE-0.3, MirosVulture-0
 
-LINEAGE : OFFSCREEN : 0 : NONE-0.2, NONE-0.4, KingMiros-1, NONE-0.3, NONE-0.2, KingMiros-0
+LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.3, KingMiros-0
 
 LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
 LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0

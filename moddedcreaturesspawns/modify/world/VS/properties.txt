@@ -6,51 +6,51 @@
 [FINDLINESTART]Room_Attr: VS_C04
 [ADDAFTER]FatFireFly-Like,Gecko-Like,
 
-[FINDLINESTART]Room_Attr: VS_A14
-[ADDAFTER]Gecko-Avoid,
-[FINDLINESTART]Room_Attr: VS_C02
-[ADDAFTER]Gecko-Avoid,
-[FINDLINESTART]Room_Attr: VS_B09
-[ADDAFTER]Gecko-Avoid,
 [FINDLINESTART]Room_Attr: VS_A07
 [ADDAFTER]Gecko-Avoid,
-[FINDLINESTART]Room_Attr: VS_C07
+[FINDLINESTART]Room_Attr: VS_A14
 [ADDAFTER]Gecko-Avoid,
 [FINDLINESTART]Room_Attr: VS_B02
 [ADDAFTER]Gecko-Like,
-[FINDLINESTART]Room_Attr: VS_D01
-[ADDAFTER]Gecko-Like,
+[FINDLINESTART]Room_Attr: VS_B09
+[ADDAFTER]Gecko-Avoid,
+[FINDLINESTART]Room_Attr: VS_C02
+[ADDAFTER]Gecko-Avoid,
 [FINDLINESTART]Room_Attr: VS_C06
 [ADDAFTER]Gecko-Like,
+[FINDLINESTART]Room_Attr: VS_C07
+[ADDAFTER]Gecko-Avoid,
+[FINDLINESTART]Room_Attr: VS_D01
+[ADDAFTER]Gecko-Like,
 
-[FINDLINESTART]Room_Attr: VS_D04
-[ADDAFTER]WaterSpitter-Avoid,MoleSalamander-Avoid,
+[FINDLINESTART]Room_Attr: VS_B17
+[ADDAFTER]WaterSpitter-Like,MoleSalamander-Like,
 [FINDLINESTART]Room_Attr: VS_C11
+[ADDAFTER]WaterSpitter-Avoid,MoleSalamander-Avoid,
+[FINDLINESTART]Room_Attr: VS_D04
 [ADDAFTER]WaterSpitter-Avoid,MoleSalamander-Avoid,
 [FINDLINESTART]Room_Attr: VS_E02
 [ADDAFTER]WaterSpitter-Avoid,MoleSalamander-Avoid,
-[FINDLINESTART]Room_Attr: VS_B17
-[ADDAFTER]WaterSpitter-Like,MoleSalamander-Like,
+[FINDLINESTART]Room_Attr: VS_F01
+[ADDAFTER]WaterSpitter-Stay,MoleSalamander-Stay,
 [FINDLINESTART]Room_Attr: VS_F02
 [ADDAFTER]WaterSpitter-Like,MoleSalamander-Like,
 [FINDLINESTART]Room_Attr: VS_E06
 [ADDAFTER]WaterSpitter-Like,MoleSalamander-Like,
-[FINDLINESTART]Room_Attr: VS_F01
-[ADDAFTER]WaterSpitter-Stay,MoleSalamander-Stay,
 
 [FINDLINESTART]Room_Attr: VS_B05
-[ADDAFTER]MoleSalamander-Like,
-[FINDLINESTART]Room_Attr: VS_E01
 [ADDAFTER]MoleSalamander-Like,
 [FINDLINESTART]Room_Attr: VS_C08
 [ADDAFTER]MoleSalamander-Like,
 [FINDLINESTART]Room_Attr: VS_D02
 [ADDAFTER]MoleSalamander-Stay,
+[FINDLINESTART]Room_Attr: VS_E01
+[ADDAFTER]MoleSalamander-Like,
 
 [MERGE]
 
 Room_Attr: VS_C13: FatFireFly-Stay,Gecko-Like,
-Room_Attr: VS_E07: Gecko-Avoid,
 Room_Attr: VS_D05: MoleSalamander-Like,
+Room_Attr: VS_E07: Gecko-Avoid,
 
 [ENDMERGE]

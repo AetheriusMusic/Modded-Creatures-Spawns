@@ -9,6 +9,8 @@
 
 [FINDLINESTART]Room_Attr: DM_U09
 [ADDAFTER]KingMiros-Avoid,
+[FINDLINESTART]Room_Attr: DM_LEG07
+[ADDAFTER]KingMiros-Avoid,
 [FINDLINESTART]Room_Attr: DM_ROOF01
 [ADDAFTER]KingMiros-Neutral,
 [FINDLINESTART]Room_Attr: DM_ROOF03
@@ -17,11 +19,9 @@
 [ADDAFTER]KingMiros-Avoid,
 [FINDLINESTART]Room_Attr: DM_WALL06
 [ADDAFTER]KingMiros-Like,
-[FINDLINESTART]Room_Attr: DM_LEG07
-[ADDAFTER]KingMiros-Avoid,
 
 [MERGE]
 
-Room_Attr: DM_S11: KingMiros-Avoid,
+Room_Attr: DM_S11: KingMiros-Neutral,
 
 [ENDMERGE]

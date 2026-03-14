@@ -1,3 +1,6 @@
+[FINDLINESTART]Room_Attr: SU_C02
+[ADDAFTER]BombadierVulture-Like,ScavengerSentinel-Stay,
+
 [FINDLINESTART]Room_Attr: SU_A04
 [ADDAFTER]BombadierVulture-Avoid,
 [FINDLINESTART]Room_Attr: SU_A06
@@ -30,19 +33,14 @@
 [ADDAFTER]BombadierVulture-Avoid,
 [FINDLINESTART]Room_Attr: SU_C01
 [ADDAFTER]BombadierVulture-Avoid,
-[FINDLINESTART]Room_Attr: SU_C02
-[ADDAFTER]BombadierVulture-Like,
-
-[FINDLINESTART]Room_Attr: SU_C02
-[ADDAFTER]ScavengerSentinel-Stay,
 
 [FINDLINESTART]Room_Attr: SU_A63
 [ADDAFTER]SilverLizard-Avoid,
-[FINDLINESTART]Room_Attr: SU_B12
-[ADDAFTER]SilverLizard-Like,
 [FINDLINESTART]Room_Attr: SU_A40
 [ADDAFTER]SilverLizard-Like,
 [FINDLINESTART]Room_Attr: SU_B07
+[ADDAFTER]SilverLizard-Like,
+[FINDLINESTART]Room_Attr: SU_B12
 [ADDAFTER]SilverLizard-Like,
 
 [FINDLINESTART]Room_Attr: SU_C01

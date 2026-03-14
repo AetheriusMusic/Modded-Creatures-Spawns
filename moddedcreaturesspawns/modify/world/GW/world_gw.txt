@@ -1,10 +1,93 @@
-[FIND]LINEAGE : GW_C09 : 5 :
-[REPLACE]LINEAGE : GW_C09 : 8 :
-[FIND]LINEAGE : GW_C09 : 6 :
-[REPLACE]LINEAGE : GW_C09 : 9 :
-
 [FINDLINESTART](Saint)OFFSCREEN
 [ADDAFTER], 0-KingMiros-{IgnoreCycle}-2
+
+[FINDLINESTART](Spear)GW_B01_PAST
+[REPLACE](Spear)GW_B01_PAST : 9-Leech-10, 12-Garbage Worm-2, 6-CicadaA-2, 6-CicadaB, 2-AngryMosquito, 3-Mosquito, 4-Mosquito, 5-AngryMosquito
+[FINDLINESTART](Artificer)GW_B01_PAST
+[REPLACE](Artificer)GW_B01_PAST : 9-Leech-10, 12-Garbage Worm-2, 6-CicadaA-2, 6-CicadaB, 2-AngryMosquito, 3-Mosquito, 4-Mosquito, 5-AngryMosquito
+
+[FINDLINESTART](Spear)GW_B09_PAST
+[REPLACE](Spear)GW_B09_PAST : 4-Leech-10, 6-Snail-2, 9-Garbage Worm-2, 2-AngryMosquito, 3-Mosquito
+[FINDLINESTART](Artificer)GW_B09_PAST
+[REPLACE](Artificer)GW_B09_PAST : 4-Leech-10, 6-Snail-2, 9-Garbage Worm-2, 2-AngryMosquito, 3-Mosquito-2
+
+[FINDLINESTART](X-Yellow,Rivulet,Saint)GW_C01
+[REPLACE](X-Yellow,Rivulet,Saint)GW_C01 : 11-Garbage Worm-4, 4-Leech-7, 6-Leech-7, 5-TentaclePlant-{PreCycle}, 4-Salamander-{PreCycle}, 2-AngryMosquito
+[FINDLINESTART](Yellow)GW_C01
+[REPLACE](Yellow)GW_C01 : 11-Garbage Worm-2, 4-Leech-7, 6-Leech-7, 5-TentaclePlant-{PreCycle}, 4-Salamander-{PreCycle}
+[FINDLINESTART](Rivulet)GW_C01
+[REPLACE](Rivulet)GW_C01 : 11-Garbage Worm-2, 4-Leech-7, 6-Leech-7, 5-Eel, 5-TentaclePlant-{PreCycle}, 4-Salamander-{PreCycle}
+
+[FINDLINESTART](Spear)GW_C01_PAST
+[REPLACE](Spear)GW_C01_PAST : 7-Leech-7, 9-Leech-7, 4-CicadaB-2, 5-CicadaA-3, 2-AngryMosquito, 3-AngryMosquito
+[FINDLINESTART](Artificer)GW_C01_PAST
+[REPLACE](Artificer)GW_C01_PAST : 7-Leech-7, 9-Leech-7, 4-CicadaB-2, 5-CicadaA-3, 2-AngryMosquito, 3-AngryMosquito
+
+[FIND]LINEAGE : GW_C09 : 5
+[REPLACE]LINEAGE : GW_C09 : 8
+[FIND]LINEAGE : GW_C09 : 6
+[REPLACE]LINEAGE : GW_C09 : 9
+[FIND]LINEAGE : GW_C09 : 9 : SisterLongLegs
+[REPLACE]LINEAGE : GW_C09 : 6 : SisterLongLegs
+[FINDLINESTART](X-Rivulet,Spear,Red,Artificer,Saint,Inv)GW_C09
+[REPLACE](X-Rivulet,Spear,Red,Artificer,Saint,Inv)GW_C09 : 6-Bro, 7-Bro, 4-AngryMosquito, 5-AngryMosquito
+[FINDLINESTART](Spear)GW_C09
+[REPLACE](Spear)GW_C09 : 7-Terror
+[FINDLINESTART](Artificer)GW_C09
+[REPLACE](Artificer)GW_C09 : 6-Bro, 7-Daddy, 4-AngryMosquito
+[FINDLINESTART](Red)GW_C09
+[REPLACE](Red)GW_C09 : 6-Bro, 7-Daddy, 4-AngryMosquito, 5-AngryMosquito-2
+[FINDLINESTART](Rivulet)GW_C09
+[REPLACE](Rivulet)GW_C09 : 7-Bro, 9-Leech-29, 3-AngryMosquito, 5-AngryMosquito
+[FINDLINESTART](Saint)GW_C09
+[REPLACE](Saint)GW_C09 : 7-Sea Leech-9
+[FINDLINESTART](Inv)GW_C09
+[REPLACE](Inv)GW_C09 : 6-Daddy-{AlternateForm}, 7-Daddy-{AlternateForm}
+
+[FINDLINESTART](X-Saint)GW_C10
+[REPLACE](X-Saint)GW_C10 : 5-Leech-7, 8-Snail-3, 2-Mosquito, 3-AngryMosquito, 5-AngryMosquito
+[FINDLINESTART](Saint)GW_C10
+[REPLACE](Saint)GW_C10 : 9-Garbage Worm-3, 7-Jungle Leech-3, 8-Jungle Leech-3
+
+[FINDLINESTART](X-Yellow,Rivulet,Red,Saint,Inv)GW_D01
+[REPLACE](X-Yellow,Rivulet,Red,Saint,Inv)GW_D01 : 9-Leech-8, 21-Garbage Worm-5, 6-TentaclePlant-{PreCycle}, 11-Salamander-{PreCycle}
+[FINDLINESTART](Red)GW_D01
+[REPLACE](Red)GW_D01 : 9-Leech-8, 21-Garbage Worm-5, 8-Cyan-2, 10-Leech-7, 6-TentaclePlant-{PreCycle}, 11-Salamander-{PreCycle}
+[FINDLINESTART](Yellow)GW_D01
+[REPLACE](Yellow)GW_D01 : 9-Leech-8, 21-Garbage Worm-2, 6-TentaclePlant-{PreCycle}, 11-Salamander-{PreCycle}
+[FINDLINESTART](Rivulet)GW_D01
+[REPLACE](Rivulet)GW_D01 : 9-Leech-8, 21-Garbage Worm-2, 4-White, 3-Blue, 6-TentaclePlant-{PreCycle}, 11-Salamander-{PreCycle}
+[FINDLINESTART](Saint)GW_D01
+[REPLACE](Saint)GW_D01 : 3-Centiwing-2, 8-Yellow-3, 6-TentaclePlant-{PreCycle}, 11-Salamander-{PreCycle}
+[FINDLINESTART](Inv)GW_D01
+[REPLACE](Inv)GW_D01 : 8-Red-2, 9-Leech-7, 6-TentaclePlant-{PreCycle}, 11-Salamander-{PreCycle}
+
+[FINDLINESTART](Spear)GW_D01_PAST
+[REPLACE](Spear)GW_D01_PAST : 9-Leech-8, 18-Garbage Worm-5, 7-Cyan-2, 10-Leech-7, 4-Mosquito
+[FINDLINESTART](Artificer)GW_D01_PAST
+[REPLACE](Artificer)GW_D01_PAST : 9-Leech-8, 18-Garbage Worm-5, 7-Cyan-2, 10-Leech-7
+
+[FINDLINESTART](X-Rivulet,Saint)GW_E01
+[REPLACE](X-Rivulet,Saint)GW_E01 : 12-Leech-10, 7-CicadaB, 8-CicadaB, 10-Bro, 11-Bro
+[FINDLINESTART](Rivulet)GW_E01
+[REPLACE](Rivulet)GW_E01 : 7-Centipede, 8-Centipede, 9-Red Centipede
+[FINDLINESTART](Saint)GW_E01
+[REPLACE](Saint)GW_E01 : 7-Centipede, 8-Centipede, 9-Red Centipede, 10-SpitterSpider-{Winter}
+
+[FINDLINESTART](X-Yellow,Rivulet,Red,Artificer,Spear,Saint)GW_EDGE03
+[REPLACE](X-Yellow,Rivulet,Red,Artificer,Spear,Saint)GW_EDGE03 : 22-Leech-5, 23-Leech-8, 12-CicadaB-2, 13-CicadaA-3, 22-Salamander-{PreCycle}, 23-Salamander-{PreCycle}
+[FINDLINESTART](Spear)GW_EDGE03
+[REPLACE](Spear)GW_EDGE03 : 22-Leech-9, 23-Leech-12, 5-DropBug-2, 12-CicadaB, 13-CicadaA-2, 22-Salamander-{PreCycle}, 23-Salamander-{PreCycle}, 6-AngryMosquito, 7-AngryMosquito
+[FINDLINESTART](Artificer)GW_EDGE03
+[REPLACE](Artificer)GW_EDGE03 : 22-Leech-9, 23-Leech-12, 12-CicadaB, 13-CicadaA-2, 22-Salamander-{PreCycle}, 23-Salamander-{PreCycle}, 7-AngryMosquito
+[FINDLINESTART](Red)GW_EDGE03
+[REPLACE](Red)GW_EDGE03 : 22-Leech-9, 23-Leech-12, 12-CicadaB, 13-CicadaA-2, 22-Salamander-{PreCycle}, 23-Salamander-{PreCycle}, 7-AngryMosquito
+[FINDLINESTART](Yellow)GW_EDGE03
+[REPLACE](Yellow)GW_EDGE03 : 22-Leech-5, 23-Leech-8, 12-CicadaB-3, 13-CicadaA-4, 22-Salamander-{PreCycle}, 23-Salamander-{PreCycle}
+[FINDLINESTART](Rivulet)GW_EDGE03
+[REPLACE](Rivulet)GW_EDGE03 : 22-Leech-5, 23-Leech-8, 12-CicadaB-3, 13-CicadaA-4, 22-Salamander-{PreCycle}, 23-Salamander-{PreCycle}
+[FINDLINESTART](Saint)GW_EDGE03
+[REPLACE](Saint)GW_EDGE03 : 12-Lantern Mouse-5, 18-Big Spider-{Winter}-3, 22-Salamander-{PreCycle}, 23-Salamander-{PreCycle}
 
 [MERGE]
 
@@ -12,75 +95,53 @@ CREATURES
 
 
 
-(Yellow,White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : FatFireFly-0
-(Yellow,White,Red,Gourmand,Rivulet)LINEAGE : OFFSCREEN : 0 : NONE-0.4, NONE-0.2, FatFireFly-0
+(Red,Gourmand,White,Yellow)LINEAGE : OFFSCREEN : 0 : FatFireFly-0
+(Red,Gourmand,White,Yellow,Rivulet)LINEAGE : OFFSCREEN : 0 : NONE-0.4, NONE-0.2, FatFireFly-0
 
-(Yellow,White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : Bombadier-0
-(Red,Gourmand,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.2, NONE-0.2, NONE-0.5, Bombadier-0
-//+1 Bombardier Vulture for Artificer and Spearmaster, added by the mod
+(Red,Gourmand,White,Yellow)LINEAGE : OFFSCREEN : 0 : Bombadier-0
+(Spear,Artificer,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : NONE-0.2, NONE-0.2, NONE-0.5, Bombadier-0
+// +1 Bombardier Vulture as Spearmaster & Artificer, added by the mod
 
-//(Yellow,White)LINEAGE : OFFSCREEN : 0 : NONE-0.6, NONE-0.5, Joust-1, NONE-0.4, Joust-1, NONE-0.2, Joust-1-0
-//(Yellow,White)LINEAGE : OFFSCREEN : 0 : NONE-0.6, NONE-0.5, Joust-1, NONE-0.4, Joust-1, NONE-0.2, Joust-1-0
-//(White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : Joust-1-0
-//(Artificer,Spear)LINEAGE : OFFSCREEN : 0 : Joust-1-0
-//(Artificer,Spear)LINEAGE : OFFSCREEN : 0 : Joust-1-0
-//(Red,Gourmand,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : Joust-1, NONE-0.7, Joust-1, NONE-0.3, Joust-1-0
-//(Red,Gourmand,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : Joust-1, NONE-0.7, Joust-1, NONE-0.3, Joust-1-0
-//(Rivulet)LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.5, Joust-1, NONE-0.1, Joust-1, NONE-0.1, Joust-1-0
+(Spear,Artificer)LINEAGE : OFFSCREEN : 0 : Joust-0
+(Spear,Artificer)LINEAGE : OFFSCREEN : 0 : Joust-0
+(Spear,Artificer,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : Joust-0
+(Spear,Artificer,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : Joust-0
+(Red,Gourmand,White)LINEAGE : OFFSCREEN : 0 : Joust-0
+(White,Yellow,Rivulet)LINEAGE : OFFSCREEN : 0 : NONE-0.6, NONE-0.5, Joust-1, NONE-0.4, Joust-1, NONE-0.2, Joust-0
+(White,Yellow,Rivulet)LINEAGE : OFFSCREEN : 0 : NONE-0.6, NONE-0.5, Joust-1, NONE-0.4, Joust-1, NONE-0.2, Joust-0
+(Rivulet)LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.5, Joust-1, NONE-0.1, Joust-1, NONE-0.1, Joust-0
 
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
-(Red,Gourmand,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
+(Spear,Artificer,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : NONE-0.4, ScavengerSentinel-0
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet,Saint)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet,Saint)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet,Saint)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
 
 
 
-(Artificer,Spear)GW_B01_PAST : 9-Leech-10, 12-Garbage Worm-2, 6-CicadaA-2, 6-CicadaB, 2-AngryMosquito, 3-AngryMosquito, 4-Mosquito, 5-AngryMosquito
+(Spear,Artificer)LINEAGE : GW_C01_PAST : 2 : AngryMosquito-0
+(Spear,Artificer)LINEAGE : GW_C01_PAST : 3 : AngryMosquito-0
 
-(Artificer,Spear)GW_B09_PAST : 4-Leech-10, 6-Snail-2, 9-Garbage Worm-2, 2-AngryMosquito, 3-Mosquito-2
+(Red,Gourmand)LINEAGE : GW_C09 : 6 : SisterLongLegs-0.5, Bro-0
+(White,Yellow)LINEAGE : GW_C09 : 6 : NONE-0.1, SisterLongLegs-0.5, Bro-0
 
-(White,Gourmand,Red)GW_C01 : 11-Garbage Worm-4, 4-Leech-7, 6-Leech-7, 5-TentaclePlant-{PreCycle}, 4-Salamander-{PreCycle}, 2-Mosquito-3
-(Yellow)GW_C01 : 11-Garbage Worm-2, 4-Leech-7, 6-Leech-7, 5-TentaclePlant-{PreCycle}, 4-Salamander-{PreCycle}, 2-Mosquito-2
-(Rivulet)GW_C01 : 11-Garbage Worm-2, 4-Leech-7, 6-Leech-7, 5-Eel, 5-TentaclePlant-{PreCycle}, 4-Salamander-{PreCycle}, 2-Mosquito
-(Inv)GW_C01 : 11-Garbage Worm-4, 4-Leech-7, 6-Leech-7, 5-TentaclePlant-{PreCycle}, 4-Salamander-{PreCycle}
+(Red,Gourmand,White,Yellow)LINEAGE : GW_D01 : 5 : Mosquito-1, AngryMosquito-0
+(Red,Gourmand,White)LINEAGE : GW_D01 : 7 : Mosquito-0.6, AngryMosquito-0
 
-(Artificer,Spear)GW_C01_PAST : 7-Leech-7, 9-Leech-7, 4-CicadaB-2, 5-CicadaA-3, 2-AngryMosquito-2, 3-AngryMosquito-2
+(Spear,Artificer)LINEAGE : GW_D01_PAST : 4 : Mosquito-0.5, AngryMosquito-0
+(Spear,Artificer)LINEAGE : GW_D01_PAST : 4 : Mosquito-0.2, AngryMosquito-0
+(Spear,Artificer)LINEAGE : GW_D01_PAST : 5 : Mosquito-0.2, AngryMosquito-0
+(Spear,Artificer)LINEAGE : GW_D01_PAST : 6 : Mosquito-0.2, AngryMosquito-0
 
-(White,Yellow)GW_C09 : 6-Bro, 7-Bro, 3-AngryMosquito-2, 4-AngryMosquito, 5-AngryMosquito
-(Red,Gourmand)GW_C09 : 6-Bro, 3-AngryMosquito-3, 4-AngryMosquito, 5-AngryMosquito-2
-(Artificer)GW_C09 : 6-Bro, 7-Daddy, 4-AngryMosquito
-(Rivulet)GW_C09 : 7-Bro, 9-Leech-29, 3-AngryMosquito, 5-AngryMosquito
-(Spear)GW_C09 : 7-Terror
-(Saint)GW_C09 : 7-Sea Leech-9
-(Inv)GW_C09 : 7-Daddy-{AlternateForm}, 8-Daddy-{AlternateForm}
-(Red,Gourmand)LINEAGE : GW_C09 : 7 : SisterLongLegs-0.5, Bro-0
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet)LINEAGE : GW_E01 : 2 : NONE-0.5, AngryMosquito-0
+(Spear,Artificer,Red,Gourmand,White,Yellow)LINEAGE : GW_E01 : 3 : AngryMosquito-0
+(Spear,Artificer,Red,Gourmand)LINEAGE : GW_E01 : 4 : AngryMosquito-0.3, NONE-0
+(Spear,Artificer)LINEAGE : GW_E01 : 5 : AngryMosquito-0.3, NONE-0
+(Artificer)LINEAGE : GW_E01 : 6 : AngryMosquito-0
+(Red,Gourmand,White,Yellow)LINEAGE : GW_E01 : 12 : SisterLongLegs-0.1, Bro-0.8, NONE-0
 
-(Yellow,White,Red,Gourmand,Rivulet)GW_C10 : 7-Leech-7, 8-Snail-3, 2-Mosquito, 3-AngryMosquito, 4-Mosquito, 5-AngryMosquito, 6-AngryMosquito
-(Saint)GW_C10 : 9-Garbage Worm-3, 7-Jungle Leech-3, 8-Jungle Leech-3
-
-(White,Gourmand)GW_D01 : 9-Leech-8, 21-Garbage Worm-5, 6-TentaclePlant-{PreCycle}, 11-Salamander-{PreCycle}, 5-AngryMosquito, 7-Mosquito
-(Yellow)GW_D01 : 9-Leech-8, 21-Garbage Worm-2, 8-TentaclePlant-{PreCycle}, 11-Salamander-{PreCycle}, 5-Mosquito
-(Red)GW_D01 : 9-Leech-8, 21-Garbage Worm-5, 8-Cyan-2, 10-Leech-7, 6-TentaclePlant-{PreCycle}, 11-Salamander-{PreCycle}, 5-AngryMosquito-2, 7-Mosquito
-(Rivulet)GW_D01 : 9-Leech-8, 21-Garbage Worm-2, 4-White, 3-Blue, 6-TentaclePlant-{PreCycle}, 11-Salamander-{PreCycle}
-(Saint)GW_D01 : 3-Centiwing-2, 8-Yellow-3, 6-TentaclePlant-{PreCycle}, 11-Salamander-{PreCycle}
-(Inv)GW_D01 : 8-Red-2, 10-Leech-7, 6-TentaclePlant-{PreCycle}, 11-Salamander-{PreCycle}
-
-(Artificer,Spear)GW_D01_PAST : 9-Leech-8, 18-Garbage Worm-5, 7-Cyan-2, 10-Leech-7, 5-AngryMosquito-2, 6-AngryMosquito-2
-
-(Yellow)GW_E01 : 12-Leech-10, 7-CicadaB, 8-CicadaB, 9-Bro, 10-Bro, 2-AngryMosquito, 4-AngryMosquito, 5-AngryMosquito
-(White)GW_E01 : 12-Leech-10, 7-CicadaB, 8-CicadaB, 9-Bro, 10-Bro, 4-AngryMosquito-2, 5-AngryMosquito, 6-AngryMosquito
-(Red,Gourmand)GW_E01 : 12-Leech-10, 7-CicadaB, 8-CicadaB, 9-Bro, 10-Bro, 2-AngryMosquito-2, 3-AngryMosquito, 4-AngryMosquito-2, 5-AngryMosquito
-(Artificer)GW_E01 : 12-Leech-10, 7-CicadaB, 8-CicadaB, 9-Bro, 10-Bro, 2-AngryMosquito, 4-AngryMosquito-2, 5-AngryMosquito, 6-AngryMosquito
-(Spear)GW_E01 : 12-Leech-10, 7-CicadaB, 8-CicadaB, 9-Bro, 10-Bro, 3-AngryMosquito, 4-AngryMosquito-2, 5-AngryMosquito, 6-AngryMosquito
-(Rivulet)GW_E01 : 7-Centipede, 8-Centipede, 9-Red Centipede, 3-AngryMosquito, 6-AngryMosquito
-(Saint)GW_E01 : 7-Centipede, 8-Centipede, 9-Red Centipede, 11-SpitterSpider-{Winter}
-(Inv)GW_E01 : 12-Leech-10, 7-CicadaB, 8-CicadaB, 9-Bro, 10-Bro
-
-(White,Gourmand)GW_EDGE03 : 22-Leech-5, 23-Leech-8, 12-CicadaB-2, 13-CicadaA-3, 22-Salamander-{PreCycle}, 23-Salamander-{PreCycle}, 6-Mosquito-2, 7-Mosquito
-(Yellow,Rivulet)GW_EDGE03 : 22-Leech-5, 23-Leech-8, 12-CicadaB-3, 13-CicadaA-4, 22-Salamander-{PreCycle}, 23-Salamander-{PreCycle}, 6-Mosquito, 7-Mosquito
-(Red,Artificer)GW_EDGE03 : 22-Leech-9, 23-Leech-12, 12-CicadaB, 13-CicadaA-2, 22-Salamander-{PreCycle}, 23-Salamander-{PreCycle}, 6-Mosquito-2, 7-AngryMosquito
-(Spear)GW_EDGE03 : 22-Leech-9, 23-Leech-12, 5-DropBug-2, 12-CicadaB, 13-CicadaA-2, 22-Salamander-{PreCycle}, 23-Salamander-{PreCycle}, 6-AngryMosquito, 7-AngryMosquito-2
-(Saint)GW_EDGE03 : 12-Lantern Mouse-5, 13-Big Spider-3-{Winter}, 22-Salamander-{PreCycle}, 23-Salamander-{PreCycle}
-(Inv)GW_EDGE03 : 22-Leech-5, 23-Leech-8, 12-CicadaB-2, 13-CicadaA-3, 22-Salamander-{PreCycle}, 23-Salamander-{PreCycle}
+(Artificer,Red,Gourmand,White)LINEAGE : GW_EDGE03 : 6 : Mosquito-0.4, AngryMosquito-0
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet)LINEAGE : GW_EDGE03 : 7 : AngryMosquito-0
 
 
 

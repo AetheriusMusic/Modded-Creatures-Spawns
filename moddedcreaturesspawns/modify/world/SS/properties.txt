@@ -1,16 +1,16 @@
-[FINDLINESTART]Room_Attr: SS_I03
+[FINDLINESTART]Room_Attr: SS_A03
 [ADDAFTER]GregTechLizard-Avoid,
 [FINDLINESTART]Room_Attr: SS_A11
 [ADDAFTER]GregTechLizard-Avoid,
-[FINDLINESTART]Room_Attr: SS_C03
+[FINDLINESTART]Room_Attr: SS_A15
+[ADDAFTER]GregTechLizard-Avoid,
+[FINDLINESTART]Room_Attr: SS_A16
 [ADDAFTER]GregTechLizard-Like,
 [FINDLINESTART]Room_Attr: SS_B02
 [ADDAFTER]GregTechLizard-Like,
-[FINDLINESTART]Room_Attr: SS_A16
+[FINDLINESTART]Room_Attr: SS_C03
 [ADDAFTER]GregTechLizard-Like,
-[FINDLINESTART]Room_Attr: SS_A03
-[ADDAFTER]GregTechLizard-Avoid,
-[FINDLINESTART]Room_Attr: SS_A15
-[ADDAFTER]GregTechLizard-Avoid,
 [FINDLINESTART]Room_Attr: SS_D03
 [ADDAFTER]GregTechLizard-Stay,
+[FINDLINESTART]Room_Attr: SS_I03
+[ADDAFTER]GregTechLizard-Avoid,

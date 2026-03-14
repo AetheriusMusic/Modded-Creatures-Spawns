@@ -1,0 +1,350 @@
+[h1]Custom Creatures[/h1]
+[h3]Most of the spawns are guaranteed, but some of them (especially those for big aerial threats) only have a chance to spawn via lineage, depending on the slugcat, or only spawn at night.[/h3]
+
+[b]Bombardier Vulture[/b]
+[list]
+[*]Outskirts (As [b]Hunter[/b])
+[*]Garbage Wastes | Pre-Collapse
+[*]Garbage Wastes | Post-Collapse ([u]Not[/u] as [b]Rivulet[/b])
+[*]Chimney Canopy
+[*]Sky Islands ([u]Not[/u] as [b]Rivulet[/b])
+[*]Farm Arrays ([u]Not[/u] as [b]Spearmaster[/b], [b]Artificer[/b] or [b]Hunter[/b])
+[*]Metropolis
+[/list]
+
+[b]Fire Vulture[/b]
+[list]
+[*]Industrial Complex ([u]Not[/u] as [b]Rivulet[/b])
+[*]Garbage Wastes | Post-Collapse
+[*]Pipeyard ([u]Not[/u] as [b]Spearmaster[/b] or [b]Artificer[/b])
+[*]Chimney Canopy
+[*]Sky Islands ([u]Not[/u] as [b]Rivulet[/b])
+[*]Farm Arrays (As [b]Artificer[/b] & [b]Spearmaster[/b])
+[*]Outer Expanse
+[*]Metropolis
+[/list]
+
+[b]King Miros Vulture[/b]
+[list]
+[*]Shaded Citadel (As [b]Artificer[/b] & [b]Spearmaster[/b])
+[*]The Exterior | The Leg & Underhang (As [b]Artificer[/b] & [b]Spearmaster[/b])
+[*]Submerged Superstructure | Bitter Aerie
+[*]Waterfront Facility | The Precipice
+[*]Looks to the Moon
+[*]Suburban Drifts
+[*]Icy Monument
+[*]Glacial Wasteland
+[*]Frigid Coast
+[*]Barren Conduits
+[*]Solitary Towers
+[*]Windswept Spires
+[*]Silent Construct
+[*]Rubicon
+[/list]
+
+[b][strike]Joust[/strike][/b] [i](Jousts will spawn if you have the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3452675272]mod[/url] enabled, but since they are broken I recommend not using it)
+[list]
+[*][strike]Garbage Wastes | Pre-Collapse[/strike]
+[*][strike]Garbage Wastes | Post-Collapse[/strike]
+[*][strike]Shaded Citadel[/strike]
+[/list]
+
+[b]Blizzor Bird[/b]
+[list]
+[*]Primordial Underground
+[*]Silent Construct
+[/list]
+
+[b]Echo Leviathan[/b]
+[list]
+[*]Rubicon
+[/list]
+
+[b]Mini Echo Leviathan[/b]
+[list]
+[*]Rubicon
+[/list]
+
+[b]Mini Leviathan[/b]
+[list]
+[*]Shoreline
+[*]Submerged Superstructure
+[/list]
+
+[b]Scavenger Sentinel[/b]
+[list]
+[*]Outskirts
+[*]Garbage Wastes
+[*]Farm Arrays
+[*]Outer Expanse
+[*]Metropolis
+[*]Suburban Drifts
+[*]Glacial Wasteland
+[*]Desolate Fields
+[*]Undergrowth
+[*]Silent Construct
+[/list]
+
+[b]Mosquito[/b]
+[list]
+[*]Garbage Wastes
+[*]Farm Arrays
+[/list]
+
+[b]Angry Mosquito[/b]
+[list]
+[*]Garbage Wastes
+[*]Farm Arrays
+[/list]
+
+[b]Exploding Mosquito[/b]
+[list]
+[*]The Exterior
+[*]Five Pebbles
+[*]Waterfront Facility | The Precipice
+[/list]
+
+[b]Denture[/b]
+[list]
+[*]Farm Arrays
+[*]Outer Expanse | Sunken Pier
+[/list]
+
+[b]Red Horror Centipede[/b]
+[list]
+[*]Sky Islands
+[*]Windswept Spires
+[/list]
+
+[b]Hunter Seeker Lizard[/b]
+[list]
+[*]Industrial Complex
+[*]The Exterior | The Wall
+[*]Sky Islands
+[*]Outer Expanse (Lineage)
+[*]Icy Monument
+[*]Windswept Spires
+[/list]
+
+[b]Alpha Orange Lizard[/b]
+[list]
+[*]The Exterior | The Wall ([u]Not[/u] as [b]Spearmaster[/b] or [b]Artificer[/b])
+[/list]
+
+[b]Silver Lizard[/b]
+[list]
+[*]Outskirts ([u]Not[/u] as [b]Spearmaster[/b] or [b]Artificer[/b])
+[*]Submerged Superstructure | Bitter Aerie
+[*]Suburban Drifts
+[/list]
+
+[b]Gecko Lizard[/b]
+[list]
+[*]Pipeyard
+[*]Barren Conduits
+[/list]
+
+[b]Hoverfly[/b]
+[list]
+[*]The Exterior | The Wall
+[*]Chimney Canopy
+[*]Outer Expanse
+[*]Solitary Towers
+[/list]
+
+[b]Thorn Bug[/b]
+[list]
+[*]Industrial Complex
+[*]Sky Islands
+[*]Outer Expanse
+[/list]
+
+[b]Tinted Beetle[/b]
+[list]
+[*]Industrial Complex
+[*]Sky Islands
+[*]Outer Expanse
+[/list]
+
+[b]Mama Bug[/b]
+[list]
+[*]Outskirts ([u]Not[/u] as [b]Rivulet[/b]) 
+[*]Outer Expanse
+[/list]
+
+[b]Surface Swimmer[/b]
+[list]
+[*]Outskirts
+[*]Farm Arrays
+[*]Subterranean
+[*]Outer Expanse
+[/list]
+
+[b]Noodle Eater[/b]
+[list]
+[*]Outer Expanse
+[/list]
+
+[b]Bouncing Ball[/b]
+[list]
+[*]Pipeyard
+[*]Barren Conduits
+[/list]
+
+[b]Hazer Mom[/b]
+[list]
+[*]Chimney Canopy | The Gutter
+[*]Solitary Towers | Forgotten Conduit
+[/list]
+
+[b]Chip Chop[/b]
+[list]
+[*]Drainage System
+[*]Outer Expanse
+[*]Undergrowth
+[/list]
+
+[b]Water Blob[/b]
+[list]
+[*]Drainage System
+[*]Undergrowth
+[/list]
+
+[b]Mini Black Leech[/b]
+[list]
+[*]Drainage System
+[/list]
+
+[b]Diving Beetle[/b]
+[list]
+[*]Shoreline
+[/list]
+
+[b]Common Eel[/b]
+[list]
+[*]Shoreline
+[*]Outer Expanse
+[*]Frigid Coast
+[/list]
+
+[b]Water Spitter[/b]
+[list]
+[*]Shoreline
+[*]Frigid Coast
+[*]Pipeyard
+[*]Barren Conduits
+[/list]
+
+[b]Mole Salamander[/b]
+[list]
+[*]Shaded Citadel
+[*]Pipeyard (in a lineage)
+[*]Pipeyard | Sump Tunnel
+[*]Barren Conduits
+[/list]
+
+[b]Killerpillar[/b]
+[list]
+[*]Shaded Citadel
+[/list]
+
+[b]Glowpillar[/b]
+[list]
+[*]Shaded Citadel
+[/list]
+
+[b]Scutigera[/b]
+[list]
+[*]Submerged Superstructure
+[/list]
+
+[b]Mini Scutigera[/b]
+[list]
+[*]Submerged Superstructure
+[/list]
+
+[b]Bigrub[/b]
+[list]
+[*]The Exterior | Underhang ([u]Not[/u] as [b]Spearmaster[/b] or [b]Artificer[/b])
+[/list]
+
+[b]Xylo[/b]
+[list]
+[*]Pipeyard
+[*]Subterranean | FIltration System
+[*]Barren Conduits
+[*]Primordial Underground | Ancient Labyrinth
+[/list]
+
+[b]Xylo Grub[/b]
+[list]
+[*]Pipeyard
+[*]Subterranean | FIltration System
+[*]Barren Conduits
+[*]Primordial Underground | Ancient Labyrinth
+[/list]
+
+[b]Electric Lizard[/b]
+[list]
+[*]Five Pebbles
+[*]Looks to the Moon
+[*]The Rot
+[/list]
+
+[b]Sister Long Legs[/b]
+[list]
+[*]Garbage Wastes | Post-Collapse ([u]Not[/u] as [b]Rivulet[/b])
+[*]Five Pebbles ([u]Not[/u] as [b]Spearmaster[/b] or [b]Artificer[/b])
+[*]The Rot
+[/list]
+
+[b]Mimic Starfish[/b]
+[list]
+[*]The Exterior | Underhang
+[*]Five Pebbles ([u]Not[/u] as [b]Spearmaster[/b] or [b]Artificer[/b])
+[*]The Rot
+[/list]
+
+[b][spoiler][b]Rivulet[/b] Long Legs[/spoiler][/b]
+[list]
+[*]Silent Construct
+[/list]
+
+[b]Reaper Lizard[/b]
+[list]
+[*]Rubicon
+[/list]
+
+[h1]Vanilla Creatures[/h1]
+
+[b]Miros Vulture[/b]
+[list]
+[*]Waterfront Facility | The Precipice
+[*]Silent Construct
+[/list]
+
+[b]Leviathan[/b]
+[list]
+[*]Shoreline (As [b]Gourmand[/b])
+[/list]
+
+[b]Centiwing[/b]
+[list]
+[*]Sky Islands (As [b]Monk[/b] & [b]Survivor[/b], lineages into Red Horror Centipede)
+[/list]
+
+[b]Blue Lizard[/b]
+[list]
+[*]Outer Expanse (in a lineage)
+[/list]
+
+[b]White Lizard[/b]
+[list]
+[*]Outer Expanse (in a lineage)
+[/list]
+
+[b]Eggbug[/b]
+[list]
+[*]Outskirts (in some lineages)
+[*]Outer Expanse (in some lineages)
+[/list]

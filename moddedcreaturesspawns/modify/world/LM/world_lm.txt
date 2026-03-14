@@ -4,11 +4,11 @@ CREATURES
 
 
 
-LINEAGE : OFFSCREEN : 0 : KingMiros-0.9, NONE-0.2, KingMiros-0,
+LINEAGE : OFFSCREEN : 0 : KingMiros-0
 (Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.3, KingMiros-0
 
-LINEAGE : OFFSCREEN : 0 : MirosVulture-0.9, MirosVulture-0.5, NONE-0.3, KingMiros-1, MirosVulture-0
-LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.7, MirosVulture-0
+LINEAGE : OFFSCREEN : 0 : MirosVulture-1, MirosVulture-0.5, KingMiros-1, MirosVulture-0
+LINEAGE : OFFSCREEN : 0 : NONE-0.5, NONE-0.5, MirosVulture-0
 
 
 

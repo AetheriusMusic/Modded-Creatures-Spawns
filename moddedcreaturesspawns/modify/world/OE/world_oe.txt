@@ -5,6 +5,11 @@
 [FINDLINESTART](Gourmand)OFFSCREEN
 [ADDAFTER], 0-ScavengerSentinel-{IgnoreCycle}-2, 0-ScavengerSentinel-{Night}-2
 
+[FINDLINESTART](Gourmand)OE_CAVE10
+[REPLACE](Gourmand)OE_CAVE10 : 6-Small Centipede-{IgnoreCycle}-6, 7-JungleLeech-{IgnoreCycle}-3, 11-TentaclePlant-{Night}
+[FINDLINESTART](White,Yellow)OE_CAVE10
+[REPLACE](White,Yellow)OE_CAVE10 : 6-Small Centipede-{IgnoreCycle}-6, 7-JungleLeech-{IgnoreCycle}-3
+
 [FINDLINESTART](White)OE_JUNGLE03
 [ADDAFTER], 4-Hoverfly-{AlternateForm,IgnoreCycle}-3
 [FINDLINESTART](Yellow)OE_JUNGLE03
@@ -26,6 +31,14 @@
 [FINDLINESTART](Gourmand)OE_JUNGLE06
 [ADDAFTER], 3-Hoverfly-{AlternateForm,IgnoreCycle}-3
 
+[FINDLINESTART](White,Gourmand)OE_RAIL06
+[REPLACE](White,Gourmand)OE_RAIL06 : 6-Denture-{AlternateForm}
+
+[FINDLINESTART](Gourmand)OE_RUIN24
+[REPLACE](Gourmand)OE_RUIN24 : 4-CicadaB-3, 5-CicadaA-2, 7-CicadaA-4, 4-TentaclePlant-{Night}, 9-TentaclePlant-{Night}, 2-Hoverfly-{AlternateForm,IgnoreCycle}-2, 3-Hoverfly-{AlternateForm,IgnoreCycle}-2
+[FINDLINESTART](White,Yellow)OE_RUIN24
+[REPLACE](White,Yellow)OE_RUIN24 : 4-CicadaB-3, 5-CicadaA-2, 7-CicadaA-4, 2-Hoverfly-{AlternateForm,IgnoreCycle}-2, 3-Hoverfly-{AlternateForm,IgnoreCycle}-2
+
 [MERGE]
 
 CREATURES
@@ -39,14 +52,12 @@ LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
 
 
 
-(White,Yellow)OE_CAVE10 : 6-Small Centipede-{Ignorecycle}-6, 7-JungleLeech-{Ignorecycle}-3
-(Gourmand)OE_CAVE10 : 6-Small Centipede-{Ignorecycle}-6, 7-JungleLeech-{Ignorecycle}-3, 13-TentaclePlant-{Night}
-LINEAGE : OE_CAVE10 : 4 : SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, MamaBug-0
-LINEAGE : OE_CAVE10 : 5 : MamaBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0
+LINEAGE : OE_CAVE10 : 4 : SurfaceSwimmer-0.5, MamaBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, MamaBug-0
+LINEAGE : OE_CAVE10 : 5 : MamaBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, MamaBug-0.5, SurfaceSwimmer-0
 
 OE_JUNGLE04 : 3-Hoverfly-{AlternateForm,IgnoreCycle}-2
-LINEAGE : OE_JUNGLE04 : 4 : SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, MamaBug-0
-LINEAGE : OE_JUNGLE04 : 5 : MamaBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0
+LINEAGE : OE_JUNGLE04 : 4 : SurfaceSwimmer-0.5, MamaBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, MamaBug-0
+LINEAGE : OE_JUNGLE04 : 5 : MamaBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, MamaBug-0.5, SurfaceSwimmer-0
 
 (Yellow)LINEAGE : OE_JUNGLE05 : 5 : NONE-0.6, NONE-0.8, CommonEel-0
 (White,Gourmand)LINEAGE : OE_JUNGLE05 : 5 : CommonEel-0
@@ -57,27 +68,22 @@ LINEAGE : OE_JUNGLEESCAPE : 5 : ChipChop-0
 LINEAGE : OE_JUNGLEESCAPE : 7 : ChipChop-0
 LINEAGE : OE_JUNGLEESCAPE : 10 : ChipChop-0
 
-LINEAGE : OE_RAIL06 : 6 : Denture-{AlternateForm}-0
+LINEAGE : OE_RUIN19 : 4 : SurfaceSwimmer-0.5, MamaBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, MamaBug-0
+LINEAGE : OE_RUIN19 : 5 : MamaBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, MamaBug-0.5, SurfaceSwimmer-0
 
-LINEAGE : OE_RUIN19 : 4 : SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, MamaBug-1, SurfaceSwimmer-0
-LINEAGE : OE_RUIN19 : 5 : MamaBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0
-
-(White,Yellow)OE_RUIN24 : 4-CicadaB-3, 5-CicadaA-2, 7-CicadaA-4, 2-Hoverfly-{AlternateForm,IgnoreCycle}-2, 3-Hoverfly-{AlternateForm,IgnoreCycle}-2
-(Gourmand)OE_RUIN24 : 4-CicadaB-3, 5-CicadaA-2, 7-CicadaA-4, 4-TentaclePlant-{Night}, 9-TentaclePlant-{Night}, 2-Hoverfly-{AlternateForm,IgnoreCycle}-2, 3-Hoverfly-{AlternateForm,IgnoreCycle}-2
-
-LINEAGE : OE_RUIN11 : 3 : TintedBeetle-0.8, TintedBeetle-0.6, TintedBeetle-0.4, ThornBug-1, TintedBeetle-0.9, TintedBeetle-0.7, TintedBeetle-0.5, ThornBug-0
-LINEAGE : OE_RUIN11 : 4 : TintedBeetle-0.6, TintedBeetle-0.4, TintedBeetle-0.2, ThornBug-1, TintedBeetle-0.9, TintedBeetle-0.7, TintedBeetle-0.5, ThornBug-0
-LINEAGE : OE_RUIN11 : 6 : ThornBug-0
+LINEAGE : OE_RUIN11 : 4 : TintedBeetle-0
+LINEAGE : OE_RUIN11 : 5 : ThornBug-0
+LINEAGE : OE_RUIN11 : 6 : TintedBeetle-0.8, TintedBeetle-0.6, ThornBug-0
 
 OE_RUIN22 : 3-MamaBug-{IgnoreCycle}, 4-MamaBug, 4-MamaBug-{Night}
 
-LINEAGE : OE_RUINBackHall : 7 : NoodleEater-0.5, Blue-0.2, White-0.8, HunterSeeker-0
+LINEAGE : OE_RUINBackHall : 7 : NoodleEater-0.5, White-0.8, Cyan-0.8, HunterSeeker-0
 LINEAGE : OE_RUINBackHall : 8 : NoodleEater-0
 LINEAGE : OE_RUINBackHall : 10 : NoodleEater-0
 
-LINEAGE : OE_RUINCourtYard : 6 : TintedBeetle-0.8, TintedBeetle-0.6, TintedBeetle-0.4, ThornBug-1, TintedBeetle-0.9, TintedBeetle-0.7, TintedBeetle-0.5, ThornBug-0
-LINEAGE : OE_RUINCourtYard : 7 : TintedBeetle-0.6, TintedBeetle-0.4, TintedBeetle-0.2, ThornBug-1, TintedBeetle-0.9, TintedBeetle-0.7, TintedBeetle-0.5, ThornBug-0
-LINEAGE : OE_RUINCourtYard : 8 : NONE-0.8, ThornBug-0
+LINEAGE : OE_RUINCourtYard : 6 : TintedBeetle-0
+LINEAGE : OE_RUINCourtYard : 7 : ThornBug-0
+LINEAGE : OE_RUINCourtYard : 8 : TintedBeetle-0.8, TintedBeetle-0.6, ThornBug-0
 (Yellow)OE_RUINCourtYard : 4-NoodleEater-{IgnoreCycle}, 5-NoodleEater-{IgnoreCycle}
 
 

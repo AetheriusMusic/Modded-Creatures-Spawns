@@ -3,6 +3,20 @@
 [FIND]LINEAGE : DS_A09 : 2
 [REPLACE]LINEAGE : DS_A09 : 3
 
+[FINDLINESTART](Spear)DS_A09
+[REPLACE](Spear)DS_A09 : 3-DropBug-2, 2-WaterBlob-2
+[FINDLINESTART](Artificer)DS_A09
+[REPLACE](Artificer)DS_A09 : 3-DropBug-2, 2-WaterBlob-2
+[FINDLINESTART](Red)DS_A09
+[REPLACE](Red)DS_A09 : 3-DropBug-2, 2-WaterBlob-2
+[FINDLINESTART](Inv)DS_A09
+[REPLACE](Inv)DS_A09 : 3-DropBug-2
+
+[FINDLINESTART](X-Rivulet)DS_A21
+[REPLACE](X-Rivulet)DS_A21 : 6-Mimic-{14}, 7-Snail-2, 8-Snail-2, 2-ChipChop, 4-ChipChop, 5-ChipChop
+[FINDLINESTART](Rivulet)DS_A21
+[REPLACE](Rivulet)DS_A21 : 7-Snail-2, 8-Snail-2, 2-ChipChop, 3-ChipChop, 4-ChipChop, 5-ChipChop-2
+
 [FINDLINESTART](X-Spear,Rivulet)DS_B01
 [ADDAFTER], 3-MiniBlackLeech-5, 4-MiniBlackLeech-5, 5-MiniBlackLeech-5, 6-MiniBlackLeech-5, 8-MiniBlackLeech-5, 9-MiniBlackLeech-5, 10-MiniBlackLeech-5, 11-MiniBlackLeech-5, 12-MiniBlackLeech-5
 [FINDLINESTART](Spear)DS_B01
@@ -10,8 +24,29 @@
 [FINDLINESTART](Rivulet)DS_B01
 [ADDAFTER], 3-MiniBlackLeech-5, 4-MiniBlackLeech-6, 5-MiniBlackLeech-5, 6-MiniBlackLeech-5, 8-MiniBlackLeech-5, 9-MiniBlackLeech-6, 10-MiniBlackLeech-5, 11-MiniBlackLeech-6, 12-MiniBlackLeech-5
 
+[FINDLINESTART](X-Rivulet,Yellow,Red,Artificer,Spear,Inv)DS_B07
+[REPLACE](X-Rivulet,Yellow,Red,Artificer,Spear,Inv)DS_B07 : 4-Salamander, 5-Snail, 6-Snail, 9-Snail, 7-WaterBlob-2, 8-WaterBlob-2
+[FINDLINESTART](Spear)DS_B07
+[REPLACE](Spear)DS_B07 : 3-DropBug-3, 4-Cyan-3, 5-Snail, 6-Snail, 9-Snail, 7-WaterBlob-3, 8-WaterBlob-3
+[FINDLINESTART](Artificer)DS_B07
+[REPLACE](Artificer)DS_B07 : 3-DropBug-3, 4-Cyan-3, 5-Snail, 6-Snail, 9-Snail, 7-WaterBlob-3, 8-WaterBlob-2
+[FINDLINESTART](Red)DS_B07
+[REPLACE](Red)DS_B07 : 3-DropBug-3, 4-Cyan-3, 5-Snail, 6-Snail, 9-Snail, 7-WaterBlob-2, 8-WaterBlob-2
+[FINDLINESTART](Yellow)DS_B07
+[REPLACE](Yellow)DS_B07 : 4-Eel, 5-Snail, 6-Snail, 9-Snail, 7-WaterBlob-2, 8-WaterBlob-2
+[FINDLINESTART](Rivulet)DS_B07
+[REPLACE](Rivulet)DS_B07 : 4-Eel, 5-Snail, 6-Snail, 9-Snail, 7-WaterBlob-3, 8-WaterBlob-2
+[FINDLINESTART](Inv)DS_B07
+[REPLACE](Inv)DS_B07 : 3-DropBug-3, 4-Red-3, 5-Snail, 6-DropBug, 9-DropBug
+
 [FINDLINESTART](X-Yellow,Rivulet,Inv,Red,Artificer,Spear)DS_GUTTER03
 [ADDAFTER], 10-ChipChop, 11-ChipChop
+[FINDLINESTART](Spear)DS_GUTTER03
+[ADDAFTER], 10-ChipChop-3, 11-ChipChop-3
+[FINDLINESTART](Artificer)DS_GUTTER03
+[ADDAFTER], 10-ChipChop-2, 11-ChipChop-3
+[FINDLINESTART](Red)DS_GUTTER03
+[ADDAFTER], 10-ChipChop-2, 11-ChipChop-2
 [FINDLINESTART](Yellow)DS_GUTTER03
 [ADDAFTER], 10-ChipChop-2, 11-ChipChop
 [FINDLINESTART](Rivulet)DS_GUTTER03
@@ -23,46 +58,40 @@ CREATURES
 
 
 
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)DS_A01 : 1-WaterBlob-3, 2-WaterBlob-3
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet)DS_A01 : 1-WaterBlob-3, 2-WaterBlob-3
 
-(Yellow,White,Gourmand,Rivulet)DS_A09 : 2-WaterBlob-3
-(Red,Artificer,Spear)DS_A09 : 3-DropBug-2, 2-WaterBlob-3
-(Inv)DS_A09 : 3-DropBug-2
+(Spear,Artificer)DS_A15 : 2-ChipChop, 3-ChipChop
+(Red,Gourmand)DS_A15 : 2-ChipChop, 3-ChipChop, 4-ChipChop, 5-ChipChop
+(White,Yellow,Rivulet)DS_A15 : 2-ChipChop, 3-ChipChop, 4-ChipChop-2, 5-ChipChop-2
 
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)DS_A15 : 2-ChipChop, 3-ChipChop, 4-ChipChop-2, 5-ChipChop-2
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)DS_A15 : 2-ChipChop, 3-ChipChop, 4-ChipChop-2, 5-ChipChop-2
+(Spear,Artificer)DS_A19 : 2-ChipChop, 3-ChipChop
+(Red,Gourmand)DS_A19 : 2-ChipChop, 3-ChipChop-2
+(White,Yellow,Rivulet)DS_A19 : 2-ChipChop-2, 3-ChipChop-2
 
-(Artificer,Spear)DS_A19 : 2-ChipChop, 3-ChipChop
-(Yellow,White,Red,Gourmand,Rivulet)DS_A19 : 2-ChipChop-2, 3-ChipChop-2
+(Spear,Artificer)DS_A23 : 4-ChipChop-2
+(Red,Gourmand)DS_A23 : 4-ChipChop-3
+(White,Yellow,Rivulet)DS_A23 : 4-ChipChop-4
 
-(Artificer,Spear)DS_A21 : 6-Mimic-{14}, 7-Snail-2, 8-Snail-2, 2-ChipChop, 4-ChipChop
-(Yellow,White,Red,Gourmand)DS_A21 : 6-Mimic-{14}, 7-Snail-2, 8-Snail-2, 2-ChipChop, 4-ChipChop, 5-ChipChop
-(Rivulet)DS_A21 : 7-Snail-2, 8-Snail-2, 2-ChipChop, 3-ChipChop, 4-ChipChop, 5-ChipChop-2
+(Spear,Artificer,Red,Gourmand,White)DS_B02 : 4-WaterBlob, 7-WaterBlob-2, 2-MiniBlackLeech-5, 3-MiniBlackLeech-5, 5-MiniBlackLeech-5, 6-MiniBlackLeech-5, 8-MiniBlackLeech-5
 
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)DS_A23 : 4-ChipChop-3
-(Artificer,Spear,Red)DS_A23 : 4-ChipChop-2
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet)DS_B04 : 13-WaterBlob-2, 14-WaterBlob-2
 
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)DS_B02 : 4-WaterBlob, 7-WaterBlob-2, 2-MiniBlackLeech-5, 3-MiniBlackLeech-5, 5-MiniBlackLeech-5, 6-MiniBlackLeech-5, 8-MiniBlackLeech-5
-
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)DS_B04 : 13-WaterBlob-2, 14-WaterBlob-2
-
-(White,Red,Gourmand,Artificer,Spear,Rivulet)DS_B06 : 2-MiniBlackLeech-2, 3-MiniBlackLeech-2, 4-MiniBlackLeech-2, 5-MiniBlackLeech-2, 6-MiniBlackLeech-2, 7-MiniBlackLeech-4
+(Spear,Artificer,Red,Gourmand,White,Rivulet)DS_B06 : 2-MiniBlackLeech-2, 3-MiniBlackLeech-2, 4-MiniBlackLeech-2, 5-MiniBlackLeech-2, 6-MiniBlackLeech-2, 7-MiniBlackLeech-4
 (Yellow)DS_B06 : 2-MiniBlackLeech-2, 4-MiniBlackLeech-2, 7-MiniBlackLeech-3
 
-(White,Gourmand)DS_B07 : 4-Salamander, 5-Snail, 6-Snail, 9-Snail, 7-WaterBlob, 8-WaterBlob-2
-(Rivulet,Yellow)DS_B07 : 4-Eel, 5-Snail, 6-Snail, 9-Snail, 7-WaterBlob, 8-WaterBlob
-(Red,Artificer,Spear)DS_B07 : 3-DropBug-3, 4-Cyan-3, 5-Snail, 6-Snail, 9-Snail, 7-WaterBlob-2, 8-WaterBlob-2
-(Inv)DS_B07 : 3-DropBug-3, 4-Red-3, 5-Snail, 6-DropBug, 9-DropBug
+(Red,Gourmand,White)DS_B10 : 2-ChipChop, 3-ChipChop, 4-ChipChop
+(Yellow,Rivulet)DS_B10 : 2-ChipChop-2, 3-ChipChop, 4-ChipChop
 
-(Yellow,White,Red,Gourmand,Rivulet)DS_B10 : 2-ChipChop, 3-ChipChop, 4-ChipChop
+(Red,Gourmand,White,Yellow,Rivulet)DS_RIVSTART : 3-WaterBlob-2, 4-WaterBlob, 5-WaterBlob, 6-WaterBlob-2
 
-(Yellow,White,Red,Gourmand,Rivulet)DS_RIVSTART : 3-WaterBlob-2, 4-WaterBlob, 5-WaterBlob, 6-WaterBlob-2
-
-(Red,Artificer,Spear)DS_GUTTER03 : 7-DropBug-2, 8-Snail-3, 9-Snail-3, 9-Eel-{PreCycle}, 10-ChipChop-3, 11-ChipChop-3
-
-(Yellow,White,Rivulet)DS_GUTTER05 : 5-ChipChop, 6-ChipChop, 7-ChipChop, 8-ChipChop
-(Red,Gourmand)DS_GUTTER05 : 2-ChipChop, 4-ChipChop, 5-ChipChop, 8-ChipChop, 11-ChipChop
-(Artificer,Spear)DS_GUTTER05 : 4-ChipChop, 5-ChipChop, 6-ChipChop, 7-ChipChop, 8-ChipChop, 9-ChipChop, 11-ChipChop
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet)LINEAGE : DS_GUTTER05 : 5 : ChipChop-0
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet)LINEAGE : DS_GUTTER05 : 6 : ChipChop-0
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet)LINEAGE : DS_GUTTER05 : 7 : ChipChop-0
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet)LINEAGE : DS_GUTTER05 : 8 : ChipChop-0
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet)LINEAGE : DS_GUTTER05 : 9 : ChipChop-0
+(Spear,Artificer)LINEAGE : DS_GUTTER05 : 10 : ChipChop-0
+(Spear,Artificer,Red)LINEAGE : DS_GUTTER05 : 11 : ChipChop-0
+(Spear,Artificer,Red,Gourmand)LINEAGE : DS_GUTTER05 : 12 : ChipChop-0
 
 
 

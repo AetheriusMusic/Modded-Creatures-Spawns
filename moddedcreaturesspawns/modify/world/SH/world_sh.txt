@@ -1,49 +1,28 @@
 [FINDLINESTART]SH_D02 : 3-Tentacle Plant, 4-Tentacle Plant
-[REPLACE]SH_D02 : 4-Tentacle Plant, 5-Tentacle Plant
+[REPLACE]SH_D02 : 4-TentaclePlant, 5-TentaclePlant
 
 [MERGE]
 
 CREATURES
 
-(Artificer)LINEAGE : OFFSCREEN : 0 : KingMiros-0
-(Spear)LINEAGE : OFFSCREEN : 0 : KingMiros-0
+(Spear,Artificer)LINEAGE : OFFSCREEN : 0 : KingMiros-0
 
-//(Yellow,White)LINEAGE : OFFSCREEN : 0 : Joust-1, NONE-0.5, Joust-0
-//(Yellow,White)LINEAGE : OFFSCREEN : 0 : Joust-1, NONE-0.5, Joust-0
-//(Yellow,White)LINEAGE : OFFSCREEN : 0 : Joust-1, NONE-0.5, Joust-0
-//(Yellow)LINEAGE : OFFSCREEN : 0 : NONE-0.2, NONE-0.2, Joust-1, NONE-0.2, Joust-0
-//(White)LINEAGE : OFFSCREEN : 0 : NONE-0.4, NONE-0.4, Joust-1, NONE-0.4, Joust-0
-//(Red,Gourmand)LINEAGE : OFFSCREEN : 0 : Joust-1, NONE-0.5, Joust-0
-//(Red,Gourmand)LINEAGE : OFFSCREEN : 0 : Joust-1, NONE-0.5, Joust-0
-//(Red,Gourmand)LINEAGE : OFFSCREEN : 0 : Joust-1, NONE-0.5, Joust-0
-//(Red,Gourmand)LINEAGE : OFFSCREEN : 0 : Joust-1, NONE-0.5, Joust-0
-//(Red,Gourmand)LINEAGE : OFFSCREEN : 0 : Joust-1, NONE-0.5, Joust-0
-//(Red,Gourmand)LINEAGE : OFFSCREEN : 0 : NONE-0.4, NONE-0.4, Joust-1, NONE-0.4, Joust-0
-//(Artificer,Spear)LINEAGE : OFFSCREEN : 0 : Joust-1, NONE-0.4, Joust-0
-//(Artificer,Spear)LINEAGE : OFFSCREEN : 0 : Joust-1, NONE-0.4, Joust-0
-//(Artificer,Spear)LINEAGE : OFFSCREEN : 0 : Joust-1, NONE-0.4, Joust-0
-//(Artificer,Spear)LINEAGE : OFFSCREEN : 0 : Joust-1, NONE-0.4, Joust-0
-//(Artificer,Spear)LINEAGE : OFFSCREEN : 0 : Joust-1, NONE-0.4, Joust-0
-//(Artificer,Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.8, NONE-0.6, Joust-1, NONE-0.7, Joust-0
-//(Artificer,Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.8, NONE-0.6, Joust-1, NONE-0.7, Joust-0
-//(Artificer,Spear)LINEAGE : OFFSCREEN : 0 : NONE-0.8, NONE-0.6, Joust-1, NONE-0.7, Joust-0
-//(Rivulet)LINEAGE : OFFSCREEN : 0 : Joust-1, NONE-0.1, Joust-1, NONE-0.1, Joust-0
-//(Rivulet)LINEAGE : OFFSCREEN : 0 : Joust-1, NONE-0.1, Joust-1, NONE-0.1, Joust-0
-//(Rivulet)LINEAGE : OFFSCREEN : 0 : Joust-1, NONE-0.1, Joust-1, NONE-0.1, Joust-0
-//(Rivulet)LINEAGE : OFFSCREEN : 0 : Joust-1, NONE-0.1, Joust-1, NONE-0.1, Joust-0
-//(Rivulet)LINEAGE : OFFSCREEN : 0 : Joust-1, NONE-0.1, Joust-1, NONE-0.1, Joust-0
-//(Rivulet)LINEAGE : OFFSCREEN : 0 : Joust-1, NONE-0.1, Joust-1, NONE-0.1, Joust-0
-//(Rivulet)LINEAGE : OFFSCREEN : 0 : NONE-0.1, NONE-0.1, Joust-0
-//(Rivulet)LINEAGE : OFFSCREEN : 0 : NONE-0.1, NONE-0.1, Joust-0
+(Spear,Artificer,Red,Gourmand,Rivulet)LINEAGE : OFFSCREEN : 0 : Joust-0
+(Spear,Artificer,Red,Gourmand,Rivulet)LINEAGE : OFFSCREEN : 0 : Joust-0
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet)LINEAGE : OFFSCREEN : 0 : Joust-0
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet)LINEAGE : OFFSCREEN : 0 : Joust-0
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet)LINEAGE : OFFSCREEN : 0 : Joust-0
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet)LINEAGE : OFFSCREEN : 0 : NONE-0.3, Joust-0
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet)LINEAGE : OFFSCREEN : 0 : NONE-0.2, Joust-0
 
 
 
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : SH_B10 : 5 : MoleSalamander-0
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet)LINEAGE : SH_B10 : 5 : MoleSalamander-0
 
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : SH_C10 : 8 : KillerPillar-0.5, GlowPillar-0.3, KillerPillar-0
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : SH_C10 : 10 : GlowPillar-0
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet)LINEAGE : SH_C10 : 8 : KillerPillar-0.5, GlowPillar-0.3, KillerPillar-0
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet)LINEAGE : SH_C10 : 10 : GlowPillar-0
 
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : SH_D02 : 3 : MoleSalamander-0
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet)LINEAGE : SH_D02 : 3 : MoleSalamander-0
 
 
 

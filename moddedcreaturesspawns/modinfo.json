@@ -1,11 +1,11 @@
 {
   "id": "aetherius.moddedcreaturesspawns",
   "name": "Modded Creatures Spawns",
-  "version": "2.0",
+  "version": "2.1",
   "hide_version": false,
   "target_game_version": "v1.11.6",
   "authors": "Aetherius",
-  "description": "Adds various modded creatures spawns in Vanilla and Downpour regions, following Aetherius' headcanoncs.\u003CLINE\u003EMostly compatible with other mods that modify spawns and/or rooms.",
+  "description": "Adds various modded creatures spawns in Vanilla and Downpour regions for all slugcats except Inv and Watcher, following Aetherius' headcanoncs.\u003CLINE\u003EMostly compatible with other mods that modify spawns and/or rooms.",
   "youtube_trailer_id": "",
   "requirements": [
     "moreslugcats",
@@ -37,5 +37,5 @@
     "Creatures",
     "Downpour"
   ],
-  "checksum_override_version": false
+  "checksum_override_version": true
 }

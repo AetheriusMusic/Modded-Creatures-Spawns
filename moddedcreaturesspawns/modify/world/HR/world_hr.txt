@@ -1,10 +1,10 @@
 [FINDLINESTART]OFFSCREEN
 [ADDAFTER], 0-KingMiros-{VoidSea}-3
 
-[FINDLINESTART]HR_gbfi : 2-FireBug-{Voidsea}
+[FINDLINESTART]HR_gbfi : 2-FireBug-{VoidSea}
 [ADDAFTER], 3-ReaperLizard-{VoidSea}
-[FINDLINESTART]HR_hrce : 5-FireBug-{Voidsea}, 8-FireBug-{Voidsea}
-[ADDAFTER], 2-ReaperLizard-{VoidSea}
+[FINDLINESTART]HR_hrce : 5-FireBug-{VoidSea}, 8-FireBug-{VoidSea}
+[ADDAFTER], 6-ReaperLizard-{VoidSea}
 
 
 

@@ -9,15 +9,17 @@ CREATURES
 
 //+1 Bombardier Vulture for Hunter, added by the mod
 
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
-(Red,Artificer,Spear)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet,Saint)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
+(Spear,Artificer,Red)LINEAGE : OFFSCREEN : 0 : ScavengerSentinel-0
 
 
 
-(Yellow,White,Red,Gourmand,Rivulet,Saint)LINEAGE : SU_B12 : 4 : SilverLizard-0
+(Red,Gourmand,White,Yellow,Rivulet,Saint)LINEAGE : SU_B12 : 4 : SilverLizard-0
 
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : SU_C01 : 5 : SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-1, SurfaceSwimmer-0
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : SU_C01 : 6 : SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, SurfaceSwimmer-0.5, EggBug-1, SurfaceSwimmer-0
+(Spear,Artificer,Red,Gourmand,White,Yellow)LINEAGE : SU_C01 : 5 : SurfaceSwimmer-0.5, EggBug-0.5, MamaBug-0.5, SurfaceSwimmer-0
+(Spear,Artificer,Red,Gourmand,White,Yellow)LINEAGE : SU_C01 : 6 : MamaBug-0.5, SurfaceSwimmer-0.5, EggBug-0.5, MamaBug-0
+(Rivulet)LINEAGE : SU_C01 : 5 : SurfaceSwimmer-0
+(Rivulet)LINEAGE : SU_C01 : 6 : SurfaceSwimmer-0
 
 
 

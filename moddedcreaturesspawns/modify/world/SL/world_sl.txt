@@ -7,32 +7,32 @@ CREATURES
 
 
 
-(Yellow,White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : NONE-0.6, NONE-0.5, NONE-0.4, NONE-0.3, MiniLeviathan-0
-(Yellow,White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : MiniLeviathan-0
-(Yellow,White,Red,Gourmand)LINEAGE : OFFSCREEN : 0 : MiniLeviathan-0
-(White,Red,Gourmand,Rivulet)LINEAGE : OFFSCREEN : 0 : MiniLeviathan-0
-(Red,Gourmand,Rivulet)LINEAGE : OFFSCREEN : 0 : MiniLeviathan-0
-
 (Gourmand)LINEAGE : OFFSCREEN : 0 : Leviathan-0
+// Adding a Leviathan that isn't present in Vanilla
+
+(Red,Gourmand,Rivulet)LINEAGE : OFFSCREEN : 0 : MiniLeviathan-0
+(Red,Gourmand,White,Yellow)LINEAGE : OFFSCREEN : 0 : MiniLeviathan-0
+(Red,Gourmand,White,Yellow)LINEAGE : OFFSCREEN : 0 : MiniLeviathan-0
+(Red,Gourmand,White,Rivulet)LINEAGE : OFFSCREEN : 0 : MiniLeviathan-0
+(Red,Gourmand,White,Yellow)LINEAGE : OFFSCREEN : 0 : NONE-0.4, NONE-0.4, MiniLeviathan-0
 
 
 
-(Artificer,Spear,Red,Gourmand,Yellow,White,Rivulet)LINEAGE : SL_B01 : 4 : DivingBeetle-0.1, DivingBeetle-0.5, CommonEel-0
-(Artificer,Spear,Red,Gourmand)LINEAGE : SL_B01 : 5 : DivingBeetle-0
+(Red,Gourmand,White,Yellow,Rivulet)LINEAGE : SL_B01 : 2 : DivingBeetle-0
+(Red,Gourmand,White,Yellow,Rivulet)LINEAGE : SL_B01 : 4 : DivingBeetle-0.5, DivingBeetle-0.5, CommonEel-0
+(Red,Gourmand,Rivulet)LINEAGE : SL_B01 : 5 : DivingBeetle-0
 
-(Artificer,Spear,Red,Gourmand,Yellow,White,Rivulet)LINEAGE : SL_B01 : 3 : DivingBeetle-0
-(Artificer,Spear,Red,Gourmand)LINEAGE : SL_B01 : 4 : DivingBeetle-0
+(Red,Gourmand,White,Yellow,Rivulet,Saint)LINEAGE : SL_C02 : 8 : WaterSpitter-0.2, CommonEel-0.6, WaterSpitter-0
 
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : SL_C02 : 8 : WaterSpitter-0.2, CommonEel-0.6, WaterSpitter-0
+(Red,Gourmand,White,Yellow,Rivulet)LINEAGE : SL_C03 : 7 : WaterSpitter-0
 
-(White,Red,Gourmand,Artificer,Spear,Yellow,Rivulet)LINEAGE : SL_C03 : 7 : WaterSpitter-0
+(Red,Gourmand,White,Yellow,Rivulet,Saint)LINEAGE : SL_D01 : 9 : CommonEel-0
 
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : SL_D01 : 9 : CommonEel-0
+(Red,Gourmand,White,Yellow,Rivulet,Saint)LINEAGE : SL_H02 : 6 : CommonEel-0
 
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet,Saint)LINEAGE : SL_H02 : 6 : CommonEel-0
-
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : SL_H03 : 4 : DivingBeetle-0
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : SL_H03 : 6 : DivingBeetle-0.2, CommonEel-0.2, DivingBeetle-1, CommonEel-0
+(Red,Gourmand,White,Yellow,Rivulet)LINEAGE : SL_H03 : 4 : DivingBeetle-0.2, CommonEel-0
+(Red,Gourmand,White,Yellow,Rivulet)LINEAGE : SL_H03 : 6 : DivingBeetle-0
+(Red,Gourmand,White,Yellow,Rivulet)LINEAGE : SL_H03 : 8 : DivingBeetle-0
 
 
 

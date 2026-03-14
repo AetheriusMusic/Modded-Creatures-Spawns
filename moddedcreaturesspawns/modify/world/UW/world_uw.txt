@@ -1,21 +1,51 @@
 [FINDLINESTART](Rivulet)UW_C01RIV
 [ADDAFTER], 5-TubeWorm-{Bigrub}, 6-TubeWorm-{Bigrub}
 
-[FINDLINESTART](Yellow)UW_J02
-[ADDAFTER], 9-TubeWorm-{Bigrub}, 10-TubeWorm-{Bigrub}
-[FINDLINESTART](White)UW_J02
-[ADDAFTER], 9-TubeWorm-{Bigrub}
+[FINDLINESTART](X-Red,Artificer,Spear,Inv)UW_D06
+[REPLACE](X-Red,Artificer,Spear,Inv)UW_D06 : 4-Tube-2
+[FINDLINESTART](Spear)UW_D06
+[REPLACE](Spear)UW_D06 : 4-Tube
+[FINDLINESTART](Artificer)UW_D06
+[REPLACE](Artificer)UW_D06 : 4-Tube
+[FINDLINESTART](Red)UW_D06
+[REPLACE](Red)UW_D06 : 4-Tube
+[FINDLINESTART](Inv)UW_D06
+[REPLACE](Inv)UW_D06 : 4-Tube
+
 [FINDLINESTART](Gourmand)UW_J02
 [ADDAFTER], 9-TubeWorm-{Bigrub}
+[FINDLINESTART](White)UW_J02
+[ADDAFTER], 9-TubeWorm-{Bigrub}
+[FINDLINESTART](Yellow)UW_J02
+[ADDAFTER], 9-TubeWorm-{Bigrub}, 10-TubeWorm-{Bigrub}
 [FINDLINESTART](Rivulet)UW_J02RIV
-[ADDAFTER], 9-TubeWorm-{AltBigrub}, 10-TubeWorm-{Bigrub}, 11-TubeWorm-{Bigrub}, 12-TubeWorm-{Bigrub}
+[ADDAFTER], 9-TubeWorm-{Bigrub}, 10-TubeWorm-{Bigrub}, 11-TubeWorm-{Bigrub}, 12-TubeWorm-{Bigrub}
 
-//The Wall
+# The Wall
 
 [FINDLINESTART](X-Rivulet)UW_A02
-[ADDAFTER], 3-HunterSeeker-{Ignorecycle}
+[ADDAFTER], 3-HunterSeeker-{IgnoreCycle}
 [FINDLINESTART](Rivulet)UW_A02
 [ADDAFTER], 2-HunterSeeker-{Night}
+
+[FINDLINESTART]UW_E01 : 3-Blue, 2-White, 3-Cyan-{Night}, 4-Mimic-{18}, 5-Mimic-{16}
+[ADDAFTER], 7-Hoverfly-3, 8-Hoverfly-{AlternateForm,Night}-4
+
+[FINDLINESTART](Spear)UW_J01
+[REPLACE](Spear)UW_J01 : 3-Cyan-{IgnoreCycle}, 4-Cyan, 5-Cyan-{IgnoreCycle}, 6-Cyan-2, 7-Hoverfly, 8-Hoverfly, 9-Hoverfly-2, 10-Hoverfly-2
+[FINDLINESTART](Artificer)UW_J01
+[REPLACE](Artificer)UW_J01 : 3-Cyan-{IgnoreCycle}, 4-Cyan, 5-Cyan-{IgnoreCycle}, 6-Cyan-2, 7-Hoverfly, 8-Hoverfly, 9-Hoverfly-2, 10-Hoverfly-2
+[FINDLINESTART](Red)UW_J01
+[REPLACE](Red)UW_J01 : 3-Cyan-{IgnoreCycle}, 4-Cyan, 5-Cyan-{IgnoreCycle}, 6-Cyan-2, 7-Hoverfly, 8-Hoverfly, 9-Hoverfly-2, 10-Hoverfly-2, 5-AlphaOrange-{Night}
+[FINDLINESTART](Gourmand)UW_J01
+[REPLACE](Gourmand)UW_J01 : 3-Cyan-{Night}, 4-Cyan-{Night}, 5-Cyan-{Night}, 3-Yellow, 4-Yellow, 5-Yellow, 6-Yellow-2, 7-Hoverfly, 8-Hoverfly, 9-Hoverfly-2, 10-Hoverfly-2, 5-AlphaOrange-{IgnoreCycle}
+[FINDLINESTART](White)UW_J01
+[REPLACE](White)UW_J01 : 3-Cyan-{Night}, 4-Cyan-{Night}, 5-Cyan-{Night}, 3-Yellow, 4-Yellow, 5-Yellow, 6-Yellow-2, 7-Hoverfly, 8-Hoverfly, 9-Hoverfly-2, 10-Hoverfly-2, 5-AlphaOrange-{IgnoreCycle}
+[FINDLINESTART](Yellow)UW_J01
+[REPLACE](Yellow)UW_J01 : 3-Yellow-{IgnoreCycle}, 4-Yellow-{IgnoreCycle}, 5-Yellow-{IgnoreCycle}, 6-Yellow-{IgnoreCycle}, 7-Hoverfly, 8-Hoverfly, 9-Hoverfly-2, 10-Hoverfly-2, 5-AlphaOrange-{IgnoreCycle}
+[FINDLINESTART](Rivulet)UW_J01
+[REPLACE](Rivulet)UW_J01 : 3-Yellow-{IgnoreCycle}, 4-Yellow-{IgnoreCycle}, 5-Yellow-{IgnoreCycle}, 6-Yellow-{IgnoreCycle}, 7-Hoverfly, 8-Hoverfly, 9-Hoverfly, 10-Hoverfly-2, 5-AlphaOrange-{IgnoreCycle}
+
 
 
 [MERGE]
@@ -24,22 +54,19 @@ CREATURES
 
 
 
-(Artificer)LINEAGE : OFFSCREEN : 0 : KingMiros-0
-(Spear)LINEAGE : OFFSCREEN : 0 : KingMiros-0
+(Spear,Artificer)LINEAGE : OFFSCREEN : 0 : KingMiros-0
 
 
 
 (Red,Gourmand,White,Yellow)UW_C01 : 2-Tube-2, 4-Daddy, 5-TubeWorm-{Bigrub}
 
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)UW_C06 : 2-Tube, 3-Tube, 4-Tube, 6-Tube, 2-ExplodingMosquito, 3-ExplodingMosquito, 4-ExplodingMosquito
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet)UW_C06 : 2-Tube, 3-Tube, 4-Tube, 6-Tube, 2-ExplodingMosquito, 3-ExplodingMosquito, 4-ExplodingMosquito
 
-(X-Red,Artificer,Spear,Inv)UW_D06 : 4-Tube-2
-(Red,Artificer,Spear,Inv)UW_D06 : 4-Tube
-(Yellow,White,Red,Gourmand,Rivulet)LINEAGE : UW_D06 : 3 : MimicStar-1, NONE-0.4, NONE-0.3, MimicStar-1, NONE-0.4, NONE-0.3, MimicStar-0
+(Red,Gourmand,White,Yellow,Rivulet)LINEAGE : UW_D06 : 3 : MimicStar-0
 
-(Yellow,White,Red,Gourmand,Artificer,Spear)LINEAGE : UW_D02 : 5 : ExplodingMosquito-0
-(Yellow,White,Red,Gourmand,Artificer,Spear)LINEAGE : UW_D02 : 6 : ExplodingMosquito-0
-(Yellow,White,Red,Gourmand,Artificer,Spear)LINEAGE : UW_D02 : 7 : ExplodingMosquito-0
+(Spear,Artificer,Red,Gourmand,White,Yellow)LINEAGE : UW_D02 : 5 : ExplodingMosquito-0
+(Spear,Artificer,Red,Gourmand,White,Yellow)LINEAGE : UW_D02 : 6 : ExplodingMosquito-0
+(Spear,Artificer,Red,Gourmand,White,Yellow)LINEAGE : UW_D02 : 7 : ExplodingMosquito-0
 
 (Spear)LINEAGE : UW_I01 : 7 : ExplodingMosquito-0
 (Spear)LINEAGE : UW_I01 : 8 : ExplodingMosquito-0
@@ -48,13 +75,7 @@ CREATURES
 
 //The Wall
 
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)UW_C07 : 2-ExplodingMosquito, 3-ExplodingMosquito, 4-ExplodingMosquito-{Night}, 5-ExplodingMosquito-{Night}
-
-(Yellow,White,Red,Gourmand,Artificer,Spear,Rivulet)UW_E01 : 3-Blue, 2-White, 3-Cyan-{Night}, 4-Mimic-{18}, 5-Mimic-{16}, 6-Hoverfly-2, 7-Hoverfly-2, 8-Hoverfly-2
-
-(Red,Artificer,Spear)UW_J01 : 3-Cyan-{Ignorecycle}, 4-Cyan, 5-Cyan-{Ignorecycle}, 6-Cyan-2, 7-Hoverfly-1, 8-Hoverfly-1, 9-Hoverfly-2, 10-Hoverfly-2
-(White,Gourmand)UW_J01 : 3-Cyan-{Night}, 4-Cyan-{Night}, 3-Yellow, 4-Yellow, 6-Yellow-2, 7-Hoverfly-1, 8-Hoverfly-1, 9-Hoverfly-2, 10-Hoverfly-2, 5-AlphaOrange-{Ignorecycle}
-(Yellow,Rivulet)UW_J01 : 3-Yellow-{Ignorecycle}, 4-Yellow-{Ignorecycle}, 6-Yellow-{Ignorecycle}, 7-Hoverfly-1, 8-Hoverfly-1, 9-Hoverfly-2, 10-Hoverfly-2, 5-AlphaOrange-{Ignorecycle}
+(Spear,Artificer,Red,Gourmand,White,Yellow,Rivulet)UW_C07 : 2-ExplodingMosquito, 3-ExplodingMosquito, 4-ExplodingMosquito-{Night}, 5-ExplodingMosquito-{Night}
 
 
 

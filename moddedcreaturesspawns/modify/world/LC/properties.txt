@@ -14,7 +14,6 @@
 
 [FINDLINESTART]Room_Attr: LC_A02
 [ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Avoid,
-
 [FINDLINESTART]Room_Attr: LC_C08
 [ADDAFTER]BombadierVulture-Forbidden,FatFireFly-Like,
 [FINDLINESTART]Room_Attr: LC_C10

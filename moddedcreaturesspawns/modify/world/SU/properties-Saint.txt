@@ -1,15 +1,15 @@
 [FINDLINESTART]Room_Attr: SU_A45
 [ADDAFTER]ScavengerSentinel-Avoid,
-[FINDLINESTART]Room_Attr: SU_C02
-[ADDAFTER]ScavengerSentinel-Stay,
 [FINDLINESTART]Room_Attr: SU_A07
 [ADDAFTER]ScavengerSentinel-Avoid,
+[FINDLINESTART]Room_Attr: SU_C02
+[ADDAFTER]ScavengerSentinel-Stay,
 
-[FINDLINESTART]Room_Attr: SU_A63
-[ADDAFTER]SilverLizard-Avoid,
-[FINDLINESTART]Room_Attr: SU_B12
-[ADDAFTER]SilverLizard-Like,
 [FINDLINESTART]Room_Attr: SU_A40
 [ADDAFTER]SilverLizard-Like,
+[FINDLINESTART]Room_Attr: SU_A63
+[ADDAFTER]SilverLizard-Avoid,
 [FINDLINESTART]Room_Attr: SU_B07
+[ADDAFTER]SilverLizard-Like,
+[FINDLINESTART]Room_Attr: SU_B12
 [ADDAFTER]SilverLizard-Like,
