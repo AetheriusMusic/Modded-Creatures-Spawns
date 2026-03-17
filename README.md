@@ -1,6 +1,6 @@
 # MODDED CREATURES SPAWNS
 
-### This is a Rain World mod that adds modded creatures spawns into **Vanilla** and **Downpour** regions (not Watcher ones).
+### This is a Rain World mod that adds modded creatures spawns in **Vanilla** and **Downpour** regions for every slugcat except Inv and Watcher.
 
 Instead of modifying existing dens, the mod adds new dens to pre-existing rooms, so that it can be compatible with most other mods.
 
