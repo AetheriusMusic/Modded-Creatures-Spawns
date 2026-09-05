@@ -1,9 +1,9 @@
 {
   "Title": "Modded Creatures Spawns",
-  "Description": "Adds various modded creatures spawns in Vanilla and Downpour regions for all slugcats except Inv and Watcher, following Aetherius' headcanoncs.\u003CLINE\u003EMostly compatible with other mods that modify spawns and/or rooms.",
+  "Description": "Adds various modded creatures spawns in Vanilla and Downpour regions for all slugcats except Inv and Watcher, following Aetherius\u0027 headcanoncs.\u003CLINE\u003EMostly compatible with other mods that modify spawns and/or rooms.",
   "ID": "aetherius.moddedcreaturesspawns",
-  "Version": "2.1",
-  "TargetGameVersion": "v1.11.6",
+  "Version": "2.1.2",
+  "TargetGameVersion": "v1.11.8",
   "Requirements": "moreslugcats,Croken.bombardier-vulture,mosquitoes,bebra.gregtech_lizard,Croken.Mimic-Long-Legs,com.rainworldgame.shroudedassembly.plugin,reaperlizard,lb-fgf-m4r-ik.modpack,nonescreatures",
   "RequirementNames": "More Slugcats Expansion,Bombardier Vulture,Mosquitoes,Electric Lizard,Mimic Long Legs,Shrouded Assembly Code,Reaper Lizard,The M4rblelous Entity Pack,None\u0027s Creature Pack",
   "Authors": "Aetherius",
